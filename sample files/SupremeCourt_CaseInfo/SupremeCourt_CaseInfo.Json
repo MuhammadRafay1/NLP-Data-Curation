@@ -1,0 +1,199 @@
+{
+  "Cases": [
+    {
+      "Case_No": "Crl.P.L.A.1413/2025",
+      "Case_Title": "Asim Bajwa v. The State through Federal Prosecutor, Islamabad and another",
+      "Status": "Disposed",
+      "Institution_Date": "27/08/2025",
+      "Disposal_Date": "03/09/2025",
+
+      "Advocates": {
+        "ASC": "Abdul Rahman Hur (ASC)",
+        "AOR": "Jawaid Masood Tahir Bhatti (AOR)",
+        "Prosecutor": "P.G. Islamabad (-)"
+      },
+
+      "Petition_Appeal_Memo": {
+        "File": "memopdfs/memo_CrlPLA1413-2025.pdf",
+        "Type": "Digital Copy"
+      },
+
+      "History": [
+        {
+          "Fixation_Date": "03/09/2025",
+          "Result": "Dismissed as Not Pressed",
+          "Bench": "REGULAR BENCH - II",
+          "Judges": [
+            "JUSTICE SYED HASAN AZHAR RIZVI",
+            "JUSTICE MALIK SHAHZAD AHMAD KHAN"
+          ],
+          "List_Type": "Final Cause List No. 38",
+          "Serial_No": 9,
+          "Location": "Islamabad"
+        }
+      ],
+
+      "Judgement_Order": {
+        "File": "judgementpdfs/judgement_CrlPLA1413-2025.pdf",
+        "Type": "Judgement/Order PDF"
+      }
+    },
+
+    {
+      "Case_No": "Const.P.1245/2025",
+      "Case_Title": "Rehana Nazir v. Government of Punjab",
+      "Status": "Pending",
+      "Institution_Date": "15/07/2025",
+      "Disposal_Date": "NaN",
+
+      "Advocates": {
+        "ASC": "Syed Kamran Ali (ASC)",
+        "AOR": "Shahbaz Hussain (AOR)",
+        "Prosecutor": "N/A"
+      },
+
+      "Petition_Appeal_Memo": {
+        "File": "memopdfs/memo_ConstP1245-2025.pdf",
+        "Type": "Digital Copy"
+      },
+
+      "History": [
+        {
+          "Fixation_Date": "10/09/2025",
+          "Result": "Adjourned",
+          "Bench": "REGULAR BENCH - I",
+          "Judges": [
+            "JUSTICE YAHYA AFRIDI",
+            "JUSTICE AMINUDDIN KHAN"
+          ],
+          "List_Type": "Cause List No. 12",
+          "Serial_No": 4,
+          "Location": "Lahore"
+        }
+      ],
+
+      "Judgement_Order": {
+        "File": "NaN",
+        "Type": "NaN"
+      }
+    },
+
+    {
+      "Case_No": "C.A.947/2024",
+      "Case_Title": "Commissioner Inland Revenue v. Mayfair Spinning Mills Ltd.",
+      "Status": "Disposed",
+      "Institution_Date": "19/07/2024",
+      "Disposal_Date": "02/09/2025",
+
+      "Advocates": {
+        "ASC": "Aftab Maqsood (ASC)",
+        "AOR": "NaN",
+        "Prosecutor": "Attorney General Office"
+      },
+
+      "Petition_Appeal_Memo": {
+        "File": "memopdfs/memo_CA947-2024.pdf",
+        "Type": "Scanned Copy"
+      },
+
+      "History": [
+        {
+          "Fixation_Date": "02/09/2025",
+          "Result": "Appeal Dismissed",
+          "Bench": "FULL BENCH",
+          "Judges": [
+            "JUSTICE SYED HASAN AZHAR RIZVI",
+            "JUSTICE SHAHID WAHEED",
+            "JUSTICE ALI ZIA BAJWA"
+          ],
+          "List_Type": "Supplementary List No. 7",
+          "Serial_No": 15,
+          "Location": "Islamabad"
+        }
+      ],
+
+      "Judgement_Order": {
+        "File": "judgementpdfs/judgement_CA947-2024.pdf",
+        "Type": "Judgement/Order PDF"
+      }
+    },
+
+    {
+      "Case_No": "H.R.C.511/2025",
+      "Case_Title": "Human Rights Cell Suo Moto v. SHO Islamabad",
+      "Status": "Pending",
+      "Institution_Date": "05/09/2025",
+      "Disposal_Date": "NaN",
+
+      "Advocates": {
+        "ASC": "NaN",
+        "AOR": "NaN",
+        "Prosecutor": "Advocate General Islamabad"
+      },
+
+      "Petition_Appeal_Memo": {
+        "File": "memopdfs/memo_HRC511-2025.pdf",
+        "Type": "Digital Copy"
+      },
+
+      "History": [
+        {
+          "Fixation_Date": "08/09/2025",
+          "Result": "Notice Issued",
+          "Bench": "SPECIAL BENCH - HUMAN RIGHTS",
+          "Judges": [
+            "CHIEF JUSTICE OF PAKISTAN",
+            "JUSTICE SARDAR TARIQ MASOOD"
+          ],
+          "List_Type": "Cause List No. 21",
+          "Serial_No": 1,
+          "Location": "Islamabad"
+        }
+      ],
+
+      "Judgement_Order": {
+        "File": "NaN",
+        "Type": "NaN"
+      }
+    },
+
+    {
+      "Case_No": "Crl.A.333/2023",
+      "Case_Title": "State v. Shabbir Ahmed",
+      "Status": "Disposed",
+      "Institution_Date": "11/12/2023",
+      "Disposal_Date": "01/09/2025",
+
+      "Advocates": {
+        "ASC": "Muhammad Faisal Siddiqui (ASC)",
+        "AOR": "NaN",
+        "Prosecutor": "Prosecutor General Punjab"
+      },
+
+      "Petition_Appeal_Memo": {
+        "File": "memopdfs/memo_CrlA333-2023.pdf",
+        "Type": "Digital Copy"
+      },
+
+      "History": [
+        {
+          "Fixation_Date": "01/09/2025",
+          "Result": "Conviction Upheld",
+          "Bench": "REGULAR BENCH - III",
+          "Judges": [
+            "JUSTICE MUNIB AKHTAR",
+            "JUSTICE MUHAMMAD ALI MAZAR"
+          ],
+          "List_Type": "Final Cause List No. 19",
+          "Serial_No": 6,
+          "Location": "Karachi"
+        }
+      ],
+
+      "Judgement_Order": {
+        "File": "judgementpdfs/judgement_CrlA333-2023.pdf",
+        "Type": "Judgement/Order PDF"
+      }
+    }
+  ]
+}

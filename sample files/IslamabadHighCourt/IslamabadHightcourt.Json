@@ -1,0 +1,95 @@
+{
+  "Cases": [
+    {
+      "Sr": 1,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "W.P. 3342/2025 Misc. Other (DB)",
+      "Case_Title": "Ahmed Omer Khan - VS - FBR & others",
+      "Bench": [
+        "Honourable Mr. Justice Arbab Muhammad Tahir",
+        "Honourable Mr. Justice Inaam Ameen Minhas"
+      ],
+      "Hearing_Date": "WED 03-09-2025 (FC)",
+      "Case_Category": "NOTICE CASES",
+      "Status": "Decided",
+
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "03-09-2025",
+          "Bench": [
+            "Honourable Mr. Justice Arbab Muhammad Tahir",
+            "Honourable Mr. Justice Inaam Ameen Minhas"
+          ],
+          "List_Type": "Supplimentry List",
+          "Case_Stage": "NOTICE CASES",
+          "Short_Order": "Disposed Of",
+          "Disposal_Date": "03-09-2025",
+          "Order_File": "orders/order_WP3342-2025.pdf"
+        }
+      ],
+
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "W.P. 3342/2025 Misc. Other (DB)",
+          "Case_Title": "Ahmed Omer Khan - VS - FBR & others",
+          "Doc_Type": "N/A",
+          "Parties": "Ahmed Omer Khan vs FBR & others",
+          "Description": "No comments available",
+          "View_File": "comments/comment_WP3342-2025.pdf"
+        }
+      ],
+
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+
+      "Details": {
+        "Case_No": "W.P. 3342/2025 Misc. Other (DB)",
+        "Case_Status": "Decided",
+        "Hearing_Date": "03-09-2025 (FC)",
+        "Case_Stage": "N/A",
+        "Tentative_Date": "N/A",
+        "Short_Order": "Disposed Of",
+        "Before_Bench": [
+          "Honourable Mr. Justice Arbab Muhammad Tahir",
+          "Honourable Mr. Justice Inaam Ameen Minhas"
+        ],
+        "Case_Title": "Ahmed Omer Khan - VS - FBR & others",
+        "Advocates": {
+          "Petitioner": "Junaid Jahangir",
+          "Respondent": "N/A"
+        },
+        "Case_Description": "Petitioner, being the owner of property in Mall of Islamabad under the banner of Bahria Town, is aggrieved of auction notice dated 22.08.2025 published in Daily Jang. Petitioner further seeks directions to the FBR and CIR to restrain them from attaching or taking any coercive action against the said property.",
+
+        "Disposal_Information": {
+          "Disposed_Status": "Decided (Disposed Of)",
+          "Case_Disposal_Date": "03-09-2025",
+          "Disposal_Bench": [
+            "Honourable Mr. Justice Arbab Muhammad Tahir",
+            "Honourable Mr. Justice Inaam Ameen Minhas"
+          ],
+          "Consigned_Date": "N/A"
+        },
+
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    }
+  ]
+}

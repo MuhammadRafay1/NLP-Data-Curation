@@ -1,0 +1,231 @@
+{
+  "metadata": {
+    "file_name": "SindhCourt.json",
+    "created_on": "2025-09-09",
+    "source": "Sindh High Court Case Search Portal",
+    "url": "https://cases.shc.gov.pk/",
+    "description": "Sindh High Court case metadata extracted from Karachi, Sukkur, Hyderabad, and Larkana benches."
+  },
+  "cases": [
+    {
+      "sr_no": 1,
+      "court": "Karachi",
+      "case_name": "Civil Revision",
+      "case_no": 102,
+      "case_year": 2024,
+      "bench": "REGULAR BENCH - I",
+      "circuit_code": "Karachi",
+      "case_title": "Mst. Hina v. Pakistan Railways",
+      "matter": "Property dispute",
+      "status": "Pending",
+      "last_hearing": "12-AUG-25",
+      "next_date": "20-SEP-25",
+      "disposal_date": "NA",
+      "tagline": "Railway land allotment dispute still pending",
+      "details": {
+        "profile": {
+          "case_id": 8001,
+          "institution_date": "05-MAY-24",
+          "disposal_date": "NA",
+          "disposal_bench": "NA",
+          "nature_of_disposal": "NA"
+        },
+        "last_hearing": {
+          "date": "12-AUG-25",
+          "list": "Cause List #45",
+          "stage": "For Arguments",
+          "bench": "Justice Ali Zafar",
+          "remarks": "Adjourned for further hearing"
+        },
+        "parties": [
+          { "party_no": 1, "name": "Mst. Hina (Petitioner)" },
+          { "party_no": 2, "name": "Pakistan Railways (Respondent)" }
+        ],
+        "advocates": {
+          "applicant": [{ "name": "Adv. Sanaullah", "ledger_no": "ADVO-301" }],
+          "respondent": [{ "name": "Govt Advocate", "ledger_no": "ADVO-0002" }]
+        },
+        "documents": {
+          "petition_memo": "shariahJudgementPDFs/memo_102_2024.pdf",
+          "judgement_order": "NA"
+        }
+      }
+    },
+    {
+      "sr_no": 2,
+      "court": "Sukkur",
+      "case_name": "Criminal Appeal",
+      "case_no": 55,
+      "case_year": 2023,
+      "bench": "REGULAR BENCH - II",
+      "circuit_code": "Sukkur",
+      "case_title": "Asghar Ali v. The State",
+      "matter": "Appeal against conviction",
+      "status": "Disposed",
+      "last_hearing": "10-JUL-25",
+      "next_date": "NA",
+      "disposal_date": "10-JUL-25",
+      "tagline": "Appeal dismissed, conviction upheld",
+      "details": {
+        "profile": {
+          "case_id": 8002,
+          "institution_date": "12-JAN-23",
+          "disposal_date": "10-JUL-25",
+          "disposal_bench": "Justice Khalid Mehmood",
+          "nature_of_disposal": "Dismissed"
+        },
+        "last_hearing": {
+          "date": "10-JUL-25",
+          "list": "Cause List #38",
+          "stage": "For Judgment",
+          "bench": "Justice Khalid Mehmood",
+          "remarks": "Appeal dismissed"
+        },
+        "parties": [
+          { "party_no": 1, "name": "Asghar Ali (Appellant)" },
+          { "party_no": 2, "name": "The State (Respondent)" }
+        ],
+        "advocates": {
+          "applicant": [{ "name": "Adv. Rizwan Ahmed", "ledger_no": "ADVO-500" }],
+          "respondent": [{ "name": "State Prosecutor", "ledger_no": "NA" }]
+        },
+        "documents": {
+          "petition_memo": "shariahJudgementPDFs/memo_55_2023.pdf",
+          "judgement_order": "shariahJudgementPDFs/judgement_55_2023.pdf"
+        }
+      }
+    },
+    {
+      "sr_no": 3,
+      "court": "Hyderabad",
+      "case_name": "Civil Petition",
+      "case_no": 210,
+      "case_year": 2022,
+      "bench": "REGULAR BENCH - I",
+      "circuit_code": "Hyderabad",
+      "case_title": "Farzana v. Education Dept.",
+      "matter": "Service matter (transfer issue)",
+      "status": "Pending",
+      "last_hearing": "02-SEP-25",
+      "next_date": "14-OCT-25",
+      "disposal_date": "NA",
+      "tagline": "Teacher transfer petition under review",
+      "details": {
+        "profile": {
+          "case_id": 8003,
+          "institution_date": "25-SEP-22",
+          "disposal_date": "NA",
+          "disposal_bench": "NA",
+          "nature_of_disposal": "NA"
+        },
+        "last_hearing": {
+          "date": "02-SEP-25",
+          "list": "Cause List #21",
+          "stage": "For Hearing",
+          "bench": "Justice Mehmood Alam",
+          "remarks": "Next date fixed"
+        },
+        "parties": [
+          { "party_no": 1, "name": "Farzana (Petitioner)" },
+          { "party_no": 2, "name": "Education Dept. Sindh (Respondent)" }
+        ],
+        "advocates": {
+          "applicant": [{ "name": "Adv. Ayesha Khan", "ledger_no": "ADVO-701" }],
+          "respondent": [{ "name": "Govt Advocate Hyderabad", "ledger_no": "NA" }]
+        },
+        "documents": {
+          "petition_memo": "shariahJudgementPDFs/memo_210_2022.pdf",
+          "judgement_order": "NA"
+        }
+      }
+    },
+    {
+      "sr_no": 4,
+      "court": "Larkana",
+      "case_name": "Criminal Bail Application",
+      "case_no": 89,
+      "case_year": 2025,
+      "bench": "REGULAR BENCH - II",
+      "circuit_code": "Larkana",
+      "case_title": "Shahbaz v. The State",
+      "matter": "Bail Application",
+      "status": "Pending",
+      "last_hearing": "01-SEP-25",
+      "next_date": "18-SEP-25",
+      "disposal_date": "NA",
+      "tagline": "Bail application under consideration",
+      "details": {
+        "profile": {
+          "case_id": 8004,
+          "institution_date": "15-AUG-25",
+          "disposal_date": "NA",
+          "disposal_bench": "NA",
+          "nature_of_disposal": "NA"
+        },
+        "last_hearing": {
+          "date": "01-SEP-25",
+          "list": "Cause List #5",
+          "stage": "For Bail Hearing",
+          "bench": "Justice Saima Akhtar",
+          "remarks": "Notice issued to State"
+        },
+        "parties": [
+          { "party_no": 1, "name": "Shahbaz (Applicant)" },
+          { "party_no": 2, "name": "The State (Respondent)" }
+        ],
+        "advocates": {
+          "applicant": [{ "name": "Adv. Tariq Malik", "ledger_no": "ADVO-901" }],
+          "respondent": [{ "name": "State Prosecutor", "ledger_no": "NA" }]
+        },
+        "documents": {
+          "petition_memo": "shariahJudgementPDFs/memo_89_2025.pdf",
+          "judgement_order": "NA"
+        }
+      }
+    },
+    {
+      "sr_no": 5,
+      "court": "Karachi",
+      "case_name": "Civil Misc Application",
+      "case_no": 300,
+      "case_year": 2021,
+      "bench": "REGULAR BENCH - III",
+      "circuit_code": "Karachi",
+      "case_title": "Union Council v. Private Builder",
+      "matter": "Illegal construction",
+      "status": "Disposed",
+      "last_hearing": "20-JUN-24",
+      "next_date": "NA",
+      "disposal_date": "20-JUN-24",
+      "tagline": "Illegal construction stayed and removed",
+      "details": {
+        "profile": {
+          "case_id": 8005,
+          "institution_date": "11-FEB-21",
+          "disposal_date": "20-JUN-24",
+          "disposal_bench": "Justice M. Arshad",
+          "nature_of_disposal": "Disposed of with directions"
+        },
+        "last_hearing": {
+          "date": "20-JUN-24",
+          "list": "Cause List #15",
+          "stage": "Final Hearing",
+          "bench": "Justice M. Arshad",
+          "remarks": "Matter disposed"
+        },
+        "parties": [
+          { "party_no": 1, "name": "Union Council (Petitioner)" },
+          { "party_no": 2, "name": "Private Builder (Respondent)" }
+        ],
+        "advocates": {
+          "applicant": [{ "name": "Adv. Bilal Khan", "ledger_no": "ADVO-1202" }],
+          "respondent": [{ "name": "Adv. Nadeem", "ledger_no": "ADVO-1215" }]
+        },
+        "documents": {
+          "petition_memo": "shariahJudgementPDFs/memo_300_2021.pdf",
+          "judgement_order": "shariahJudgementPDFs/judgement_300_2021.pdf"
+        }
+      }
+    }
+  ]
+}

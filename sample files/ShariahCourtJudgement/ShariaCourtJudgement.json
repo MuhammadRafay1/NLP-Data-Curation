@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "file_name": "case_summary_data.json",
+    "file_type": "json",
+    "total_cases": 5,
+    "created_on": "2025-09-09",
+    "source": "Supreme Court / Federal Shariat Court Data",
+    "description": "This file contains structured case summary data including case details, judges, judgment dates, citations, and downloadable case judgments."
+  },
+  "cases": [
+    {
+      "sr_no": 1,
+      "case_no": "SHARIAT PETITION NO. 10/I OF 2023",
+      "case_title": "Syeda Fouzia Jalaal Shah Vs. Federation of Pakistan & Others",
+      "subject": "NA",
+      "author_judge": "MR. JUSTICE IQBAL HAMEEDUR RAHMAN, CHIEF JUSTICE MR. JUSTICE KHADIM HUSSAIN M. SHAIKH MR. JUSTICE DR. SYED MUHAMMAD ANWER MR. JUSTICE AMEER MUHAMMAD KHAN",
+      "judgment_date": "19-03-2025",
+      "sections": "NA",
+      "citations": "NA",
+      "download_pdf": "shariahJudgementPDFs/SHARIAT_PETITION_NO_10_I_OF_2023.pdf",
+      "tagline": "NA"
+    },
+    {
+      "sr_no": 2,
+      "case_no": "CRIMINAL REVISON NO.01-L OF 2024",
+      "case_title": "Sofia Aslam versus 1. The State 2. Muhammad Boota",
+      "subject": "NA",
+      "author_judge": "JUSTICE IQBAL HAMEEDUR RAHMAN, CHIEF JUSTICE",
+      "judgment_date": "NA",
+      "sections": "NA",
+      "citations": "NA",
+      "download_pdf": "shariahJudgementPDFs/CRIMINAL_REVISON_NO_01_L_OF_2024.pdf",
+      "tagline": "NA"
+    },
+    {
+      "sr_no": 3,
+      "case_no": "CRIMINAL REVISON NO.01-L OF 2025",
+      "case_title": "Muhammad Ramzan versus 1. The State 2. Rukhsana Bibi",
+      "subject": "NA",
+      "author_judge": "JUSTICE IQBAL HAMEEDUR RAHMAN, CHIEF JUSTICE",
+      "judgment_date": "NA",
+      "sections": "NA",
+      "citations": "NA",
+      "download_pdf": "shariahJudgementPDFs/CRIMINAL_REVISON_NO_01_L_OF_2025.pdf",
+      "tagline": "NA"
+    },
+    {
+      "sr_no": 4,
+      "case_no": "CRIMINAL REVISION NO.01-K OF 2023",
+      "case_title": "MST. SASSI HIZBULLAH VERSUS 1. JUNAID AHMED KHAN 2. THE STATE",
+      "subject": "NA",
+      "author_judge": "MR. JUSTICE KHADIM HUSSAIN M. SHAIKH",
+      "judgment_date": "NA",
+      "sections": "NA",
+      "citations": "NA",
+      "download_pdf": "shariahJudgementPDFs/CRIMINAL_REVISION_NO_01_K_OF_2023.pdf",
+      "tagline": "NA"
+    },
+    {
+      "sr_no_

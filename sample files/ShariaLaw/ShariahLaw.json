@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "file_name": "ShariahLaw.json",
+    "file_type": "json",
+    "total_rules_codes": 9,
+    "total_acts_ordinances": 7,
+    "created_on": "2025-09-09",
+    "source": "Federal Shariat Court of Pakistan",
+    "description": "This file contains structured metadata about Rules & Codes and Acts/Ordinances relevant to Shariah law, linked with their downloadable PDF documents."
+  },
+  "rules_codes": [
+    {
+      "sr_no": 1,
+      "title": "Rules of Business, 1973 (As Amended up to 11th September, 2024)",
+      "download_pdf": "ShariahLawsPDFs/Rules_of_Business_1973.pdf",
+      "tagline": "NA"
+    },
+    {
+      "sr_no": 2,
+      "title": "Civil Servants (Conduct) Rules,1964 (Estacode 21 edition)",
+      "download_pdf": "ShariahLawsPDFs/Civil_Servants_Conduct_Rules_1964.pdf",
+      "tagline": "NA"
+    },
+    {
+      "sr_no": 3,
+      "title": "Civil Servants (Efficiency and Discipline) Rules, 2020 (Estacode 21 edition)",
+      "download_pdf": "ShariahLawsPDFs/Civil_Servants_Efficiency_and_Discipline_Rules_2020.pdf",
+      "tagline": "NA"
+    },
+    {
+      "sr_no": 4,
+      "title": "Civil Servant Revised Leave Rules,1980 (Estacode 21 edition)",
+      "download_pdf": "ShariahLawsPDFs/Civil_Servant_Revised_Leave_Rules_1980.pdf",
+      "tagline": "NA"
+    },
+    {
+      "sr_no": 5,
+      "title": "Civil Servants (Confirmation) Rules, 1993 (Estacode 21 edition)",
+      "download_pdf": "ShariahLawsPDFs/Civil_Servants_Confirmation_Rules_1993.pdf",
+      "tagline": "NA"
+    },
+    {
+      "sr_no": 6,
+      "title": "Federal Services Medical Attendance Rules,1990 (updated 2021)",
+      "download_pdf": "ShariahLawsPDFs/Federal_Services_Medical_Attendance_Rules_1990.pdf",
+      "tagline": "NA"
+    },
+    {
+      "sr_no": 7,
+      "title": "Amended Civil Servants (Seniority) Rules, 1993 (Estacode 21 edition)",
+      "download_pdf": "ShariahLawsPDFs/Civil_Servants_Seniority_Rules_1993.pdf",
+      "tagline": "NA"
+    },
+    {
+      "sr_no": 8,
+      "title": "Public Procurement Rules, 2004",
+      "download_pdf": "ShariahLawsPDFs/Public_Procurement_Rules_2004.pdf",
+      "tagline": "NA"
+    },
+    {
+      "sr_no": 9,
+      "title": "Estacode (Edition 2021)",
+      "download_pdf": "ShariahLawsPDFs/Estacode_2021.pdf",
+      "tagline": "NA"
+    }
+  ],
+  "acts_ordinances": [
+    {
+      "sr_no": 1,
+      "title": "Offences Against Property (Enforcement of Hudood) Ordinance, 1979",
+      "download_pdf": "ShariahLawsPDFs/Offences_Against_Property_Ordinance_1979.pdf",
+      "tagline": "NA"
+    },
+    {
+      "sr_no": 2,
+      "title": "Offence of Zina (Enforcement of Hudood) Ordinance, 1979",
+      "download_pdf": "ShariahLawsPDFs/Offence_of_Zina_Ordinance_1979.pdf",
+      "tagline": "NA"
+    },
+    {
+      "sr_no": 3,
+      "title": "Offence of Qazf (Enforcement of Hadd) Ordinance, 1979",
+      "download_pdf": "ShariahLawsPDFs/Offence_of_Qazf_Ordinance_1979.pdf",
+      "tagline": "NA"
+    },
+    {
+      "sr_no": 4,
+      "title": "The Civil Servants Act, 1973",
+      "download_pdf": "ShariahLawsPDFs/Civil_Servants_Act_1973.pdf",
+      "tagline": "NA"
+    },
+    {
+      "sr_no": 5,
+      "title": "The Constitution of Islamic Republic of Pakistan, 1973",
+      "download_pdf": "ShariahLawsPDFs/Constitution_of_Pakistan_1973.pdf",
+      "tagline": "NA"
+    },
+    {
+      "sr_no": 6,
+      "title": "Prohibition (Enforcement of Hadd) Order,1979",
+      "download_pdf": "ShariahLawsPDFs/Prohibition_Ordinance_1979.pdf",
+      "tagline": "NA"
+    },
+    {
+      "sr_no": 7,
+      "title": "Secretariat Instructions",
+      "download_pdf": "ShariahLawsPDFs/Secretariat_Instructions.pdf",
+      "tagline": "NA"
+    }
+  ]
+}

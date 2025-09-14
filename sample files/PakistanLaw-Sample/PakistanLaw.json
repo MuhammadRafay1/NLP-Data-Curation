@@ -1,0 +1,147 @@
+{
+  "Laws": [
+    {
+      "Category": "Criminal Laws",
+      "Total_Count": 69,
+      "Laws_List": [
+        {
+          "Law_Name": "Abolition of the Punishment of Whipping Act, 1996",
+          "Details": {
+            "Category": "Criminal Laws",
+            "Act_No": "VII of 1996",
+            "Promulgation_Date": "December 01, 1996",
+            "Pdf_File": "PakistanLaw_pdfs/Abolition of the Punishment of Whipping Act, 1996.pdf"
+          }
+        },
+        {
+          "Law_Name": "Allopathic System (Prevention of Misuse) Ordinance, 1962",
+          "Details": {
+            "Category": "Criminal Laws",
+            "Act_No": "Not Available",
+            "Promulgation_Date": "Not Available",
+            "Pdf_File": "PakistanLaw_pdfs/Allopathic System (Prevention of Misuse) Ordinance, 1962.pdf"
+          }
+        },
+        {
+          "Law_Name": "Anti Narcotics Force Act (ANF 1997)",
+          "Details": {
+            "Category": "Criminal Laws",
+            "Act_No": "Not Available",
+            "Promulgation_Date": "Not Available",
+            "Pdf_File": "PakistanLaw_pdfs/Anti Narcotics Force Act (ANF 1997).pdf"
+          }
+        }
+      ]
+    },
+    {
+      "Category": "Civil Laws",
+      "Total_Count": 147,
+      "Laws_List": []
+    },
+    {
+      "Category": "Family Laws",
+      "Total_Count": 22,
+      "Laws_List": []
+    },
+    {
+      "Category": "Service Laws",
+      "Total_Count": 25,
+      "Laws_List": []
+    },
+    {
+      "Category": "Labour Laws",
+      "Total_Count": 41,
+      "Laws_List": []
+    },
+    {
+      "Category": "Police Laws",
+      "Total_Count": 4,
+      "Laws_List": []
+    },
+    {
+      "Category": "Companies Laws",
+      "Total_Count": 9,
+      "Laws_List": []
+    },
+    {
+      "Category": "Land/Property Laws",
+      "Total_Count": 18,
+      "Laws_List": []
+    },
+    {
+      "Category": "Islamic/Religious Laws",
+      "Total_Count": 5,
+      "Laws_List": []
+    },
+    {
+      "Category": "Banking/Financial Laws",
+      "Total_Count": 27,
+      "Laws_List": []
+    },
+    {
+      "Category": "Law of Evidence",
+      "Total_Count": 1,
+      "Laws_List": []
+    },
+    {
+      "Category": "Rent Laws",
+      "Total_Count": 3,
+      "Laws_List": []
+    },
+    {
+      "Category": "International Laws",
+      "Total_Count": 7,
+      "Laws_List": []
+    },
+    {
+      "Category": "Tenancy Laws",
+      "Total_Count": 0,
+      "Laws_List": []
+    },
+    {
+      "Category": "Land Reform Laws",
+      "Total_Count": 2,
+      "Laws_List": []
+    },
+    {
+      "Category": "Minorities Laws",
+      "Total_Count": 0,
+      "Laws_List": []
+    },
+    {
+      "Category": "Excise/Taxation Laws",
+      "Total_Count": 14,
+      "Laws_List": []
+    },
+    {
+      "Category": "Military Laws",
+      "Total_Count": 18,
+      "Laws_List": []
+    },
+    {
+      "Category": "Health/Medical Laws",
+      "Total_Count": 18,
+      "Laws_List": []
+    },
+    {
+      "Category": "Media Laws",
+      "Total_Count": 3,
+      "Laws_List": []
+    },
+    {
+      "Category": "Election Laws",
+      "Total_Count": 8,
+      "Laws_List": []
+    },
+    {
+      "Category": "Departmental Laws",
+      "Total_Count": 126,
+      "Laws_List": []
+    },
+    {
+      "Category": "General Laws",
+      "Total_Count": 135,
+      "Laws_List": []
+    }
+  ]
+}
