@@ -3,8 +3,541 @@
     "file_name": "SindhCourt_cases_districtcourtssindh_gos_pk.json",
     "created_on": "2025-09-16",
     "source": "Sindh High Court Case Search Portal",
-    "url": "https://cases.districtcourtssindh.gos.pk/",
-    "description": "Failed to open major court: Message: timeout: Timed out receiving message from renderer: 29.035\n  (Session info: chrome=140.0.7339.128)\nStacktrace:\n\tGetHandleVerifier [0x0x4ed2a3+66419]\n\tGetHandleVerifier [0x0x4ed2e4+66484]\n\t(No symbol) [0x0x2c4bd3]\n\t(No symbol) [0x0x2b5404]\n\t(No symbol) [0x0x2b513a]\n\t(No symbol) [0x0x2b3040]\n\t(No symbol) [0x0x2b3b27]\n\t(No symbol) [0x0x2c074e]\n\t(No symbol) [0x0x2d20f5]\n\t(No symbol) [0x0x2d7c96]\n\t(No symbol) [0x0x2b41a6]\n\t(No symbol) [0x0x2d1eaa]\n\t(No symbol) [0x0x352bd9]\n\t(No symbol) [0x0x330e16]\n\t(No symbol) [0x0x3025ce]\n\t(No symbol) [0x0x3034a4]\n\tGetHandleVerifier [0x0x735ee3+2461619]\n\tGetHandleVerifier [0x0x730f66+2441270]\n\tGetHandleVerifier [0x0x516242+234258]\n\tGetHandleVerifier [0x0x506208+168664]\n\tGetHandleVerifier [0x0x50d1ad+197245]\n\tGetHandleVerifier [0x0x4f55f8+100040]\n\tGetHandleVerifier [0x0x4f5792+100450]\n\tGetHandleVerifier [0x0x4df74a+10266]\n\tBaseThreadInitThunk [0x0x771c7ba9+25]\n\tRtlInitializeExceptionChain [0x0x77d0bb3b+107]\n\tRtlClearBits [0x0x77d0babf+191]\n"
+    "url": "https://cases.shc.gov.pk/",
+    "description": "Cases extracted for major court: cases.districtcourtssindh.gos.pk"
   },
-  "cases": []
+  "cases": [
+    {
+      "sr_no": 1,
+      "court": "cases.districtcourtssindh.gos.pk",
+      "case_name": "__SUBCOURT_NEEDS_JS__:Karachi (South)",
+      "case_no": "NA",
+      "case_year": "NA",
+      "bench": "NA",
+      "circuit_code": "Karachi (South)",
+      "case_title": "NA",
+      "matter": "NA",
+      "status": "NA",
+      "last_hearing": "NA",
+      "next_date": "NA",
+      "disposal_date": "NA",
+      "tagline": "NA",
+      "details": {
+        "note": "Subcourt results appear via JS/AJAX and were not available as static HTML."
+      }
+    },
+    {
+      "sr_no": 2,
+      "court": "cases.districtcourtssindh.gos.pk",
+      "case_name": "__SUBCOURT_NEEDS_JS__:Karachi(West)",
+      "case_no": "NA",
+      "case_year": "NA",
+      "bench": "NA",
+      "circuit_code": "Karachi(West)",
+      "case_title": "NA",
+      "matter": "NA",
+      "status": "NA",
+      "last_hearing": "NA",
+      "next_date": "NA",
+      "disposal_date": "NA",
+      "tagline": "NA",
+      "details": {
+        "note": "Subcourt results appear via JS/AJAX and were not available as static HTML."
+      }
+    },
+    {
+      "sr_no": 3,
+      "court": "cases.districtcourtssindh.gos.pk",
+      "case_name": "__SUBCOURT_NEEDS_JS__:Karachi (East)",
+      "case_no": "NA",
+      "case_year": "NA",
+      "bench": "NA",
+      "circuit_code": "Karachi (East)",
+      "case_title": "NA",
+      "matter": "NA",
+      "status": "NA",
+      "last_hearing": "NA",
+      "next_date": "NA",
+      "disposal_date": "NA",
+      "tagline": "NA",
+      "details": {
+        "note": "Subcourt results appear via JS/AJAX and were not available as static HTML."
+      }
+    },
+    {
+      "sr_no": 4,
+      "court": "cases.districtcourtssindh.gos.pk",
+      "case_name": "__SUBCOURT_NEEDS_JS__:Karachi (Central)",
+      "case_no": "NA",
+      "case_year": "NA",
+      "bench": "NA",
+      "circuit_code": "Karachi (Central)",
+      "case_title": "NA",
+      "matter": "NA",
+      "status": "NA",
+      "last_hearing": "NA",
+      "next_date": "NA",
+      "disposal_date": "NA",
+      "tagline": "NA",
+      "details": {
+        "note": "Subcourt results appear via JS/AJAX and were not available as static HTML."
+      }
+    },
+    {
+      "sr_no": 5,
+      "court": "cases.districtcourtssindh.gos.pk",
+      "case_name": "__SUBCOURT_NEEDS_JS__:Karachi (Malir)",
+      "case_no": "NA",
+      "case_year": "NA",
+      "bench": "NA",
+      "circuit_code": "Karachi (Malir)",
+      "case_title": "NA",
+      "matter": "NA",
+      "status": "NA",
+      "last_hearing": "NA",
+      "next_date": "NA",
+      "disposal_date": "NA",
+      "tagline": "NA",
+      "details": {
+        "note": "Subcourt results appear via JS/AJAX and were not available as static HTML."
+      }
+    },
+    {
+      "sr_no": 6,
+      "court": "cases.districtcourtssindh.gos.pk",
+      "case_name": "__SUBCOURT_NEEDS_JS__:Hyderabad",
+      "case_no": "NA",
+      "case_year": "NA",
+      "bench": "NA",
+      "circuit_code": "Hyderabad",
+      "case_title": "NA",
+      "matter": "NA",
+      "status": "NA",
+      "last_hearing": "NA",
+      "next_date": "NA",
+      "disposal_date": "NA",
+      "tagline": "NA",
+      "details": {
+        "note": "Subcourt results appear via JS/AJAX and were not available as static HTML."
+      }
+    },
+    {
+      "sr_no": 7,
+      "court": "cases.districtcourtssindh.gos.pk",
+      "case_name": "__SUBCOURT_NEEDS_JS__:Thatta",
+      "case_no": "NA",
+      "case_year": "NA",
+      "bench": "NA",
+      "circuit_code": "Thatta",
+      "case_title": "NA",
+      "matter": "NA",
+      "status": "NA",
+      "last_hearing": "NA",
+      "next_date": "NA",
+      "disposal_date": "NA",
+      "tagline": "NA",
+      "details": {
+        "note": "Subcourt results appear via JS/AJAX and were not available as static HTML."
+      }
+    },
+    {
+      "sr_no": 8,
+      "court": "cases.districtcourtssindh.gos.pk",
+      "case_name": "__SUBCOURT_NEEDS_JS__:Badin",
+      "case_no": "NA",
+      "case_year": "NA",
+      "bench": "NA",
+      "circuit_code": "Badin",
+      "case_title": "NA",
+      "matter": "NA",
+      "status": "NA",
+      "last_hearing": "NA",
+      "next_date": "NA",
+      "disposal_date": "NA",
+      "tagline": "NA",
+      "details": {
+        "note": "Subcourt results appear via JS/AJAX and were not available as static HTML."
+      }
+    },
+    {
+      "sr_no": 9,
+      "court": "cases.districtcourtssindh.gos.pk",
+      "case_name": "__SUBCOURT_NEEDS_JS__:Dadu",
+      "case_no": "NA",
+      "case_year": "NA",
+      "bench": "NA",
+      "circuit_code": "Dadu",
+      "case_title": "NA",
+      "matter": "NA",
+      "status": "NA",
+      "last_hearing": "NA",
+      "next_date": "NA",
+      "disposal_date": "NA",
+      "tagline": "NA",
+      "details": {
+        "note": "Subcourt results appear via JS/AJAX and were not available as static HTML."
+      }
+    },
+    {
+      "sr_no": 10,
+      "court": "cases.districtcourtssindh.gos.pk",
+      "case_name": "__SUBCOURT_NEEDS_JS__:Jamshoro @ Kotri",
+      "case_no": "NA",
+      "case_year": "NA",
+      "bench": "NA",
+      "circuit_code": "Jamshoro @ Kotri",
+      "case_title": "NA",
+      "matter": "NA",
+      "status": "NA",
+      "last_hearing": "NA",
+      "next_date": "NA",
+      "disposal_date": "NA",
+      "tagline": "NA",
+      "details": {
+        "note": "Subcourt results appear via JS/AJAX and were not available as static HTML."
+      }
+    },
+    {
+      "sr_no": 11,
+      "court": "cases.districtcourtssindh.gos.pk",
+      "case_name": "__SUBCOURT_NEEDS_JS__:Tharparkar @ Mithi",
+      "case_no": "NA",
+      "case_year": "NA",
+      "bench": "NA",
+      "circuit_code": "Tharparkar @ Mithi",
+      "case_title": "NA",
+      "matter": "NA",
+      "status": "NA",
+      "last_hearing": "NA",
+      "next_date": "NA",
+      "disposal_date": "NA",
+      "tagline": "NA",
+      "details": {
+        "note": "Subcourt results appear via JS/AJAX and were not available as static HTML."
+      }
+    },
+    {
+      "sr_no": 12,
+      "court": "cases.districtcourtssindh.gos.pk",
+      "case_name": "__SUBCOURT_NEEDS_JS__:Mirpurkhas",
+      "case_no": "NA",
+      "case_year": "NA",
+      "bench": "NA",
+      "circuit_code": "Mirpurkhas",
+      "case_title": "NA",
+      "matter": "NA",
+      "status": "NA",
+      "last_hearing": "NA",
+      "next_date": "NA",
+      "disposal_date": "NA",
+      "tagline": "NA",
+      "details": {
+        "note": "Subcourt results appear via JS/AJAX and were not available as static HTML."
+      }
+    },
+    {
+      "sr_no": 13,
+      "court": "cases.districtcourtssindh.gos.pk",
+      "case_name": "__SUBCOURT_NEEDS_JS__:Umerkot",
+      "case_no": "NA",
+      "case_year": "NA",
+      "bench": "NA",
+      "circuit_code": "Umerkot",
+      "case_title": "NA",
+      "matter": "NA",
+      "status": "NA",
+      "last_hearing": "NA",
+      "next_date": "NA",
+      "disposal_date": "NA",
+      "tagline": "NA",
+      "details": {
+        "note": "Subcourt results appear via JS/AJAX and were not available as static HTML."
+      }
+    },
+    {
+      "sr_no": 14,
+      "court": "cases.districtcourtssindh.gos.pk",
+      "case_name": "__SUBCOURT_NEEDS_JS__:Sanghar",
+      "case_no": "NA",
+      "case_year": "NA",
+      "bench": "NA",
+      "circuit_code": "Sanghar",
+      "case_title": "NA",
+      "matter": "NA",
+      "status": "NA",
+      "last_hearing": "NA",
+      "next_date": "NA",
+      "disposal_date": "NA",
+      "tagline": "NA",
+      "details": {
+        "note": "Subcourt results appear via JS/AJAX and were not available as static HTML."
+      }
+    },
+    {
+      "sr_no": 15,
+      "court": "cases.districtcourtssindh.gos.pk",
+      "case_name": "__SUBCOURT_NEEDS_JS__:Naushahro Feroze",
+      "case_no": "NA",
+      "case_year": "NA",
+      "bench": "NA",
+      "circuit_code": "Naushahro Feroze",
+      "case_title": "NA",
+      "matter": "NA",
+      "status": "NA",
+      "last_hearing": "NA",
+      "next_date": "NA",
+      "disposal_date": "NA",
+      "tagline": "NA",
+      "details": {
+        "note": "Subcourt results appear via JS/AJAX and were not available as static HTML."
+      }
+    },
+    {
+      "sr_no": 16,
+      "court": "cases.districtcourtssindh.gos.pk",
+      "case_name": "__SUBCOURT_NEEDS_JS__:Shaheed Benazirabad",
+      "case_no": "NA",
+      "case_year": "NA",
+      "bench": "NA",
+      "circuit_code": "Shaheed Benazirabad",
+      "case_title": "NA",
+      "matter": "NA",
+      "status": "NA",
+      "last_hearing": "NA",
+      "next_date": "NA",
+      "disposal_date": "NA",
+      "tagline": "NA",
+      "details": {
+        "note": "Subcourt results appear via JS/AJAX and were not available as static HTML."
+      }
+    },
+    {
+      "sr_no": 17,
+      "court": "cases.districtcourtssindh.gos.pk",
+      "case_name": "__SUBCOURT_NEEDS_JS__:Sukkur",
+      "case_no": "NA",
+      "case_year": "NA",
+      "bench": "NA",
+      "circuit_code": "Sukkur",
+      "case_title": "NA",
+      "matter": "NA",
+      "status": "NA",
+      "last_hearing": "NA",
+      "next_date": "NA",
+      "disposal_date": "NA",
+      "tagline": "NA",
+      "details": {
+        "note": "Subcourt results appear via JS/AJAX and were not available as static HTML."
+      }
+    },
+    {
+      "sr_no": 18,
+      "court": "cases.districtcourtssindh.gos.pk",
+      "case_name": "__SUBCOURT_NEEDS_JS__:Khairpur",
+      "case_no": "NA",
+      "case_year": "NA",
+      "bench": "NA",
+      "circuit_code": "Khairpur",
+      "case_title": "NA",
+      "matter": "NA",
+      "status": "NA",
+      "last_hearing": "NA",
+      "next_date": "NA",
+      "disposal_date": "NA",
+      "tagline": "NA",
+      "details": {
+        "note": "Subcourt results appear via JS/AJAX and were not available as static HTML."
+      }
+    },
+    {
+      "sr_no": 19,
+      "court": "cases.districtcourtssindh.gos.pk",
+      "case_name": "__SUBCOURT_NEEDS_JS__:Ghotki",
+      "case_no": "NA",
+      "case_year": "NA",
+      "bench": "NA",
+      "circuit_code": "Ghotki",
+      "case_title": "NA",
+      "matter": "NA",
+      "status": "NA",
+      "last_hearing": "NA",
+      "next_date": "NA",
+      "disposal_date": "NA",
+      "tagline": "NA",
+      "details": {
+        "note": "Subcourt results appear via JS/AJAX and were not available as static HTML."
+      }
+    },
+    {
+      "sr_no": 20,
+      "court": "cases.districtcourtssindh.gos.pk",
+      "case_name": "__SUBCOURT_NEEDS_JS__:Larkana",
+      "case_no": "NA",
+      "case_year": "NA",
+      "bench": "NA",
+      "circuit_code": "Larkana",
+      "case_title": "NA",
+      "matter": "NA",
+      "status": "NA",
+      "last_hearing": "NA",
+      "next_date": "NA",
+      "disposal_date": "NA",
+      "tagline": "NA",
+      "details": {
+        "note": "Subcourt results appear via JS/AJAX and were not available as static HTML."
+      }
+    },
+    {
+      "sr_no": 21,
+      "court": "cases.districtcourtssindh.gos.pk",
+      "case_name": "__SUBCOURT_NEEDS_JS__:KAMBER-SHAHDADKOT @ KAMBER",
+      "case_no": "NA",
+      "case_year": "NA",
+      "bench": "NA",
+      "circuit_code": "KAMBER-SHAHDADKOT @ KAMBER",
+      "case_title": "NA",
+      "matter": "NA",
+      "status": "NA",
+      "last_hearing": "NA",
+      "next_date": "NA",
+      "disposal_date": "NA",
+      "tagline": "NA",
+      "details": {
+        "note": "Subcourt results appear via JS/AJAX and were not available as static HTML."
+      }
+    },
+    {
+      "sr_no": 22,
+      "court": "cases.districtcourtssindh.gos.pk",
+      "case_name": "__SUBCOURT_NEEDS_JS__:Shikarpur",
+      "case_no": "NA",
+      "case_year": "NA",
+      "bench": "NA",
+      "circuit_code": "Shikarpur",
+      "case_title": "NA",
+      "matter": "NA",
+      "status": "NA",
+      "last_hearing": "NA",
+      "next_date": "NA",
+      "disposal_date": "NA",
+      "tagline": "NA",
+      "details": {
+        "note": "Subcourt results appear via JS/AJAX and were not available as static HTML."
+      }
+    },
+    {
+      "sr_no": 23,
+      "court": "cases.districtcourtssindh.gos.pk",
+      "case_name": "__SUBCOURT_NEEDS_JS__:Jacobabad",
+      "case_no": "NA",
+      "case_year": "NA",
+      "bench": "NA",
+      "circuit_code": "Jacobabad",
+      "case_title": "NA",
+      "matter": "NA",
+      "status": "NA",
+      "last_hearing": "NA",
+      "next_date": "NA",
+      "disposal_date": "NA",
+      "tagline": "NA",
+      "details": {
+        "note": "Subcourt results appear via JS/AJAX and were not available as static HTML."
+      }
+    },
+    {
+      "sr_no": 24,
+      "court": "cases.districtcourtssindh.gos.pk",
+      "case_name": "__SUBCOURT_NEEDS_JS__:Kashmore @ Kandhkot",
+      "case_no": "NA",
+      "case_year": "NA",
+      "bench": "NA",
+      "circuit_code": "Kashmore @ Kandhkot",
+      "case_title": "NA",
+      "matter": "NA",
+      "status": "NA",
+      "last_hearing": "NA",
+      "next_date": "NA",
+      "disposal_date": "NA",
+      "tagline": "NA",
+      "details": {
+        "note": "Subcourt results appear via JS/AJAX and were not available as static HTML."
+      }
+    },
+    {
+      "sr_no": 25,
+      "court": "cases.districtcourtssindh.gos.pk",
+      "case_name": "__SUBCOURT_NEEDS_JS__:Tando Allahyar",
+      "case_no": "NA",
+      "case_year": "NA",
+      "bench": "NA",
+      "circuit_code": "Tando Allahyar",
+      "case_title": "NA",
+      "matter": "NA",
+      "status": "NA",
+      "last_hearing": "NA",
+      "next_date": "NA",
+      "disposal_date": "NA",
+      "tagline": "NA",
+      "details": {
+        "note": "Subcourt results appear via JS/AJAX and were not available as static HTML."
+      }
+    },
+    {
+      "sr_no": 26,
+      "court": "cases.districtcourtssindh.gos.pk",
+      "case_name": "__SUBCOURT_NEEDS_JS__:Tando Muhammad Khan",
+      "case_no": "NA",
+      "case_year": "NA",
+      "bench": "NA",
+      "circuit_code": "Tando Muhammad Khan",
+      "case_title": "NA",
+      "matter": "NA",
+      "status": "NA",
+      "last_hearing": "NA",
+      "next_date": "NA",
+      "disposal_date": "NA",
+      "tagline": "NA",
+      "details": {
+        "note": "Subcourt results appear via JS/AJAX and were not available as static HTML."
+      }
+    },
+    {
+      "sr_no": 27,
+      "court": "cases.districtcourtssindh.gos.pk",
+      "case_name": "__SUBCOURT_NEEDS_JS__:Matiari",
+      "case_no": "NA",
+      "case_year": "NA",
+      "bench": "NA",
+      "circuit_code": "Matiari",
+      "case_title": "NA",
+      "matter": "NA",
+      "status": "NA",
+      "last_hearing": "NA",
+      "next_date": "NA",
+      "disposal_date": "NA",
+      "tagline": "NA",
+      "details": {
+        "note": "Subcourt results appear via JS/AJAX and were not available as static HTML."
+      }
+    },
+    {
+      "sr_no": 28,
+      "court": "cases.districtcourtssindh.gos.pk",
+      "case_name": "__SUBCOURT_NEEDS_JS__:Sujawal",
+      "case_no": "NA",
+      "case_year": "NA",
+      "bench": "NA",
+      "circuit_code": "Sujawal",
+      "case_title": "NA",
+      "matter": "NA",
+      "status": "NA",
+      "last_hearing": "NA",
+      "next_date": "NA",
+      "disposal_date": "NA",
+      "tagline": "NA",
+      "details": {
+        "note": "Subcourt results appear via JS/AJAX and were not available as static HTML."
+      }
+    }
+  ]
 }

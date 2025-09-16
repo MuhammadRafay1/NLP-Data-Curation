@@ -505,33 +505,85 @@ def scrape_major_court(driver, major):
                 # try find 'Next' pagination
                 next_found = False
                 try:
-                    # check for the pagination list
-                    pagination = driver.find_element(By.CSS_SELECTOR, ".pagination")
-                    li_elements = pagination.find_elements(By.TAG_NAME, "li")
+                    # Store current page content for comparison
+                    current_content = driver.page_source
                     
-                    # look for next button in pagination
-                    for li in li_elements:
-                        try:
-                            a = li.find_element(By.TAG_NAME, "a")
-                            # check for data-page attribute
-                            page_num = a.get_attribute("data-page")
-                            if page_num and "next" in li.get_attribute("class").lower():
-                                driver.execute_script("arguments[0].click();", a)
-                                time.sleep(1.0)
-                                next_found = True
-                                break
-                        except NoSuchElementException:
-                            continue
-                except Exception:
-                    # fallback: try other pagination patterns
+                    # Try multiple pagination patterns
+                    next_button = None
+                    
+                    # Pattern 1: Look for pagination with data-page attribute
                     try:
-                        next_btn = driver.find_element(By.CSS_SELECTOR, "a.next:not(.disabled), button.next:not(.disabled), li.next a:not(.disabled)")
-                        if next_btn and not "disabled" in (next_btn.get_attribute("class") or "").lower():
-                            driver.execute_script("arguments[0].click();", next_btn)
-                            time.sleep(1.0)
-                            next_found = True
+                        pagination = WebDriverWait(driver, 5).until(
+                            EC.presence_of_element_located((By.CSS_SELECTOR, ".pagination"))
+                        )
+                        li_elements = pagination.find_elements(By.TAG_NAME, "li")
+                        
+                        for li in li_elements:
+                            try:
+                                if "next" in li.get_attribute("class").lower():
+                                    a = li.find_element(By.TAG_NAME, "a")
+                                    if not "disabled" in (li.get_attribute("class") or "").lower():
+                                        next_button = a
+                                        break
+                            except NoSuchElementException:
+                                continue
                     except Exception:
-                        next_found = False
+                        pass
+                    
+                    # Pattern 2: Standard next button/link
+                    if not next_button:
+                        try:
+                            next_button = driver.find_element(By.CSS_SELECTOR, 
+                                "a.next:not(.disabled), button.next:not(.disabled), li.next:not(.disabled) a, a[rel='next']")
+                        except Exception:
+                            pass
+                    
+                    # Pattern 3: Look for '>' or 'Next' text in links
+                    if not next_button:
+                        try:
+                            next_button = driver.find_element(By.XPATH, 
+                                "//a[contains(text(),'Next') or contains(text(),'next') or contains(text(),'›') or contains(text(),'>')]")
+                        except Exception:
+                            pass
+                    
+                    if next_button:
+                        # Check if the button is actually clickable and visible
+                        try:
+                            # Wait for element to be clickable
+                            next_button = WebDriverWait(driver, 5).until(
+                                EC.element_to_be_clickable((By.ID, next_button.get_attribute("id")))
+                            ) if next_button.get_attribute("id") else next_button
+                            
+                            # Scroll into view if needed
+                            driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", next_button)
+                            time.sleep(0.5)
+                            
+                            # Try clicking
+                            try:
+                                next_button.click()
+                            except Exception:
+                                driver.execute_script("arguments[0].click();", next_button)
+                            
+                            # Wait for content to change (indicating page load)
+                            WebDriverWait(driver, 10).until(
+                                lambda d: d.page_source != current_content
+                            )
+                            
+                            # Additional wait for table to refresh
+                            WebDriverWait(driver, 10).until(
+                                EC.presence_of_element_located((By.TAG_NAME, "table"))
+                            )
+                            
+                            time.sleep(1.5)  # Give AJAX time to complete
+                            next_found = True
+                            
+                        except Exception as e:
+                            logging.debug(f"Next button click failed: {e}")
+                            next_found = False
+                    
+                except Exception as e:
+                    logging.debug(f"Pagination handling failed: {e}")
+                    next_found = False
 
                 if not next_found:
                     break
