@@ -1,0 +1,851 @@
+{
+  "metadata": {
+    "file_name": "SindhCourt_search-result_CasesSearch_CIRCUITCODE__13.json",
+    "created_on": "2025-09-16",
+    "source": "Sindh High Court Case Search Portal",
+    "url": "https://cases.shc.gov.pk/",
+    "description": "Cases extracted for major court: search-result&CasesSearch[CIRCUITCODE]=13"
+  },
+  "cases": [
+    {
+      "#": "1",
+      "Case Name": "Civil Revision",
+      "Caseno": "1",
+      "Caseyear": "2023",
+      "Bench": "S",
+      "Circuitcode": "Mirpur Khas",
+      "CASE TITLE": "Nabeel Iqbal and others V/S Muhammad Tayyab Hussain and others",
+      "Matter": "AGAINST ORDER",
+      "Last Hearing": "18-SEP-24",
+      "Next Date": "18-SEP-24",
+      "Disposal Date": "18-SEP-24",
+      "Status": "Disposed of",
+      "Actions": "View",
+      "court": "search-result&CasesSearch[CIRCUITCODE]=13",
+      "circuit_code": "search-result&CasesSearch[CIRCUITCODE]=13",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 1
+    },
+    {
+      "#": "2",
+      "Case Name": "Civil Revision",
+      "Caseno": "10",
+      "Caseyear": "2023",
+      "Bench": "S",
+      "Circuitcode": "Mirpur Khas",
+      "CASE TITLE": "Din Muhammad V/S Mst. Hafeefa",
+      "Matter": "AGAINST ORDER",
+      "Last Hearing": "12-AUG-25",
+      "Next Date": "07-OCT-25",
+      "Disposal Date": "Not Available",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "search-result&CasesSearch[CIRCUITCODE]=13",
+      "circuit_code": "search-result&CasesSearch[CIRCUITCODE]=13",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 2
+    },
+    {
+      "#": "3",
+      "Case Name": "Civil Revision",
+      "Caseno": "11",
+      "Caseyear": "2023",
+      "Bench": "S",
+      "Circuitcode": "Mirpur Khas",
+      "CASE TITLE": "Fazal-e-Ellahi and others V/S Bashir Ahmed and others",
+      "Matter": "AGAINST ORDER",
+      "Last Hearing": "15-SEP-25",
+      "Next Date": "15-SEP-25",
+      "Disposal Date": "Not Available",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "search-result&CasesSearch[CIRCUITCODE]=13",
+      "circuit_code": "search-result&CasesSearch[CIRCUITCODE]=13",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 3
+    },
+    {
+      "#": "4",
+      "Case Name": "Civil Revision",
+      "Caseno": "12",
+      "Caseyear": "2023",
+      "Bench": "S",
+      "Circuitcode": "Mirpur Khas",
+      "CASE TITLE": "Basit Ahmed V/S Shakeel and Others",
+      "Matter": "AGAINST ORDER",
+      "Last Hearing": "26-JAN-24",
+      "Next Date": "26-JAN-24",
+      "Disposal Date": "26-JAN-24",
+      "Status": "Disposed of",
+      "Actions": "View",
+      "court": "search-result&CasesSearch[CIRCUITCODE]=13",
+      "circuit_code": "search-result&CasesSearch[CIRCUITCODE]=13",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 4
+    },
+    {
+      "#": "5",
+      "Case Name": "Civil Revision",
+      "Caseno": "13",
+      "Caseyear": "2023",
+      "Bench": "S",
+      "Circuitcode": "Mirpur Khas",
+      "CASE TITLE": "Daho and others V/S Moroo and others",
+      "Matter": "AGAINST ORDER",
+      "Last Hearing": "09-SEP-25",
+      "Next Date": "09-SEP-25",
+      "Disposal Date": "Not Available",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "search-result&CasesSearch[CIRCUITCODE]=13",
+      "circuit_code": "search-result&CasesSearch[CIRCUITCODE]=13",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 5
+    },
+    {
+      "#": "6",
+      "Case Name": "Civil Revision",
+      "Caseno": "14",
+      "Caseyear": "2023",
+      "Bench": "S",
+      "Circuitcode": "Mirpur Khas",
+      "CASE TITLE": "Daho and others V/S Moroo @ others",
+      "Matter": "AGAINST ORDER",
+      "Last Hearing": "09-SEP-25",
+      "Next Date": "09-SEP-25",
+      "Disposal Date": "Not Available",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "search-result&CasesSearch[CIRCUITCODE]=13",
+      "circuit_code": "search-result&CasesSearch[CIRCUITCODE]=13",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 6
+    },
+    {
+      "#": "7",
+      "Case Name": "Civil Revision",
+      "Caseno": "15",
+      "Caseyear": "2023",
+      "Bench": "S",
+      "Circuitcode": "Mirpur Khas",
+      "CASE TITLE": "Muhib Ali through his LRs, Mst naheed and others V/S Saif Ali Baloch and others",
+      "Matter": "AGAINST ORDER",
+      "Last Hearing": "28-JAN-25",
+      "Next Date": "28-JAN-25",
+      "Disposal Date": "28-JAN-25",
+      "Status": "Dismissed",
+      "Actions": "View",
+      "court": "search-result&CasesSearch[CIRCUITCODE]=13",
+      "circuit_code": "search-result&CasesSearch[CIRCUITCODE]=13",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 7
+    },
+    {
+      "#": "8",
+      "Case Name": "Civil Revision",
+      "Caseno": "16",
+      "Caseyear": "2023",
+      "Bench": "S",
+      "Circuitcode": "Mirpur Khas",
+      "CASE TITLE": "Abdul Khaliq Through his LRs V/S Syed Zakir Ali and others",
+      "Matter": "AGAINST ORDER",
+      "Last Hearing": "27-AUG-25",
+      "Next Date": "07-OCT-25",
+      "Disposal Date": "Not Available",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "search-result&CasesSearch[CIRCUITCODE]=13",
+      "circuit_code": "search-result&CasesSearch[CIRCUITCODE]=13",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 8
+    },
+    {
+      "#": "9",
+      "Case Name": "Civil Revision",
+      "Caseno": "17",
+      "Caseyear": "2023",
+      "Bench": "S",
+      "Circuitcode": "Mirpur Khas",
+      "CASE TITLE": "D.E.O, Mirpurkhas and others V/S Muhammad Bachal and another",
+      "Matter": "AGAINST ORDER",
+      "Last Hearing": "05-SEP-23",
+      "Next Date": "13-SEP-23",
+      "Disposal Date": "05-SEP-23",
+      "Status": "Disposed of as Converted",
+      "Actions": "View",
+      "court": "search-result&CasesSearch[CIRCUITCODE]=13",
+      "circuit_code": "search-result&CasesSearch[CIRCUITCODE]=13",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 9
+    },
+    {
+      "#": "10",
+      "Case Name": "Civil Revision",
+      "Caseno": "18",
+      "Caseyear": "2023",
+      "Bench": "S",
+      "Circuitcode": "Mirpur Khas",
+      "CASE TITLE": "Mst. Naveed V/S Muzaffar Ahmed and others",
+      "Matter": "AGAINST ORDER",
+      "Last Hearing": "12-AUG-25",
+      "Next Date": "23-SEP-25",
+      "Disposal Date": "Not Available",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "search-result&CasesSearch[CIRCUITCODE]=13",
+      "circuit_code": "search-result&CasesSearch[CIRCUITCODE]=13",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 10
+    },
+    {
+      "#": "11",
+      "Case Name": "Civil Revision",
+      "Caseno": "19",
+      "Caseyear": "2023",
+      "Bench": "S",
+      "Circuitcode": "Mirpur Khas",
+      "CASE TITLE": "Muhammad Manzoor th: his L.Rs V/S Muhammad Ahmed and others",
+      "Matter": "AGAINST ORDER",
+      "Last Hearing": "24-APR-25",
+      "Next Date": "22-OCT-25",
+      "Disposal Date": "Not Available",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "search-result&CasesSearch[CIRCUITCODE]=13",
+      "circuit_code": "search-result&CasesSearch[CIRCUITCODE]=13",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 11
+    },
+    {
+      "#": "12",
+      "Case Name": "Civil Revision",
+      "Caseno": "2",
+      "Caseyear": "2023",
+      "Bench": "S",
+      "Circuitcode": "Mirpur Khas",
+      "CASE TITLE": "Sarwan and others V/S Jeto and others",
+      "Matter": "AGAINST ORDER",
+      "Last Hearing": "04-SEP-25",
+      "Next Date": "09-OCT-25",
+      "Disposal Date": "Not Available",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "search-result&CasesSearch[CIRCUITCODE]=13",
+      "circuit_code": "search-result&CasesSearch[CIRCUITCODE]=13",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 12
+    },
+    {
+      "#": "13",
+      "Case Name": "Civil Revision",
+      "Caseno": "20",
+      "Caseyear": "2023",
+      "Bench": "S",
+      "Circuitcode": "Mirpur Khas",
+      "CASE TITLE": "Muhammad Farhan Ali V/S Ghulam Hussain through LRs and others",
+      "Matter": "AGAINST ORDER",
+      "Last Hearing": "04-SEP-25",
+      "Next Date": "06-OCT-25",
+      "Disposal Date": "Not Available",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "search-result&CasesSearch[CIRCUITCODE]=13",
+      "circuit_code": "search-result&CasesSearch[CIRCUITCODE]=13",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 13
+    },
+    {
+      "#": "14",
+      "Case Name": "Civil Revision",
+      "Caseno": "21",
+      "Caseyear": "2023",
+      "Bench": "S",
+      "Circuitcode": "Mirpur Khas",
+      "CASE TITLE": "Allah Bachayo V/S Ghulam Hussain through LRs and others",
+      "Matter": "AGAINST ORDER",
+      "Last Hearing": "04-SEP-25",
+      "Next Date": "06-OCT-25",
+      "Disposal Date": "Not Available",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "search-result&CasesSearch[CIRCUITCODE]=13",
+      "circuit_code": "search-result&CasesSearch[CIRCUITCODE]=13",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 14
+    },
+    {
+      "#": "15",
+      "Case Name": "Civil Revision",
+      "Caseno": "22",
+      "Caseyear": "2023",
+      "Bench": "S",
+      "Circuitcode": "Mirpur Khas",
+      "CASE TITLE": "Abdul Jabbar V/S Taluka Municipal Administrator Jhudo & Others",
+      "Matter": "AGAINST ORDER",
+      "Last Hearing": "25-APR-25",
+      "Next Date": "24-SEP-25",
+      "Disposal Date": "Not Available",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "search-result&CasesSearch[CIRCUITCODE]=13",
+      "circuit_code": "search-result&CasesSearch[CIRCUITCODE]=13",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 15
+    },
+    {
+      "#": "16",
+      "Case Name": "Civil Revision",
+      "Caseno": "23",
+      "Caseyear": "2023",
+      "Bench": "S",
+      "Circuitcode": "Mirpur Khas",
+      "CASE TITLE": "Mir Inayatullah Talpur V/S Ali Jan and others",
+      "Matter": "AGAINST THE JUDGEMENT",
+      "Last Hearing": "12-NOV-24",
+      "Next Date": "12-NOV-24",
+      "Disposal Date": "12-NOV-24",
+      "Status": "Allowed",
+      "Actions": "View",
+      "court": "search-result&CasesSearch[CIRCUITCODE]=13",
+      "circuit_code": "search-result&CasesSearch[CIRCUITCODE]=13",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 16
+    },
+    {
+      "#": "17",
+      "Case Name": "Civil Revision",
+      "Caseno": "24",
+      "Caseyear": "2023",
+      "Bench": "S",
+      "Circuitcode": "Mirpur Khas",
+      "CASE TITLE": "Muhammad Shahzad V/S Muhammad Zahid",
+      "Matter": "AGAINST THE ORDER",
+      "Last Hearing": "12-DEC-23",
+      "Next Date": "12-DEC-23",
+      "Disposal Date": "12-DEC-23",
+      "Status": "Disposed of",
+      "Actions": "View",
+      "court": "search-result&CasesSearch[CIRCUITCODE]=13",
+      "circuit_code": "search-result&CasesSearch[CIRCUITCODE]=13",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 17
+    },
+    {
+      "#": "18",
+      "Case Name": "Civil Revision",
+      "Caseno": "25",
+      "Caseyear": "2023",
+      "Bench": "S",
+      "Circuitcode": "Mirpur Khas",
+      "CASE TITLE": "Anweruddin & Others V/S Muhammad Moosa Thru LRs & Others",
+      "Matter": "AGAINST THE JUDGEMENT",
+      "Last Hearing": "19-FEB-24",
+      "Next Date": "07-FEB-24",
+      "Disposal Date": "19-FEB-24",
+      "Status": "Disposed of",
+      "Actions": "View",
+      "court": "search-result&CasesSearch[CIRCUITCODE]=13",
+      "circuit_code": "search-result&CasesSearch[CIRCUITCODE]=13",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 18
+    },
+    {
+      "#": "19",
+      "Case Name": "Civil Revision",
+      "Caseno": "26",
+      "Caseyear": "2023",
+      "Bench": "S",
+      "Circuitcode": "Mirpur Khas",
+      "CASE TITLE": "Aamir Farooque & others V/S Province of Sindh & others",
+      "Matter": "AGAINST THE JUDGEMENT",
+      "Last Hearing": "16-MAY-25",
+      "Next Date": "16-MAY-25",
+      "Disposal Date": "16-MAY-25",
+      "Status": "Dismissed",
+      "Actions": "View",
+      "court": "search-result&CasesSearch[CIRCUITCODE]=13",
+      "circuit_code": "search-result&CasesSearch[CIRCUITCODE]=13",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 19
+    },
+    {
+      "#": "20",
+      "Case Name": "Civil Revision",
+      "Caseno": "27",
+      "Caseyear": "2023",
+      "Bench": "S",
+      "Circuitcode": "Mirpur Khas",
+      "CASE TITLE": "Anwer V/S Noor Muhammad & others",
+      "Matter": "AGAINST ORDER",
+      "Last Hearing": "11-APR-25",
+      "Next Date": "21-FEB-25",
+      "Disposal Date": "11-APR-25",
+      "Status": "Dismissed",
+      "Actions": "View",
+      "court": "search-result&CasesSearch[CIRCUITCODE]=13",
+      "circuit_code": "search-result&CasesSearch[CIRCUITCODE]=13",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 20
+    }
+  ]
+}

@@ -1,0 +1,851 @@
+{
+  "metadata": {
+    "file_name": "SindhCourt_khi.json",
+    "created_on": "2025-09-16",
+    "source": "Sindh High Court Case Search Portal",
+    "url": "https://cases.shc.gov.pk/",
+    "description": "Cases extracted for major court: khi"
+  },
+  "cases": [
+    {
+      "#": "1",
+      "Case Name": "Civil Revision",
+      "Caseno": "332",
+      "Caseyear": "1973",
+      "Bench": "S",
+      "Circuitcode": "Karachi",
+      "CASE TITLE": "Syed Haseen Hashmi V/S Musheeruddin Siddiqui & ors",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "13-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "khi",
+      "circuit_code": "khi",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 1
+    },
+    {
+      "#": "2",
+      "Case Name": "Civil Revision",
+      "Caseno": "277",
+      "Caseyear": "1974",
+      "Bench": "S",
+      "Circuitcode": "Karachi",
+      "CASE TITLE": "Taj Mohammad S/o Najeeb Khan V/S Kalu alias Hashim s/o Noor Ali",
+      "Matter": "U/O 7 OF ADMIRDITY JURISDICTION",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "29-MAR-84",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "khi",
+      "circuit_code": "khi",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 2
+    },
+    {
+      "#": "3",
+      "Case Name": "Civil Revision",
+      "Caseno": "42",
+      "Caseyear": "1977",
+      "Bench": "S",
+      "Circuitcode": "Karachi",
+      "CASE TITLE": "Shaukat ali & others V/S Ainul Huq & another",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "22-FEB-78",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "khi",
+      "circuit_code": "khi",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 3
+    },
+    {
+      "#": "4",
+      "Case Name": "Civil Revision",
+      "Caseno": "6",
+      "Caseyear": "1977",
+      "Bench": "S",
+      "Circuitcode": "Karachi",
+      "CASE TITLE": "shah faqir hussain V/S Mst. Ashrafunissa Begum",
+      "Matter": "AGAINST ORDER",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "16-JAN-86",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "khi",
+      "circuit_code": "khi",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 4
+    },
+    {
+      "#": "5",
+      "Case Name": "Civil Revision",
+      "Caseno": "276",
+      "Caseyear": "1979",
+      "Bench": "S",
+      "Circuitcode": "Karachi",
+      "CASE TITLE": "MUHAMMAD KHAN & ORS V/S MST. SHAFIAT BEGUM & ORS.",
+      "Matter": "REVERTED",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "16-APR-84",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "khi",
+      "circuit_code": "khi",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 5
+    },
+    {
+      "#": "6",
+      "Case Name": "Civil Revision",
+      "Caseno": "300",
+      "Caseyear": "1979",
+      "Bench": "S",
+      "Circuitcode": "Karachi",
+      "CASE TITLE": "karachi dev authirity V/S mirza abdul rashid",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "25-MAY-87",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "khi",
+      "circuit_code": "khi",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 6
+    },
+    {
+      "#": "7",
+      "Case Name": "Civil Revision",
+      "Caseno": "277",
+      "Caseyear": "1980",
+      "Bench": "S",
+      "Circuitcode": "Karachi",
+      "CASE TITLE": "Badaruddin Thr. L.Hrs. V/S Shah Nawaz Thr. L. Hrs.",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "11-OCT-17",
+      "Next Date": "Not Available",
+      "Disposal Date": "19-MAY-14",
+      "Status": "Disposed of",
+      "Actions": "View",
+      "court": "khi",
+      "circuit_code": "khi",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 7
+    },
+    {
+      "#": "8",
+      "Case Name": "Civil Revision",
+      "Caseno": "272",
+      "Caseyear": "1981",
+      "Bench": "S",
+      "Circuitcode": "Karachi",
+      "CASE TITLE": "Abdul Razzak V/S Muhammad saleh",
+      "Matter": "AGAINST DECISION",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "15-JUL-87",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "khi",
+      "circuit_code": "khi",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 8
+    },
+    {
+      "#": "9",
+      "Case Name": "Civil Revision",
+      "Caseno": "146",
+      "Caseyear": "1982",
+      "Bench": "S",
+      "Circuitcode": "Karachi",
+      "CASE TITLE": "Haji Muhammad Ateeq V/S Qadeer Ahmed & Ors",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "21-OCT-05",
+      "Next Date": "Not Available",
+      "Disposal Date": "13-NOV-06",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "khi",
+      "circuit_code": "khi",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 9
+    },
+    {
+      "#": "10",
+      "Case Name": "Civil Revision",
+      "Caseno": "187",
+      "Caseyear": "1982",
+      "Bench": "S",
+      "Circuitcode": "Karachi",
+      "CASE TITLE": "Aligarh Coperative Housing Society Ltd V/S K.D.A & Another",
+      "Matter": "AGAINST ORDER",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "04-OCT-87",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "khi",
+      "circuit_code": "khi",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 10
+    },
+    {
+      "#": "11",
+      "Case Name": "Civil Revision",
+      "Caseno": "24",
+      "Caseyear": "1983",
+      "Bench": "S",
+      "Circuitcode": "Sukkur",
+      "CASE TITLE": "Wadhno and others V/S Kambir Khan and others",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "24-DEC-21",
+      "Status": "Dismissed",
+      "Actions": "View",
+      "court": "khi",
+      "circuit_code": "khi",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 11
+    },
+    {
+      "#": "12",
+      "Case Name": "Civil Revision",
+      "Caseno": "246",
+      "Caseyear": "1983",
+      "Bench": "S",
+      "Circuitcode": "Karachi",
+      "CASE TITLE": "Mohammad Yaqoob and Others V/S Abdul Fatah Memon and others",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "10-DEC-89",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "khi",
+      "circuit_code": "khi",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 12
+    },
+    {
+      "#": "13",
+      "Case Name": "Civil Revision",
+      "Caseno": "69",
+      "Caseyear": "1983",
+      "Bench": "S",
+      "Circuitcode": "Karachi",
+      "CASE TITLE": "Mst. Majeedan & Ors V/S Muhammad Nasim & Ors",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "15-MAY-06",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "khi",
+      "circuit_code": "khi",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 13
+    },
+    {
+      "#": "14",
+      "Case Name": "Civil Revision",
+      "Caseno": "83",
+      "Caseyear": "1983",
+      "Bench": "S",
+      "Circuitcode": "Sukkur",
+      "CASE TITLE": "Mst.Shana and others V/S Abdul Hakeem and others",
+      "Matter": "AGAINST THE ORDER",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "16-APR-09",
+      "Status": "Dismissed due to non-prosecution",
+      "Actions": "View",
+      "court": "khi",
+      "circuit_code": "khi",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 14
+    },
+    {
+      "#": "15",
+      "Case Name": "Civil Revision",
+      "Caseno": "154",
+      "Caseyear": "1984",
+      "Bench": "S",
+      "Circuitcode": "Karachi",
+      "CASE TITLE": "Yaseen s/o. Noor Mohammad V/S Zikram Nabi thr. L.H.rs. & Ors.",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "05-APR-02",
+      "Status": "Disposed of",
+      "Actions": "View",
+      "court": "khi",
+      "circuit_code": "khi",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 15
+    },
+    {
+      "#": "16",
+      "Case Name": "Civil Revision",
+      "Caseno": "187",
+      "Caseyear": "1984",
+      "Bench": "S",
+      "Circuitcode": "Karachi",
+      "CASE TITLE": "Mohammad Kamil & ors V/S Mst. Mumtaz Jehan & ors",
+      "Matter": "AGAINST THE ORDER",
+      "Last Hearing": "15-JUL-16",
+      "Next Date": "Not Available",
+      "Disposal Date": "20-MAY-16",
+      "Status": "Allowed",
+      "Actions": "View",
+      "court": "khi",
+      "circuit_code": "khi",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 16
+    },
+    {
+      "#": "17",
+      "Case Name": "Civil Revision",
+      "Caseno": "188",
+      "Caseyear": "1984",
+      "Bench": "S",
+      "Circuitcode": "Karachi",
+      "CASE TITLE": "Mohammad Kamil & ors V/S Mst. Mumtaz Jehan & ors",
+      "Matter": "AGAINST THE ORDER",
+      "Last Hearing": "15-JUL-16",
+      "Next Date": "Not Available",
+      "Disposal Date": "20-MAY-16",
+      "Status": "Allowed",
+      "Actions": "View",
+      "court": "khi",
+      "circuit_code": "khi",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 17
+    },
+    {
+      "#": "18",
+      "Case Name": "Civil Revision",
+      "Caseno": "31",
+      "Caseyear": "1984",
+      "Bench": "S",
+      "Circuitcode": "Karachi",
+      "CASE TITLE": "Khadu Khan V/S K.M.C & others",
+      "Matter": "RENT MATTER",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "20-MAY-84",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "khi",
+      "circuit_code": "khi",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 18
+    },
+    {
+      "#": "19",
+      "Case Name": "Civil Revision",
+      "Caseno": "337",
+      "Caseyear": "1984",
+      "Bench": "S",
+      "Circuitcode": "Karachi",
+      "CASE TITLE": "American president lines ltd V/S Eastern federal union insurance co",
+      "Matter": "PROPERTY MATTER",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "07-DEC-89",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "khi",
+      "circuit_code": "khi",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 19
+    },
+    {
+      "#": "20",
+      "Case Name": "Civil Revision",
+      "Caseno": "157",
+      "Caseyear": "1985",
+      "Bench": "S",
+      "Circuitcode": "Karachi",
+      "CASE TITLE": "Moinuddin Paracha V/S Sirajuddin",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "08-SEP-25",
+      "Next Date": "08-SEP-25",
+      "Disposal Date": "25-NOV-15",
+      "Status": "Disposed of",
+      "Actions": "View",
+      "court": "khi",
+      "circuit_code": "khi",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 20
+    }
+  ]
+}

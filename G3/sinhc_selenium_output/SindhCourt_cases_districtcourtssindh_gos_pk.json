@@ -1,0 +1,10 @@
+{
+  "metadata": {
+    "file_name": "SindhCourt_cases_districtcourtssindh_gos_pk.json",
+    "created_on": "2025-09-16",
+    "source": "Sindh High Court Case Search Portal",
+    "url": "https://cases.districtcourtssindh.gos.pk/",
+    "description": "Failed to open major court: Message: timeout: Timed out receiving message from renderer: 29.035\n  (Session info: chrome=140.0.7339.128)\nStacktrace:\n\tGetHandleVerifier [0x0x4ed2a3+66419]\n\tGetHandleVerifier [0x0x4ed2e4+66484]\n\t(No symbol) [0x0x2c4bd3]\n\t(No symbol) [0x0x2b5404]\n\t(No symbol) [0x0x2b513a]\n\t(No symbol) [0x0x2b3040]\n\t(No symbol) [0x0x2b3b27]\n\t(No symbol) [0x0x2c074e]\n\t(No symbol) [0x0x2d20f5]\n\t(No symbol) [0x0x2d7c96]\n\t(No symbol) [0x0x2b41a6]\n\t(No symbol) [0x0x2d1eaa]\n\t(No symbol) [0x0x352bd9]\n\t(No symbol) [0x0x330e16]\n\t(No symbol) [0x0x3025ce]\n\t(No symbol) [0x0x3034a4]\n\tGetHandleVerifier [0x0x735ee3+2461619]\n\tGetHandleVerifier [0x0x730f66+2441270]\n\tGetHandleVerifier [0x0x516242+234258]\n\tGetHandleVerifier [0x0x506208+168664]\n\tGetHandleVerifier [0x0x50d1ad+197245]\n\tGetHandleVerifier [0x0x4f55f8+100040]\n\tGetHandleVerifier [0x0x4f5792+100450]\n\tGetHandleVerifier [0x0x4df74a+10266]\n\tBaseThreadInitThunk [0x0x771c7ba9+25]\n\tRtlInitializeExceptionChain [0x0x77d0bb3b+107]\n\tRtlClearBits [0x0x77d0babf+191]\n"
+  },
+  "cases": []
+}

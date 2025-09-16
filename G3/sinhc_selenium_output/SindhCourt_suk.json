@@ -1,0 +1,851 @@
+{
+  "metadata": {
+    "file_name": "SindhCourt_suk.json",
+    "created_on": "2025-09-16",
+    "source": "Sindh High Court Case Search Portal",
+    "url": "https://cases.shc.gov.pk/",
+    "description": "Cases extracted for major court: suk"
+  },
+  "cases": [
+    {
+      "#": "1",
+      "Case Name": "Civil Revision",
+      "Caseno": "24",
+      "Caseyear": "1983",
+      "Bench": "S",
+      "Circuitcode": "Sukkur",
+      "CASE TITLE": "Wadhno and others V/S Kambir Khan and others",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "24-DEC-21",
+      "Next Date": "Not Available",
+      "Disposal Date": "24-DEC-21",
+      "Status": "Dismissed",
+      "Actions": "View",
+      "court": "suk",
+      "circuit_code": "suk",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 1
+    },
+    {
+      "#": "2",
+      "Case Name": "Civil Revision",
+      "Caseno": "83",
+      "Caseyear": "1983",
+      "Bench": "S",
+      "Circuitcode": "Sukkur",
+      "CASE TITLE": "Mst.Shana and others V/S Abdul Hakeem and others",
+      "Matter": "AGAINST THE ORDER",
+      "Last Hearing": "16-APR-19",
+      "Next Date": "Not Available",
+      "Disposal Date": "16-APR-09",
+      "Status": "Dismissed due to non-prosecution",
+      "Actions": "View",
+      "court": "suk",
+      "circuit_code": "suk",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 2
+    },
+    {
+      "#": "3",
+      "Case Name": "Civil Revision",
+      "Caseno": "137",
+      "Caseyear": "1986",
+      "Bench": "S",
+      "Circuitcode": "Sukkur",
+      "CASE TITLE": "Deceased Fakir Muhammad Ismail, thr:L.Rs: V/S Mian Muhammad Ibrahim & ors",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "16-APR-14",
+      "Next Date": "Not Available",
+      "Disposal Date": "27-FEB-04",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "suk",
+      "circuit_code": "suk",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 3
+    },
+    {
+      "#": "4",
+      "Case Name": "Civil Revision",
+      "Caseno": "166",
+      "Caseyear": "1986",
+      "Bench": "S",
+      "Circuitcode": "Sukkur",
+      "CASE TITLE": "Military Family Rehabilitation Orzanization V/S Haji Ghulam Rasool and others",
+      "Matter": "AGAINST THE ORDER",
+      "Last Hearing": "02-SEP-21",
+      "Next Date": "Not Available",
+      "Disposal Date": "08-FEB-21",
+      "Status": "Disposed of",
+      "Actions": "View",
+      "court": "suk",
+      "circuit_code": "suk",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 4
+    },
+    {
+      "#": "5",
+      "Case Name": "Civil Revision",
+      "Caseno": "23",
+      "Caseyear": "1987",
+      "Bench": "S",
+      "Circuitcode": "Sukkur",
+      "CASE TITLE": "Wali Muhammad (deceased),through his L.Rs. V/S Government of Sindh and others",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "19-AUG-20",
+      "Next Date": "Not Available",
+      "Disposal Date": "19-AUG-20",
+      "Status": "Dismissed due to non-prosecution",
+      "Actions": "View",
+      "court": "suk",
+      "circuit_code": "suk",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 5
+    },
+    {
+      "#": "6",
+      "Case Name": "Civil Revision",
+      "Caseno": "56",
+      "Caseyear": "1987",
+      "Bench": "S",
+      "Circuitcode": "Sukkur",
+      "CASE TITLE": "Bakhat Mal V/S Ghulam Hyder Memon,thr:his L.Rs.",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "04-AUG-08",
+      "Next Date": "Not Available",
+      "Disposal Date": "14-APR-09",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "suk",
+      "circuit_code": "suk",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 6
+    },
+    {
+      "#": "7",
+      "Case Name": "Civil Revision",
+      "Caseno": "72",
+      "Caseyear": "1987",
+      "Bench": "S",
+      "Circuitcode": "Sukkur",
+      "CASE TITLE": "Nazir Ahmed and others V/S Collector Settlement and others",
+      "Matter": "AGAINST THE ORDER",
+      "Last Hearing": "20-NOV-20",
+      "Next Date": "Not Available",
+      "Disposal Date": "20-NOV-20",
+      "Status": "Disposed of",
+      "Actions": "View",
+      "court": "suk",
+      "circuit_code": "suk",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 7
+    },
+    {
+      "#": "8",
+      "Case Name": "Civil Revision",
+      "Caseno": "19",
+      "Caseyear": "1988",
+      "Bench": "S",
+      "Circuitcode": "Sukkur",
+      "CASE TITLE": "Sardar Khan through legal heirs V/S Muhammad Hassan and others",
+      "Matter": "AGAINST THE ORDER",
+      "Last Hearing": "24-JAN-22",
+      "Next Date": "Not Available",
+      "Disposal Date": "07-DEC-20",
+      "Status": "Dismissed due to non-prosecution",
+      "Actions": "View",
+      "court": "suk",
+      "circuit_code": "suk",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 8
+    },
+    {
+      "#": "9",
+      "Case Name": "Civil Revision",
+      "Caseno": "72",
+      "Caseyear": "1988",
+      "Bench": "S",
+      "Circuitcode": "Sukkur",
+      "CASE TITLE": "Ghulam Qadir (deceased),thr:his L.Rs.&Ors. V/S Ghulam Muhammad (deceased),thr:his L.Rs.&Ors.",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "28-SEP-18",
+      "Next Date": "Not Available",
+      "Disposal Date": "28-SEP-18",
+      "Status": "Dismissed with Directions",
+      "Actions": "View",
+      "court": "suk",
+      "circuit_code": "suk",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 9
+    },
+    {
+      "#": "10",
+      "Case Name": "Civil Revision",
+      "Caseno": "89",
+      "Caseyear": "1988",
+      "Bench": "S",
+      "Circuitcode": "Sukkur",
+      "CASE TITLE": "Jamaluddin Panhwar (Expired),thr:his L.Rs. V/S Ali Sher (Expired),thr:his L.Rs.and others",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "06-APR-09",
+      "Next Date": "Not Available",
+      "Disposal Date": "27-MAY-09",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "suk",
+      "circuit_code": "suk",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 10
+    },
+    {
+      "#": "11",
+      "Case Name": "Civil Revision",
+      "Caseno": "116",
+      "Caseyear": "1989",
+      "Bench": "S",
+      "Circuitcode": "Sukkur",
+      "CASE TITLE": "Sultan Ahmed Mangi (Expired),thr:his L.Rs. V/S Nasir Muhammad Khan (Expired),thr:his L.Rs.& Ors.",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "19-MAR-19",
+      "Next Date": "Not Available",
+      "Disposal Date": "19-MAR-19",
+      "Status": "Dismissed",
+      "Actions": "View",
+      "court": "suk",
+      "circuit_code": "suk",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 11
+    },
+    {
+      "#": "12",
+      "Case Name": "Civil Revision",
+      "Caseno": "118",
+      "Caseyear": "1989",
+      "Bench": "S",
+      "Circuitcode": "Sukkur",
+      "CASE TITLE": "Government of Sindh and another V/S Muhammad Saleh (Expired),thr:his L.Rs.and another",
+      "Matter": "AGAINST THE ORDER",
+      "Last Hearing": "30-AUG-21",
+      "Next Date": "Not Available",
+      "Disposal Date": "30-AUG-21",
+      "Status": "Allowed",
+      "Actions": "View",
+      "court": "suk",
+      "circuit_code": "suk",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 12
+    },
+    {
+      "#": "13",
+      "Case Name": "Civil Revision",
+      "Caseno": "139",
+      "Caseyear": "1989",
+      "Bench": "S",
+      "Circuitcode": "Sukkur",
+      "CASE TITLE": "Khair Muhammad and others V/S Faiz Muhammad and others",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "19-DEC-22",
+      "Next Date": "06-OCT-25",
+      "Disposal Date": "13-OCT-17",
+      "Status": "Dismissed",
+      "Actions": "View",
+      "court": "suk",
+      "circuit_code": "suk",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 13
+    },
+    {
+      "#": "14",
+      "Case Name": "Civil Revision",
+      "Caseno": "38",
+      "Caseyear": "1989",
+      "Bench": "S",
+      "Circuitcode": "Sukkur",
+      "CASE TITLE": "Syed Ali Hyder and others V/S Dr.Muhammad Anis Gorya.",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "31-MAY-07",
+      "Next Date": "Not Available",
+      "Disposal Date": "21-AUG-07",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "suk",
+      "circuit_code": "suk",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 14
+    },
+    {
+      "#": "15",
+      "Case Name": "Civil Revision",
+      "Caseno": "40",
+      "Caseyear": "1989",
+      "Bench": "S",
+      "Circuitcode": "Sukkur",
+      "CASE TITLE": "Ali Nawab (deceased),thr:his L.Rs.& Ors V/S Jhando Khan (deceased),thr:his L.Rs.",
+      "Matter": "AGAINST THE ORDER",
+      "Last Hearing": "20-NOV-20",
+      "Next Date": "Not Available",
+      "Disposal Date": "20-NOV-20",
+      "Status": "Disposed of",
+      "Actions": "View",
+      "court": "suk",
+      "circuit_code": "suk",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 15
+    },
+    {
+      "#": "16",
+      "Case Name": "Civil Revision",
+      "Caseno": "49",
+      "Caseyear": "1989",
+      "Bench": "S",
+      "Circuitcode": "Sukkur",
+      "CASE TITLE": "Shahan Ansari V/S Abdul Ghani and others",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "15-SEP-11",
+      "Next Date": "Not Available",
+      "Disposal Date": "15-NOV-11",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "suk",
+      "circuit_code": "suk",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 16
+    },
+    {
+      "#": "17",
+      "Case Name": "Civil Revision",
+      "Caseno": "60",
+      "Caseyear": "1989",
+      "Bench": "S",
+      "Circuitcode": "Sukkur",
+      "CASE TITLE": "Moharram Buriro V/S Muhammad Moosa and others",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "30-OCT-23",
+      "Next Date": "10-NOV-25",
+      "Disposal Date": "18-AUG-14",
+      "Status": "Dismissed",
+      "Actions": "View",
+      "court": "suk",
+      "circuit_code": "suk",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 17
+    },
+    {
+      "#": "18",
+      "Case Name": "Civil Revision",
+      "Caseno": "80",
+      "Caseyear": "1989",
+      "Bench": "S",
+      "Circuitcode": "Sukkur",
+      "CASE TITLE": "Rehmat Ali and others V/S Muhammad Din (deceased),through his L.Rs.",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "09-OCT-17",
+      "Next Date": "Not Available",
+      "Disposal Date": "09-OCT-17",
+      "Status": "Dismissed",
+      "Actions": "View",
+      "court": "suk",
+      "circuit_code": "suk",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 18
+    },
+    {
+      "#": "19",
+      "Case Name": "Civil Revision",
+      "Caseno": "85",
+      "Caseyear": "1989",
+      "Bench": "S",
+      "Circuitcode": "Sukkur",
+      "CASE TITLE": "Taj Muhammad and others V/S Fateh Chand and others",
+      "Matter": "AGAINST THE ORDER",
+      "Last Hearing": "06-DEC-21",
+      "Next Date": "Not Available",
+      "Disposal Date": "06-DEC-21",
+      "Status": "Dismissed",
+      "Actions": "View",
+      "court": "suk",
+      "circuit_code": "suk",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 19
+    },
+    {
+      "#": "20",
+      "Case Name": "Civil Revision",
+      "Caseno": "13",
+      "Caseyear": "1990",
+      "Bench": "S",
+      "Circuitcode": "Sukkur",
+      "CASE TITLE": "Rasool Bux (deceased),thr:his L.Rs.& Ors V/S Hussain Bux Bhutto and others",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "14-MAY-12",
+      "Next Date": "Not Available",
+      "Disposal Date": "11-MAR-10",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "suk",
+      "circuit_code": "suk",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 20
+    }
+  ]
+}

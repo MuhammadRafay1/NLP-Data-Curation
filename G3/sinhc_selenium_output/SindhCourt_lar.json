@@ -1,0 +1,851 @@
+{
+  "metadata": {
+    "file_name": "SindhCourt_lar.json",
+    "created_on": "2025-09-16",
+    "source": "Sindh High Court Case Search Portal",
+    "url": "https://cases.shc.gov.pk/",
+    "description": "Cases extracted for major court: lar"
+  },
+  "cases": [
+    {
+      "#": "1",
+      "Case Name": "Civil Revision",
+      "Caseno": "101",
+      "Caseyear": "1994",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Khuda Bux and others V/S Mst. Naseem Akhtar and others",
+      "Matter": "Land Matters",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "01-FEB-95",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 1
+    },
+    {
+      "#": "2",
+      "Case Name": "Civil Revision",
+      "Caseno": "102",
+      "Caseyear": "1994",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Kadir Bux and others V/S Mst. Nasemm Akhtar and others",
+      "Matter": "Land Matters",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "01-FEB-95",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 2
+    },
+    {
+      "#": "3",
+      "Case Name": "Civil Revision",
+      "Caseno": "103",
+      "Caseyear": "1994",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Dinnal Shah V/S Ghaffar Shah and others",
+      "Matter": "Land Matters",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "11-MAR-99",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 3
+    },
+    {
+      "#": "4",
+      "Case Name": "Civil Revision",
+      "Caseno": "104",
+      "Caseyear": "1994",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Shah Nawaz Khan V/S Ghulam Huda and others",
+      "Matter": "Land Matters",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "19-JAN-04",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 4
+    },
+    {
+      "#": "5",
+      "Case Name": "Civil Revision",
+      "Caseno": "105",
+      "Caseyear": "1994",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Lal Bux and others V/S Ismail and others",
+      "Matter": "Land Matters",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "19-SEP-94",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 5
+    },
+    {
+      "#": "6",
+      "Case Name": "Civil Revision",
+      "Caseno": "106",
+      "Caseyear": "1994",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Muhammad Mihal V/S S.M. Rehamatullah and others",
+      "Matter": "Land Matters",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "21-DEC-94",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 6
+    },
+    {
+      "#": "7",
+      "Case Name": "Civil Revision",
+      "Caseno": "108",
+      "Caseyear": "1994",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Ghulam Mustafa V/S S.M. Rehmatullah and others",
+      "Matter": "Land Matters",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "21-DEC-94",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 7
+    },
+    {
+      "#": "8",
+      "Case Name": "Civil Revision",
+      "Caseno": "109",
+      "Caseyear": "1994",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Gulab through his legal heirs V/S S.M. Rehmatullah and others",
+      "Matter": "Land Matters",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "21-DEC-94",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 8
+    },
+    {
+      "#": "9",
+      "Case Name": "Civil Revision",
+      "Caseno": "110",
+      "Caseyear": "1994",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Allanddin V/S S.M. Rehmatullah and others",
+      "Matter": "Land Matters",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "21-DEC-94",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 9
+    },
+    {
+      "#": "10",
+      "Case Name": "Civil Revision",
+      "Caseno": "111",
+      "Caseyear": "1994",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Noor Muhammad V/S S.M. Rehmatullah and others",
+      "Matter": "Land Matters",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "21-DEC-94",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 10
+    },
+    {
+      "#": "11",
+      "Case Name": "Civil Revision",
+      "Caseno": "112",
+      "Caseyear": "1994",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Saindad and others V/S S.M. Rehmatullah and others",
+      "Matter": "Land Matters",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "21-DEC-94",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 11
+    },
+    {
+      "#": "12",
+      "Case Name": "Civil Revision",
+      "Caseno": "113",
+      "Caseyear": "1994",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Wahid Bux V/S S.M. Rehmatullah and others",
+      "Matter": "Land Matters",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "21-DEC-94",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 12
+    },
+    {
+      "#": "13",
+      "Case Name": "Civil Revision",
+      "Caseno": "114",
+      "Caseyear": "1994",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Hussain Bux V/S S.M. Rehmanullah and others",
+      "Matter": "Land Matters",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "21-DEC-94",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 13
+    },
+    {
+      "#": "14",
+      "Case Name": "Civil Revision",
+      "Caseno": "115",
+      "Caseyear": "1994",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Ummatul Moin Fatima and others V/S Mst. Qaisar Jahan and others",
+      "Matter": "Land Matters",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "21-SEP-00",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 14
+    },
+    {
+      "#": "15",
+      "Case Name": "Civil Revision",
+      "Caseno": "116",
+      "Caseyear": "1994",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Syed Hajjan Shah @ Gulab Shah V/S Nawaz Ali Shah and others",
+      "Matter": "Land Matters",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "10-SEP-96",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 15
+    },
+    {
+      "#": "16",
+      "Case Name": "Civil Revision",
+      "Caseno": "117",
+      "Caseyear": "1994",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Juma Khan V/S Mst. Zuhra and others",
+      "Matter": "Land Matters",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "26-FEB-96",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 16
+    },
+    {
+      "#": "17",
+      "Case Name": "Civil Revision",
+      "Caseno": "118",
+      "Caseyear": "1994",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "D.F.O and others V/S Muhammad Mureed",
+      "Matter": "Land Matters",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "19-DEC-94",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 17
+    },
+    {
+      "#": "18",
+      "Case Name": "Civil Revision",
+      "Caseno": "119",
+      "Caseyear": "1994",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Divisional Forest Officer and others V/S Haji Sher Muhammad",
+      "Matter": "Land Matters",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "14-OCT-99",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 18
+    },
+    {
+      "#": "19",
+      "Case Name": "Civil Revision",
+      "Caseno": "120",
+      "Caseyear": "1994",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Mst. Ghulam Aisha and others V/S Mst. Basran and others",
+      "Matter": "Land Matters",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "23-DEC-99",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 19
+    },
+    {
+      "#": "20",
+      "Case Name": "Civil Revision",
+      "Caseno": "121",
+      "Caseyear": "1994",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Ghulam Hyder V/S Abdul Rehman and others",
+      "Matter": "Land Matters",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "16-JUL-01",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 20
+    }
+  ]
+}
