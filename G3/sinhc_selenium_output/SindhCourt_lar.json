@@ -1,7 +1,7 @@
 {
   "metadata": {
     "file_name": "SindhCourt_lar.json",
-    "created_on": "2025-09-16",
+    "created_on": "2025-09-17",
     "source": "Sindh High Court Case Search Portal",
     "url": "https://cases.shc.gov.pk/",
     "description": "Cases extracted for major court: lar"
@@ -846,6 +846,6726 @@
         "summary": "NA"
       },
       "sr_no": 20
+    },
+    {
+      "#": "21",
+      "Case Name": "Civil Revision",
+      "Caseno": "122",
+      "Caseyear": "1994",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Juma Khan V/S Ahmed Ali and others",
+      "Matter": "Land Matters",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "04-NOV-99",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 21
+    },
+    {
+      "#": "22",
+      "Case Name": "Civil Revision",
+      "Caseno": "123",
+      "Caseyear": "1994",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Rehmatullah V/S Sher Muhammad and others",
+      "Matter": "Land Matters",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "14-APR-97",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 22
+    },
+    {
+      "#": "23",
+      "Case Name": "Civil Revision",
+      "Caseno": "124",
+      "Caseyear": "1994",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Rahim Bux V/S D.E.O Girls and others",
+      "Matter": "Land Matters",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "01-FEB-95",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 23
+    },
+    {
+      "#": "24",
+      "Case Name": "Civil Revision",
+      "Caseno": "46",
+      "Caseyear": "1994",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Muhammad Ibrahim V/S S.M. Rehmatullah and others",
+      "Matter": "Land Matters",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "21-DEC-94",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 24
+    },
+    {
+      "#": "25",
+      "Case Name": "Civil Revision",
+      "Caseno": "50",
+      "Caseyear": "1994",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Zahid Ali Shah V/S Muhammad Khan and others",
+      "Matter": "Against Order",
+      "Last Hearing": "25-AUG-25",
+      "Next Date": "02-OCT-25",
+      "Disposal Date": "Not Available",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 25
+    },
+    {
+      "#": "26",
+      "Case Name": "Civil Revision",
+      "Caseno": "6",
+      "Caseyear": "1994",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Paryal Das and Others. V/S Muhammad Bux and Others.",
+      "Matter": "Against Order",
+      "Last Hearing": "28-AUG-20",
+      "Next Date": "Not Available",
+      "Disposal Date": "28-AUG-20",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 26
+    },
+    {
+      "#": "27",
+      "Case Name": "Civil Revision",
+      "Caseno": "18",
+      "Caseyear": "1995",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Shah Nawaz and Ors V/S Mohammad Ismail and Ors",
+      "Matter": "Others",
+      "Last Hearing": "29-MAY-12",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 27
+    },
+    {
+      "#": "28",
+      "Case Name": "Civil Revision",
+      "Caseno": "26",
+      "Caseyear": "1996",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Mithal and others V/S Bakhshal and another",
+      "Matter": "Land Matters",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "21-OCT-99",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 28
+    },
+    {
+      "#": "29",
+      "Case Name": "Civil Revision",
+      "Caseno": "27",
+      "Caseyear": "1996",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Abdul Ghaffar and another V/S Mst. Zainab  and others",
+      "Matter": "Land Matters",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "24-MAY-02",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 29
+    },
+    {
+      "#": "30",
+      "Case Name": "Civil Revision",
+      "Caseno": "28",
+      "Caseyear": "1996",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Muhammad Hassan V/S Murlidhar and others",
+      "Matter": "Land Matters",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "03-JUN-98",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 30
+    },
+    {
+      "#": "31",
+      "Case Name": "Civil Revision",
+      "Caseno": "29",
+      "Caseyear": "1996",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Ghulam Rasool and others V/S Mehboob and others",
+      "Matter": "Land Matters",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "12-NOV-99",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 31
+    },
+    {
+      "#": "32",
+      "Case Name": "Civil Revision",
+      "Caseno": "30",
+      "Caseyear": "1996",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Abdul Wahab V/S Muhammad Hafeez and others",
+      "Matter": "Land Matters",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "30-MAR-06",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 32
+    },
+    {
+      "#": "33",
+      "Case Name": "Civil Revision",
+      "Caseno": "31",
+      "Caseyear": "1996",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Himath Khan and ors V/S Allah Wassayo and ors",
+      "Matter": "Land Matters",
+      "Last Hearing": "06-DEC-18",
+      "Next Date": "Not Available",
+      "Disposal Date": "21-JAN-19",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 33
+    },
+    {
+      "#": "34",
+      "Case Name": "Civil Revision",
+      "Caseno": "32",
+      "Caseyear": "1996",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Nadar Ali Jakhro V/S Ghous Bux Dayo and others",
+      "Matter": "Land Matters",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "16-FEB-99",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 34
+    },
+    {
+      "#": "35",
+      "Case Name": "Civil Revision",
+      "Caseno": "33",
+      "Caseyear": "1996",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Muhammad Sulleman and others V/S Mitho Khan Seelro",
+      "Matter": "Land Matters",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "06-MAY-97",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 35
+    },
+    {
+      "#": "36",
+      "Case Name": "Civil Revision",
+      "Caseno": "34",
+      "Caseyear": "1996",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Muhammad Ali V/S Ghulam Sarwar and others",
+      "Matter": "Land Matters",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "29-SEP-98",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 36
+    },
+    {
+      "#": "37",
+      "Case Name": "Civil Revision",
+      "Caseno": "1",
+      "Caseyear": "1997",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Baharo alias Bahar Ali V/S Ghulam Rasool and others",
+      "Matter": "Against Order",
+      "Last Hearing": "23-NOV-15",
+      "Next Date": "Not Available",
+      "Disposal Date": "09-FEB-10",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 37
+    },
+    {
+      "#": "38",
+      "Case Name": "Civil Revision",
+      "Caseno": "15",
+      "Caseyear": "1997",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Azizullah Vahucho and others V/S Mehewal and others",
+      "Matter": "Against Order",
+      "Last Hearing": "28-SEP-20",
+      "Next Date": "Not Available",
+      "Disposal Date": "28-SEP-20",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 38
+    },
+    {
+      "#": "39",
+      "Case Name": "Civil Revision",
+      "Caseno": "14",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Atta Mohammad and others V/S Mohammad Chuttal and others",
+      "Matter": "Against Order",
+      "Last Hearing": "20-JAN-17",
+      "Next Date": "Not Available",
+      "Disposal Date": "20-JAN-17",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 39
+    },
+    {
+      "#": "40",
+      "Case Name": "Civil Revision",
+      "Caseno": "44",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Mst Raeesa Khatoon V/S Mustafa Kamal and others",
+      "Matter": "Others",
+      "Last Hearing": "12-OCT-15",
+      "Next Date": "Not Available",
+      "Disposal Date": "12-OCT-15",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 40
+    },
+    {
+      "#": "41",
+      "Case Name": "Civil Revision",
+      "Caseno": "47",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Muhammad Mithal and ors V/S Mst Sharman and ors",
+      "Matter": "Others",
+      "Last Hearing": "12-DEC-08",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 41
+    },
+    {
+      "#": "42",
+      "Case Name": "Civil Revision",
+      "Caseno": "6",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Allah Warrayo and others V/S Ratto Khan and others",
+      "Matter": "Against Order",
+      "Last Hearing": "20-MAR-23",
+      "Next Date": "09-MAR-23",
+      "Disposal Date": "20-MAR-23",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 42
+    },
+    {
+      "#": "43",
+      "Case Name": "Civil Revision",
+      "Caseno": "1",
+      "Caseyear": "1999",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "D.F.O.Larkana and others V/S Mst.Raj Bibi and others",
+      "Matter": "Others",
+      "Last Hearing": "01-OCT-10",
+      "Next Date": "Not Available",
+      "Disposal Date": "01-OCT-10",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 43
+    },
+    {
+      "#": "44",
+      "Case Name": "Civil Revision",
+      "Caseno": "14",
+      "Caseyear": "1999",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Muhammad Yousif and others V/S Dur Muhammad and others",
+      "Matter": "Against Order",
+      "Last Hearing": "24-NOV-14",
+      "Next Date": "Not Available",
+      "Disposal Date": "24-NOV-14",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 44
+    },
+    {
+      "#": "45",
+      "Case Name": "Civil Revision",
+      "Caseno": "3",
+      "Caseyear": "1999",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Arbab Ali Abbasi and others V/S Ghulam Rasool and others",
+      "Matter": "Against Order",
+      "Last Hearing": "23-NOV-15",
+      "Next Date": "Not Available",
+      "Disposal Date": "14-FEB-05",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 45
+    },
+    {
+      "#": "46",
+      "Case Name": "Civil Revision",
+      "Caseno": "11",
+      "Caseyear": "2000",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Executive Engineer Dadu and others V/S Suresh",
+      "Matter": "Against Order",
+      "Last Hearing": "27-JUL-23",
+      "Next Date": "18-MAY-23",
+      "Disposal Date": "27-JUL-23",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 46
+    },
+    {
+      "#": "47",
+      "Case Name": "Civil Revision",
+      "Caseno": "22",
+      "Caseyear": "2000",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Wali Muhammad Hakro V/S Noor Muhammad and others",
+      "Matter": "Against Order",
+      "Last Hearing": "13-APR-17",
+      "Next Date": "Not Available",
+      "Disposal Date": "28-APR-17",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 47
+    },
+    {
+      "#": "48",
+      "Case Name": "Civil Revision",
+      "Caseno": "25",
+      "Caseyear": "2000",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Khawand Dino Machi V/S Muhammad Siddique and others",
+      "Matter": "Others",
+      "Last Hearing": "15-MAY-09",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 48
+    },
+    {
+      "#": "49",
+      "Case Name": "Civil Revision",
+      "Caseno": "40",
+      "Caseyear": "2000",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Mohammad Siddique and others V/S Khuda Bux and others",
+      "Matter": "Against Order",
+      "Last Hearing": "01-SEP-25",
+      "Next Date": "06-OCT-25",
+      "Disposal Date": "28-OCT-21",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 49
+    },
+    {
+      "#": "50",
+      "Case Name": "Civil Revision",
+      "Caseno": "22",
+      "Caseyear": "2001",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Mst.Safia Begum and others V/S Mst.Shams-un-Nisa and others",
+      "Matter": "Others",
+      "Last Hearing": "14-NOV-08",
+      "Next Date": "Not Available",
+      "Disposal Date": "14-NOV-08",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 50
+    },
+    {
+      "#": "51",
+      "Case Name": "Civil Revision",
+      "Caseno": "3",
+      "Caseyear": "2001",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Government of Sindh and others V/S Nausherwan and others",
+      "Matter": "Against Order",
+      "Last Hearing": "01-SEP-25",
+      "Next Date": "25-SEP-25",
+      "Disposal Date": "Not Available",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 51
+    },
+    {
+      "#": "52",
+      "Case Name": "Civil Revision",
+      "Caseno": "5",
+      "Caseyear": "2001",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Roshan Ali and others V/S Malik Mir Ahmed and others",
+      "Matter": "Against Order",
+      "Last Hearing": "01-SEP-25",
+      "Next Date": "25-SEP-25",
+      "Disposal Date": "Not Available",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 52
+    },
+    {
+      "#": "53",
+      "Case Name": "Civil Revision",
+      "Caseno": "6",
+      "Caseyear": "2001",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Ghulam  Ali Sangi V/S Mst. Shahzadi and others",
+      "Matter": "Against Order",
+      "Last Hearing": "18-SEP-17",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 53
+    },
+    {
+      "#": "54",
+      "Case Name": "Civil Revision",
+      "Caseno": "8",
+      "Caseyear": "2001",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "A.D.B.P. and others V/S Masood Ahmed and others",
+      "Matter": "Against Order",
+      "Last Hearing": "31-JAN-19",
+      "Next Date": "Not Available",
+      "Disposal Date": "31-JAN-19",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 54
+    },
+    {
+      "#": "55",
+      "Case Name": "Civil Revision",
+      "Caseno": "10",
+      "Caseyear": "2002",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Muhammad Nawaz Chandio V/S A.H.Faridi and others",
+      "Matter": "Others",
+      "Last Hearing": "12-DEC-08",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 55
+    },
+    {
+      "#": "56",
+      "Case Name": "Civil Revision",
+      "Caseno": "13",
+      "Caseyear": "2002",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Muhammad Bux Khan Khuhawar V/S Secretary Education and others",
+      "Matter": "Against Order",
+      "Last Hearing": "30-MAR-23",
+      "Next Date": "06-MAR-23",
+      "Disposal Date": "30-MAR-23",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 56
+    },
+    {
+      "#": "57",
+      "Case Name": "Civil Revision",
+      "Caseno": "34",
+      "Caseyear": "2002",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Mohammad Sulleman V/S Mst.Salamat Begum and others",
+      "Matter": "Others",
+      "Last Hearing": "28-JAN-11",
+      "Next Date": "Not Available",
+      "Disposal Date": "28-JAN-11",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 57
+    },
+    {
+      "#": "58",
+      "Case Name": "Civil Revision",
+      "Caseno": "47",
+      "Caseyear": "2002",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Talib Hussain V/S Rasool Bux and others",
+      "Matter": "Against Order",
+      "Last Hearing": "04-DEC-17",
+      "Next Date": "Not Available",
+      "Disposal Date": "04-DEC-17",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 58
+    },
+    {
+      "#": "59",
+      "Case Name": "Civil Revision",
+      "Caseno": "51",
+      "Caseyear": "2002",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Mst.Zahida Abro V/S Prov: of Sindh and others",
+      "Matter": "Others",
+      "Last Hearing": "12-DEC-08",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 59
+    },
+    {
+      "#": "60",
+      "Case Name": "Civil Revision",
+      "Caseno": "59",
+      "Caseyear": "2002",
+      "Bench": "D",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Muhammad Usman Jessar V/S Ghulam Mustafa and others",
+      "Matter": "Others",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 60
+    },
+    {
+      "#": "61",
+      "Case Name": "Civil Revision",
+      "Caseno": "59",
+      "Caseyear": "2002",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Muhammad Usman Jessar V/S Gulam Mustafa  Sehar and others",
+      "Matter": "Others",
+      "Last Hearing": "27-AUG-10",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 61
+    },
+    {
+      "#": "62",
+      "Case Name": "Civil Revision",
+      "Caseno": "17",
+      "Caseyear": "2003",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Rashid Kamal and others V/S Umul Khair and others",
+      "Matter": "Against Order",
+      "Last Hearing": "19-SEP-19",
+      "Next Date": "Not Available",
+      "Disposal Date": "19-SEP-19",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 62
+    },
+    {
+      "#": "63",
+      "Case Name": "Civil Revision",
+      "Caseno": "19",
+      "Caseyear": "2003",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Mohammad Sharif Arain V/S Mohammad Hassan Arain",
+      "Matter": "Others",
+      "Last Hearing": "22-MAR-11",
+      "Next Date": "Not Available",
+      "Disposal Date": "22-MAR-11",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 63
+    },
+    {
+      "#": "64",
+      "Case Name": "Civil Revision",
+      "Caseno": "21",
+      "Caseyear": "2003",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Muzaffar Ali and others V/S Noor Muhammad and others",
+      "Matter": "Against Order",
+      "Last Hearing": "20-JAN-22",
+      "Next Date": "Not Available",
+      "Disposal Date": "16-MAY-16",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 64
+    },
+    {
+      "#": "65",
+      "Case Name": "Civil Revision",
+      "Caseno": "36",
+      "Caseyear": "2003",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Mohammad Malook and others V/S Ali Nawaz and others",
+      "Matter": "Others",
+      "Last Hearing": "04-SEP-08",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 65
+    },
+    {
+      "#": "66",
+      "Case Name": "Civil Revision",
+      "Caseno": "45",
+      "Caseyear": "2003",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Qamaruddin and others V/S Mst.Khudiat and others",
+      "Matter": "Against Order",
+      "Last Hearing": "30-JAN-17",
+      "Next Date": "Not Available",
+      "Disposal Date": "30-JAN-17",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 66
+    },
+    {
+      "#": "67",
+      "Case Name": "Civil Revision",
+      "Caseno": "52",
+      "Caseyear": "2003",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Amiruddin Tunio V/S PO Sindh and others",
+      "Matter": "Against Order",
+      "Last Hearing": "31-OCT-22",
+      "Next Date": "Not Available",
+      "Disposal Date": "30-DEC-22",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 67
+    },
+    {
+      "#": "68",
+      "Case Name": "Civil Revision",
+      "Caseno": "53",
+      "Caseyear": "2003",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Govt: of Sindh and others V/S Rasool Bux Chandio and another",
+      "Matter": "Against Order",
+      "Last Hearing": "15-SEP-25",
+      "Next Date": "16-OCT-25",
+      "Disposal Date": "Not Available",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 68
+    },
+    {
+      "#": "69",
+      "Case Name": "Civil Revision",
+      "Caseno": "62",
+      "Caseyear": "2003",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Abdul Majeed V/S Gul Mohammad and others",
+      "Matter": "Against Order",
+      "Last Hearing": "14-FEB-19",
+      "Next Date": "Not Available",
+      "Disposal Date": "14-FEB-19",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 69
+    },
+    {
+      "#": "70",
+      "Case Name": "Civil Revision",
+      "Caseno": "71",
+      "Caseyear": "2003",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Syed Ahsan Ali and others V/S Muhammad  Khan Gopang  and others",
+      "Matter": "Others",
+      "Last Hearing": "22-MAR-11",
+      "Next Date": "Not Available",
+      "Disposal Date": "22-MAR-11",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 70
+    },
+    {
+      "#": "71",
+      "Case Name": "Civil Revision",
+      "Caseno": "75",
+      "Caseyear": "2003",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Officer Incharge Agricultural Research V/S Taj Muhammad and others",
+      "Matter": "Against Order",
+      "Last Hearing": "15-SEP-25",
+      "Next Date": "09-OCT-25",
+      "Disposal Date": "Not Available",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 71
+    },
+    {
+      "#": "72",
+      "Case Name": "Civil Revision",
+      "Caseno": "76",
+      "Caseyear": "2003",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Imamuddin and others V/S Muzaffar Hussain and others",
+      "Matter": "Land Matters",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "01-MAR-05",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 72
+    },
+    {
+      "#": "73",
+      "Case Name": "Civil Revision",
+      "Caseno": "77",
+      "Caseyear": "2003",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Aijaz Ali and others V/S Abdul Rauf and others",
+      "Matter": "Against Order",
+      "Last Hearing": "02-OCT-17",
+      "Next Date": "Not Available",
+      "Disposal Date": "02-OCT-17",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 73
+    },
+    {
+      "#": "74",
+      "Case Name": "Civil Revision",
+      "Caseno": "78",
+      "Caseyear": "2003",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Nawab Khan and others V/S Dharmdass and others",
+      "Matter": "Others",
+      "Last Hearing": "14-OCT-09",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 74
+    },
+    {
+      "#": "75",
+      "Case Name": "Civil Revision",
+      "Caseno": "79",
+      "Caseyear": "2003",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "PO Sindh and others V/S Khair Muhammad and others",
+      "Matter": "Against Order",
+      "Last Hearing": "01-SEP-25",
+      "Next Date": "02-OCT-25",
+      "Disposal Date": "Not Available",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 75
+    },
+    {
+      "#": "76",
+      "Case Name": "Civil Revision",
+      "Caseno": "81",
+      "Caseyear": "2003",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Province of Sindh and others V/S Abdul Baqui and others",
+      "Matter": "Against Order",
+      "Last Hearing": "17-FEB-22",
+      "Next Date": "Not Available",
+      "Disposal Date": "17-FEB-22",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 76
+    },
+    {
+      "#": "77",
+      "Case Name": "Civil Revision",
+      "Caseno": "82",
+      "Caseyear": "2003",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Ghulam Hyder and others V/S Siraj Ahmed and others",
+      "Matter": "Others",
+      "Last Hearing": "10-NOV-08",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 77
+    },
+    {
+      "#": "78",
+      "Case Name": "Civil Revision",
+      "Caseno": "83",
+      "Caseyear": "2003",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Ghulam Hussain and others V/S Nadir Ali and others",
+      "Matter": "Land Matters",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "09-MAR-05",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 78
+    },
+    {
+      "#": "79",
+      "Case Name": "Civil Revision",
+      "Caseno": "84",
+      "Caseyear": "2003",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Muhammad Yakoob and others V/S Mst. Sugra Bibi and others",
+      "Matter": "LEASE OF PROPERTY",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "14-JUN-04",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 79
+    },
+    {
+      "#": "80",
+      "Case Name": "Civil Revision",
+      "Caseno": "85",
+      "Caseyear": "2003",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Gada Hussain and others V/S Muhammad Essa and others",
+      "Matter": "Land Matters",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "12-APR-04",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 80
+    },
+    {
+      "#": "81",
+      "Case Name": "Civil Revision",
+      "Caseno": "86",
+      "Caseyear": "2003",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Hidayatullah V/S Nisar Ahmed and others",
+      "Matter": "Land Matters",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "10-MAY-05",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 81
+    },
+    {
+      "#": "82",
+      "Case Name": "Civil Revision",
+      "Caseno": "87",
+      "Caseyear": "2003",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Kaleemullah V/S Nisar Ahmed and others",
+      "Matter": "Land Matters",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "10-MAY-05",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 82
+    },
+    {
+      "#": "83",
+      "Case Name": "Civil Revision",
+      "Caseno": "88",
+      "Caseyear": "2003",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Rasool Bakhsh and others V/S Abdullah and others",
+      "Matter": "Land Matters",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "13-SEP-04",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 83
+    },
+    {
+      "#": "84",
+      "Case Name": "Civil Revision",
+      "Caseno": "10",
+      "Caseyear": "2004",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Ali Hassan Soomro V/S Mst.Pathani and others",
+      "Matter": "Others",
+      "Last Hearing": "05-SEP-08",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 84
+    },
+    {
+      "#": "85",
+      "Case Name": "Civil Revision",
+      "Caseno": "11",
+      "Caseyear": "2004",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Mst.Siyani V/S Sarfraz  and others",
+      "Matter": "Against Order",
+      "Last Hearing": "30-SEP-19",
+      "Next Date": "Not Available",
+      "Disposal Date": "30-SEP-19",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 85
+    },
+    {
+      "#": "86",
+      "Case Name": "Civil Revision",
+      "Caseno": "14",
+      "Caseyear": "2004",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Shah Nawaz and others V/S Eidan and others",
+      "Matter": "Against Order",
+      "Last Hearing": "30-JAN-17",
+      "Next Date": "Not Available",
+      "Disposal Date": "30-JAN-17",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 86
+    },
+    {
+      "#": "87",
+      "Case Name": "Civil Revision",
+      "Caseno": "15",
+      "Caseyear": "2004",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Shah Nawaz V/S Ali Nawaz and others",
+      "Matter": "Others",
+      "Last Hearing": "22-FEB-10",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 87
+    },
+    {
+      "#": "88",
+      "Case Name": "Civil Revision",
+      "Caseno": "15",
+      "Caseyear": "2004",
+      "Bench": "D",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Shah Nawaz V/S Ali Nawaz and others",
+      "Matter": "Others",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 88
+    },
+    {
+      "#": "89",
+      "Case Name": "Civil Revision",
+      "Caseno": "25",
+      "Caseyear": "2004",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "D.F.O. Jacobabad and others V/S Rind Ali Khan and others",
+      "Matter": "Others",
+      "Last Hearing": "16-SEP-13",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 89
+    },
+    {
+      "#": "90",
+      "Case Name": "Civil Revision",
+      "Caseno": "29",
+      "Caseyear": "2004",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "D.F.O. and others V/S Rasool Bux and others",
+      "Matter": "Against Order",
+      "Last Hearing": "15-SEP-25",
+      "Next Date": "06-OCT-25",
+      "Disposal Date": "Not Available",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 90
+    },
+    {
+      "#": "91",
+      "Case Name": "Civil Revision",
+      "Caseno": "32",
+      "Caseyear": "2004",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Mumtaz Hussain and others V/S Waheed Ahmed",
+      "Matter": "Others",
+      "Last Hearing": "07-MAY-09",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 91
+    },
+    {
+      "#": "92",
+      "Case Name": "Civil Revision",
+      "Caseno": "34",
+      "Caseyear": "2004",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Province of Sindh and others V/S Mirza Khan and others",
+      "Matter": "Against Order",
+      "Last Hearing": "13-AUG-20",
+      "Next Date": "Not Available",
+      "Disposal Date": "13-AUG-20",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 92
+    },
+    {
+      "#": "93",
+      "Case Name": "Civil Revision",
+      "Caseno": "35",
+      "Caseyear": "2004",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Mehrunisa and others V/S Syed Noor Ali  Shah and others",
+      "Matter": "Others",
+      "Last Hearing": "13-OCT-09",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 93
+    },
+    {
+      "#": "94",
+      "Case Name": "Civil Revision",
+      "Caseno": "36",
+      "Caseyear": "2004",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Thakurdass and others V/S Mohammad Ibrahim and others",
+      "Matter": "Others",
+      "Last Hearing": "27-SEP-10",
+      "Next Date": "Not Available",
+      "Disposal Date": "27-SEP-10",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 94
+    },
+    {
+      "#": "95",
+      "Case Name": "Civil Revision",
+      "Caseno": "45",
+      "Caseyear": "2004",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Ghulam Abbass and others V/S Abdul Wahid and others",
+      "Matter": "Against Order",
+      "Last Hearing": "13-AUG-20",
+      "Next Date": "Not Available",
+      "Disposal Date": "30-JAN-17",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 95
+    },
+    {
+      "#": "96",
+      "Case Name": "Civil Revision",
+      "Caseno": "47",
+      "Caseyear": "2004",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Mehboob Ali Solangi V/S Moula Bakhsh and others",
+      "Matter": "Against Order",
+      "Last Hearing": "21-AUG-25",
+      "Next Date": "22-SEP-25",
+      "Disposal Date": "Not Available",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 96
+    },
+    {
+      "#": "97",
+      "Case Name": "Civil Revision",
+      "Caseno": "51",
+      "Caseyear": "2004",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Rasool Bux Larik V/S Moula Bakhsh and others",
+      "Matter": "Against Order",
+      "Last Hearing": "21-AUG-25",
+      "Next Date": "22-SEP-25",
+      "Disposal Date": "Not Available",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 97
+    },
+    {
+      "#": "98",
+      "Case Name": "Civil Revision",
+      "Caseno": "52",
+      "Caseyear": "2004",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Ghulam Qadir and others V/S Mst.Shah Khatoon @ Shahzadi and others",
+      "Matter": "Against Order",
+      "Last Hearing": "12-MAR-18",
+      "Next Date": "Not Available",
+      "Disposal Date": "12-MAR-18",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 98
+    },
+    {
+      "#": "99",
+      "Case Name": "Civil Revision",
+      "Caseno": "60",
+      "Caseyear": "2004",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Mushtaq Ahmed Khuwaja V/S Dr.Mohammad Aslam and  Ors",
+      "Matter": "Others",
+      "Last Hearing": "07-SEP-15",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 99
+    },
+    {
+      "#": "100",
+      "Case Name": "Civil Revision",
+      "Caseno": "64",
+      "Caseyear": "2004",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Abdul Baqi Khan V/S Province of Sindh and others",
+      "Matter": "Against Order",
+      "Last Hearing": "12-SEP-19",
+      "Next Date": "Not Available",
+      "Disposal Date": "12-SEP-18",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 100
+    },
+    {
+      "#": "101",
+      "Case Name": "Civil Revision",
+      "Caseno": "67",
+      "Caseyear": "2004",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Ahmed Mujtaba Chandio V/S Member Board of Revenue and others",
+      "Matter": "Against Order",
+      "Last Hearing": "11-NOV-19",
+      "Next Date": "Not Available",
+      "Disposal Date": "11-NOV-19",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 101
+    },
+    {
+      "#": "102",
+      "Case Name": "Civil Revision",
+      "Caseno": "7",
+      "Caseyear": "2004",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Haji Khan and others V/S Mohammad Younis and others",
+      "Matter": "Others",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 102
+    },
+    {
+      "#": "103",
+      "Case Name": "Civil Revision",
+      "Caseno": "73",
+      "Caseyear": "2004",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Syed Peeral Shah and others V/S Ali Sher and others",
+      "Matter": "Against Order",
+      "Last Hearing": "25-APR-18",
+      "Next Date": "Not Available",
+      "Disposal Date": "25-APR-18",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 103
+    },
+    {
+      "#": "104",
+      "Case Name": "Civil Revision",
+      "Caseno": "80",
+      "Caseyear": "2004",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Haji Mohammad Saleh and others V/S Noor Ahmed Brohi",
+      "Matter": "Others",
+      "Last Hearing": "18-OCT-10",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 104
+    },
+    {
+      "#": "105",
+      "Case Name": "Civil Revision",
+      "Caseno": "81",
+      "Caseyear": "2004",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Jalaluddin Chandio V/S Province of Sindh and others",
+      "Matter": "Others",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 105
+    },
+    {
+      "#": "106",
+      "Case Name": "Civil Revision",
+      "Caseno": "83",
+      "Caseyear": "2004",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Ghulam Shabir and others V/S Abdul Khalique and others",
+      "Matter": "Against Order",
+      "Last Hearing": "12-JAN-15",
+      "Next Date": "Not Available",
+      "Disposal Date": "15-JAN-15",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 106
+    },
+    {
+      "#": "107",
+      "Case Name": "Civil Revision",
+      "Caseno": "10",
+      "Caseyear": "2005",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Allah Rakhio V/S Chief Secretary of Sindh and others",
+      "Matter": "Against Order",
+      "Last Hearing": "25-OCT-17",
+      "Next Date": "Not Available",
+      "Disposal Date": "25-OCT-17",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 107
+    },
+    {
+      "#": "108",
+      "Case Name": "Civil Revision",
+      "Caseno": "14",
+      "Caseyear": "2005",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Syed Qadeer Ali Shah V/S D.D.O Education and others",
+      "Matter": "Others",
+      "Last Hearing": "06-APR-11",
+      "Next Date": "Not Available",
+      "Disposal Date": "06-APR-11",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 108
+    },
+    {
+      "#": "109",
+      "Case Name": "Civil Revision",
+      "Caseno": "15",
+      "Caseyear": "2005",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Shah Nawaz Khan and anothers V/S Province of Sindh and others",
+      "Matter": "Against Order",
+      "Last Hearing": "26-SEP-19",
+      "Next Date": "Not Available",
+      "Disposal Date": "26-SEP-19",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 109
+    },
+    {
+      "#": "110",
+      "Case Name": "Civil Revision",
+      "Caseno": "16",
+      "Caseyear": "2005",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Ghulam Nabi and others V/S Nawab and  others",
+      "Matter": "Others",
+      "Last Hearing": "28-MAR-11",
+      "Next Date": "Not Available",
+      "Disposal Date": "28-MAR-11",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 110
+    },
+    {
+      "#": "111",
+      "Case Name": "Civil Revision",
+      "Caseno": "18",
+      "Caseyear": "2005",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Muhammad Ali and others V/S Muhabat Khan and others",
+      "Matter": "Against Order",
+      "Last Hearing": "12-SEP-19",
+      "Next Date": "Not Available",
+      "Disposal Date": "12-SEP-19",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 111
+    },
+    {
+      "#": "112",
+      "Case Name": "Civil Revision",
+      "Caseno": "28",
+      "Caseyear": "2005",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Karim Bux and others V/S Hyder Ali",
+      "Matter": "Against Order",
+      "Last Hearing": "11-APR-16",
+      "Next Date": "Not Available",
+      "Disposal Date": "11-APR-16",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 112
+    },
+    {
+      "#": "113",
+      "Case Name": "Civil Revision",
+      "Caseno": "30",
+      "Caseyear": "2005",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Hamzo Khan Bughio V/S Prov. ofSindh and ors",
+      "Matter": "Others",
+      "Last Hearing": "24-APR-09",
+      "Next Date": "Not Available",
+      "Disposal Date": "24-DEC-09",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 113
+    },
+    {
+      "#": "114",
+      "Case Name": "Civil Revision",
+      "Caseno": "31",
+      "Caseyear": "2005",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Ghulam Shabir V/S Assistant Director Fisheries Larkana & Ors:",
+      "Matter": "Others",
+      "Last Hearing": "28-APR-08",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 114
+    },
+    {
+      "#": "115",
+      "Case Name": "Civil Revision",
+      "Caseno": "39",
+      "Caseyear": "2005",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Ghulam Nabi and  others V/S Ghulam Muhammad",
+      "Matter": "Others",
+      "Last Hearing": "08-MAY-12",
+      "Next Date": "Not Available",
+      "Disposal Date": "08-MAY-12",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 115
+    },
+    {
+      "#": "116",
+      "Case Name": "Civil Revision",
+      "Caseno": "4",
+      "Caseyear": "2005",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "United Bank Ltd V/S Shoib Ahmed and ors",
+      "Matter": "Against Order",
+      "Last Hearing": "19-AUG-19",
+      "Next Date": "Not Available",
+      "Disposal Date": "19-AUG-19",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 116
+    },
+    {
+      "#": "117",
+      "Case Name": "Civil Revision",
+      "Caseno": "40",
+      "Caseyear": "2005",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Water & Power Development and others V/S Shahid Rasool and others",
+      "Matter": "Against Order",
+      "Last Hearing": "06-NOV-17",
+      "Next Date": "Not Available",
+      "Disposal Date": "06-NOV-17",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 117
+    },
+    {
+      "#": "118",
+      "Case Name": "Civil Revision",
+      "Caseno": "41",
+      "Caseyear": "2005",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Hafiz Ghulam Qadir and others V/S S.M.Rahmanullah and others",
+      "Matter": "Others",
+      "Last Hearing": "13-OCT-08",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 118
+    },
+    {
+      "#": "119",
+      "Case Name": "Civil Revision",
+      "Caseno": "43",
+      "Caseyear": "2005",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Mohammad Hassan Sangi V/S Shamsuddin and others",
+      "Matter": "Others",
+      "Last Hearing": "11-MAY-11",
+      "Next Date": "Not Available",
+      "Disposal Date": "11-MAY-11",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 119
+    },
+    {
+      "#": "120",
+      "Case Name": "Civil Revision",
+      "Caseno": "44",
+      "Caseyear": "2005",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Executive Engineer Highway Larkana V/S L.A.Officer and others",
+      "Matter": "Others",
+      "Last Hearing": "23-APR-09",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 120
+    },
+    {
+      "#": "121",
+      "Case Name": "Civil Revision",
+      "Caseno": "50",
+      "Caseyear": "2005",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Ahmed Ali and others V/S Hakim Ali and others",
+      "Matter": "Others",
+      "Last Hearing": "23-JUL-07",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 121
+    },
+    {
+      "#": "122",
+      "Case Name": "Civil Revision",
+      "Caseno": "51",
+      "Caseyear": "2005",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Ahmed Ali and others V/S Hakim Ali",
+      "Matter": "Others",
+      "Last Hearing": "23-JUL-07",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 122
+    },
+    {
+      "#": "123",
+      "Case Name": "Civil Revision",
+      "Caseno": "53",
+      "Caseyear": "2005",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Mst.Saeeda Begum and others V/S Iqtidar Ali  Khan and others",
+      "Matter": "Others",
+      "Last Hearing": "18-OCT-10",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 123
+    },
+    {
+      "#": "124",
+      "Case Name": "Civil Revision",
+      "Caseno": "54",
+      "Caseyear": "2005",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Mir Amanullah Khan V/S Province of Sindh and others",
+      "Matter": "Others",
+      "Last Hearing": "28-MAR-11",
+      "Next Date": "Not Available",
+      "Disposal Date": "28-MAR-11",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 124
+    },
+    {
+      "#": "125",
+      "Case Name": "Civil Revision",
+      "Caseno": "55",
+      "Caseyear": "2005",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Allah Warraho and others V/S Shafi Muhammad and others",
+      "Matter": "Others",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 125
+    },
+    {
+      "#": "126",
+      "Case Name": "Civil Revision",
+      "Caseno": "59",
+      "Caseyear": "2005",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Agha Kifayat Hussain and others V/S Prov:of Sindh and others",
+      "Matter": "Others",
+      "Last Hearing": "08-OCT-08",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 126
+    },
+    {
+      "#": "127",
+      "Case Name": "Civil Revision",
+      "Caseno": "60",
+      "Caseyear": "2005",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Head Master Govt.H.S.Ratodero & others V/S Imamuddin",
+      "Matter": "Others",
+      "Last Hearing": "28-OCT-11",
+      "Next Date": "Not Available",
+      "Disposal Date": "28-OCT-11",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 127
+    },
+    {
+      "#": "128",
+      "Case Name": "Civil Revision",
+      "Caseno": "61",
+      "Caseyear": "2005",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Ghulam Jan Kanrani V/S Province of Sindh and others",
+      "Matter": "Others",
+      "Last Hearing": "21-OCT-09",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 128
+    },
+    {
+      "#": "129",
+      "Case Name": "Civil Revision",
+      "Caseno": "62",
+      "Caseyear": "2005",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Hafiz Muhammad Mithal V/S Amir Bux Shaikh and others",
+      "Matter": "Against Order",
+      "Last Hearing": "16-JAN-17",
+      "Next Date": "Not Available",
+      "Disposal Date": "16-JAN-17",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 129
+    },
+    {
+      "#": "130",
+      "Case Name": "Civil Revision",
+      "Caseno": "66",
+      "Caseyear": "2005",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Abdul Hakim Brohi V/S Nabi Bux alias Nawab Junejo",
+      "Matter": "Others",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 130
+    },
+    {
+      "#": "131",
+      "Case Name": "Civil Revision",
+      "Caseno": "68",
+      "Caseyear": "2005",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Kirshan Kumar V/S Lachmandas and others",
+      "Matter": "Others",
+      "Last Hearing": "15-JAN-09",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 131
+    },
+    {
+      "#": "132",
+      "Case Name": "Civil Revision",
+      "Caseno": "69",
+      "Caseyear": "2005",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Qazi Badar-ur-Rehman and others V/S Adyati Bai and others",
+      "Matter": "Others",
+      "Last Hearing": "26-OCT-09",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 132
+    },
+    {
+      "#": "133",
+      "Case Name": "Civil Revision",
+      "Caseno": "71",
+      "Caseyear": "2005",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Ali Jan Chuhan V/S Mohammad Khalid",
+      "Matter": "Others",
+      "Last Hearing": "21-MAR-11",
+      "Next Date": "Not Available",
+      "Disposal Date": "21-MAR-11",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 133
+    },
+    {
+      "#": "134",
+      "Case Name": "Civil Revision",
+      "Caseno": "72",
+      "Caseyear": "2005",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Zarai Taraqiati Bank Limited V/S Mohammad Fakir Kalhoro",
+      "Matter": "Others",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 134
+    },
+    {
+      "#": "135",
+      "Case Name": "Civil Revision",
+      "Caseno": "72",
+      "Caseyear": "2005",
+      "Bench": "D",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Zarai Taraqiati Bank Ltd V/S Muhammad Fakir Kalhoro",
+      "Matter": "Others",
+      "Last Hearing": "26-NOV-13",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 135
+    },
+    {
+      "#": "136",
+      "Case Name": "Civil Revision",
+      "Caseno": "73",
+      "Caseyear": "2005",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Agha Abdul Ghafoor and others V/S Lal Chand and others",
+      "Matter": "Against Order",
+      "Last Hearing": "26-AUG-15",
+      "Next Date": "Not Available",
+      "Disposal Date": "26-AUG-15",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 136
+    },
+    {
+      "#": "137",
+      "Case Name": "Civil Revision",
+      "Caseno": "8",
+      "Caseyear": "2005",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Attaullah Mashori  and  others V/S Nisar Muhammad and  others",
+      "Matter": "Others",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 137
+    },
+    {
+      "#": "138",
+      "Case Name": "Civil Revision",
+      "Caseno": "9",
+      "Caseyear": "2005",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Khuwaja Muhammad Anjum V/S Dr.Waqar Ahmed and others",
+      "Matter": "Others",
+      "Last Hearing": "27-NOV-08",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 138
+    },
+    {
+      "#": "139",
+      "Case Name": "Civil Revision",
+      "Caseno": "12",
+      "Caseyear": "2006",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Ghulam Mustafa V/S Abdul Latif and others",
+      "Matter": "Others",
+      "Last Hearing": "10-NOV-09",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 139
+    },
+    {
+      "#": "140",
+      "Case Name": "Civil Revision",
+      "Caseno": "13",
+      "Caseyear": "2006",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Shamsuddin V/S Nadir Hussain and others",
+      "Matter": "Against Order",
+      "Last Hearing": "16-MAY-25",
+      "Next Date": "07-MAY-25",
+      "Disposal Date": "16-MAY-25",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 140
+    },
+    {
+      "#": "141",
+      "Case Name": "Civil Revision",
+      "Caseno": "14",
+      "Caseyear": "2006",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Manzoor Ali and others V/S Syed Muhammad Hussain Naqvi and others",
+      "Matter": "Against Order",
+      "Last Hearing": "15-SEP-25",
+      "Next Date": "09-OCT-25",
+      "Disposal Date": "Not Available",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 141
+    },
+    {
+      "#": "142",
+      "Case Name": "Civil Revision",
+      "Caseno": "15",
+      "Caseyear": "2006",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Mohammad Nawaz V/S Haji Illahi Bux and others",
+      "Matter": "Others",
+      "Last Hearing": "30-OCT-09",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 142
+    },
+    {
+      "#": "143",
+      "Case Name": "Civil Revision",
+      "Caseno": "16",
+      "Caseyear": "2006",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Mohammad Nawaz Magsi V/S Nisar Ahmed and others",
+      "Matter": "Others",
+      "Last Hearing": "18-NOV-09",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 143
+    },
+    {
+      "#": "144",
+      "Case Name": "Civil Revision",
+      "Caseno": "18",
+      "Caseyear": "2006",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Rasool Bux and others V/S AhmedKhan and others",
+      "Matter": "Others",
+      "Last Hearing": "20-OCT-09",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 144
+    },
+    {
+      "#": "145",
+      "Case Name": "Civil Revision",
+      "Caseno": "20",
+      "Caseyear": "2006",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Din Mohammad Bhurgari V/S Abdul Khalique Bhurgari and others",
+      "Matter": "Others",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 145
+    },
+    {
+      "#": "146",
+      "Case Name": "Civil Revision",
+      "Caseno": "21",
+      "Caseyear": "2006",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Ali Ahmed V/S Haji Ali Gohar and others",
+      "Matter": "Against Order",
+      "Last Hearing": "17-DEC-18",
+      "Next Date": "Not Available",
+      "Disposal Date": "17-DEC-18",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 146
+    },
+    {
+      "#": "147",
+      "Case Name": "Civil Revision",
+      "Caseno": "22",
+      "Caseyear": "2006",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Jeo alias Nabi Bux Khoso V/S Lal Bux Khoso and others",
+      "Matter": "Against Order",
+      "Last Hearing": "16-JAN-17",
+      "Next Date": "Not Available",
+      "Disposal Date": "16-JAN-17",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 147
+    },
+    {
+      "#": "148",
+      "Case Name": "Civil Revision",
+      "Caseno": "23",
+      "Caseyear": "2006",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Lal Muhammad Umrani V/S Hamz Ali Khan Umrani and others",
+      "Matter": "Others",
+      "Last Hearing": "19-APR-11",
+      "Next Date": "Not Available",
+      "Disposal Date": "19-APR-11",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 148
+    },
+    {
+      "#": "149",
+      "Case Name": "Civil Revision",
+      "Caseno": "25",
+      "Caseyear": "2006",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Pir Bux Brohi V/S Gul Mohammad Brohi and others",
+      "Matter": "Others",
+      "Last Hearing": "06-MAR-13",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 149
+    },
+    {
+      "#": "150",
+      "Case Name": "Civil Revision",
+      "Caseno": "28",
+      "Caseyear": "2006",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Mohammad Qasim Chhana & others V/S Darya Khan Bhugio",
+      "Matter": "Others",
+      "Last Hearing": "12-DEC-08",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 150
+    },
+    {
+      "#": "151",
+      "Case Name": "Civil Revision",
+      "Caseno": "31",
+      "Caseyear": "2006",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Mst. Husna and others V/S Mst. Zebul and other",
+      "Matter": "Others",
+      "Last Hearing": "20-NOV-08",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 151
+    },
+    {
+      "#": "152",
+      "Case Name": "Civil Revision",
+      "Caseno": "32",
+      "Caseyear": "2006",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Fakir Gulsher V/S Assistant Director Fishries and others",
+      "Matter": "Others",
+      "Last Hearing": "07-NOV-08",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 152
+    },
+    {
+      "#": "153",
+      "Case Name": "Civil Revision",
+      "Caseno": "33",
+      "Caseyear": "2006",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Fakir Gulsher V/S Munwar Ali and other",
+      "Matter": "Others",
+      "Last Hearing": "07-NOV-08",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 153
+    },
+    {
+      "#": "154",
+      "Case Name": "Civil Revision",
+      "Caseno": "35",
+      "Caseyear": "2006",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Bhajan Lal alias Bhajan Kumar V/S Ghulam Hussain and others",
+      "Matter": "Against Order",
+      "Last Hearing": "27-AUG-20",
+      "Next Date": "Not Available",
+      "Disposal Date": "06-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 154
+    },
+    {
+      "#": "155",
+      "Case Name": "Civil Revision",
+      "Caseno": "36",
+      "Caseyear": "2006",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Ghulam Hyder and others V/S Mst.Farah Naz and others",
+      "Matter": "Others",
+      "Last Hearing": "26-OCT-09",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 155
+    },
+    {
+      "#": "156",
+      "Case Name": "Civil Revision",
+      "Caseno": "37",
+      "Caseyear": "2006",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Allah Dino and others V/S Haji Abdul Halim and others",
+      "Matter": "Others",
+      "Last Hearing": "22-FEB-10",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 156
+    },
+    {
+      "#": "157",
+      "Case Name": "Civil Revision",
+      "Caseno": "38",
+      "Caseyear": "2006",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Ali Bux and others V/S Haji Abdul Halim and others",
+      "Matter": "Others",
+      "Last Hearing": "22-FEB-10",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 157
+    },
+    {
+      "#": "158",
+      "Case Name": "Civil Revision",
+      "Caseno": "39",
+      "Caseyear": "2006",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Allah Dino V/S Haji Abdul Halim and others",
+      "Matter": "Others",
+      "Last Hearing": "22-FEB-10",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 158
+    },
+    {
+      "#": "159",
+      "Case Name": "Civil Revision",
+      "Caseno": "40",
+      "Caseyear": "2006",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Sugnomal(dead)his L.Rs: V/S Shewaram(dead)his L.Rs:",
+      "Matter": "Against Order",
+      "Last Hearing": "09-OCT-17",
+      "Next Date": "Not Available",
+      "Disposal Date": "09-OCT-17",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 159
+    },
+    {
+      "#": "160",
+      "Case Name": "Civil Revision",
+      "Caseno": "42",
+      "Caseyear": "2006",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Ahmed Nawaz Khuhawar V/S Mst Anees Begum and others",
+      "Matter": "Admission matter",
+      "Last Hearing": "15-SEP-17",
+      "Next Date": "Not Available",
+      "Disposal Date": "15-SEP-17",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 160
+    },
+    {
+      "#": "161",
+      "Case Name": "Civil Revision",
+      "Caseno": "44",
+      "Caseyear": "2006",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Ashique Ali and others V/S Province  of Sindh and others",
+      "Matter": "Others",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 161
+    },
+    {
+      "#": "162",
+      "Case Name": "Civil Revision",
+      "Caseno": "45",
+      "Caseyear": "2006",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Pathan Khan Chandio V/S Mst: Nawab Khatoon & others",
+      "Matter": "Others",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 162
+    },
+    {
+      "#": "163",
+      "Case Name": "Civil Revision",
+      "Caseno": "5",
+      "Caseyear": "2006",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Haji Khan and another V/S Nisar Ahmed Pathan",
+      "Matter": "Others",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 163
+    },
+    {
+      "#": "164",
+      "Case Name": "Civil Revision",
+      "Caseno": "50",
+      "Caseyear": "2006",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Kazi Muhammad Akram and others V/S Munshi Chandu Singh and others",
+      "Matter": "Others",
+      "Last Hearing": "01-SEP-08",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 164
+    },
+    {
+      "#": "165",
+      "Case Name": "Civil Revision",
+      "Caseno": "51",
+      "Caseyear": "2006",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Muhammad Bux V/S Gul Hassan and others",
+      "Matter": "Others",
+      "Last Hearing": "28-OCT-09",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 165
+    },
+    {
+      "#": "166",
+      "Case Name": "Civil Revision",
+      "Caseno": "53",
+      "Caseyear": "2006",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Mohammad Akram Rahoojo V/S Province of Sindh and others",
+      "Matter": "Against Order",
+      "Last Hearing": "23-JAN-25",
+      "Next Date": "Not Available",
+      "Disposal Date": "13-DEC-24",
+      "Status": "Dismissed",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 166
+    },
+    {
+      "#": "167",
+      "Case Name": "Civil Revision",
+      "Caseno": "56",
+      "Caseyear": "2006",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Lal Bux through L.Rs: V/S Naban and others",
+      "Matter": "Against Order",
+      "Last Hearing": "20-OCT-14",
+      "Next Date": "Not Available",
+      "Disposal Date": "20-OCT-14",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 167
+    },
+    {
+      "#": "168",
+      "Case Name": "Civil Revision",
+      "Caseno": "57",
+      "Caseyear": "2006",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Ahmed Mujtaba V/S Ashique Noor and ors:",
+      "Matter": "Others",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 168
+    },
+    {
+      "#": "169",
+      "Case Name": "Civil Revision",
+      "Caseno": "58",
+      "Caseyear": "2006",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Mehrullah and ors V/S Barkat Ali and Ors",
+      "Matter": "Others",
+      "Last Hearing": "07-MAR-13",
+      "Next Date": "Not Available",
+      "Disposal Date": "21-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 169
+    },
+    {
+      "#": "170",
+      "Case Name": "Civil Revision",
+      "Caseno": "59",
+      "Caseyear": "2006",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Mumtaz Ali Bhutto V/S Qamar Zaman and others",
+      "Matter": "Others",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 170
+    },
+    {
+      "#": "171",
+      "Case Name": "Civil Revision",
+      "Caseno": "6",
+      "Caseyear": "2006",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Haji Khan V/S Nisar Ahmed and others",
+      "Matter": "Others",
+      "Last Hearing": "27-MAY-09",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 171
+    },
+    {
+      "#": "172",
+      "Case Name": "Civil Revision",
+      "Caseno": "7",
+      "Caseyear": "2006",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Nawab Khan and ors V/S D.F.O and ors",
+      "Matter": "Against Order",
+      "Last Hearing": "03-FEB-22",
+      "Next Date": "Not Available",
+      "Disposal Date": "03-FEB-22",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 172
+    },
+    {
+      "#": "173",
+      "Case Name": "Civil Revision",
+      "Caseno": "8",
+      "Caseyear": "2006",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Khadim Hussain Mirani V/S D.F.O and others",
+      "Matter": "Against Order",
+      "Last Hearing": "03-FEB-22",
+      "Next Date": "Not Available",
+      "Disposal Date": "03-FEB-22",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 173
+    },
+    {
+      "#": "174",
+      "Case Name": "Civil Revision",
+      "Caseno": "9",
+      "Caseyear": "2006",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Muhammad Bachal V/S Khawand Dino  and others",
+      "Matter": "Against Order",
+      "Last Hearing": "25-AUG-25",
+      "Next Date": "25-SEP-25",
+      "Disposal Date": "Not Available",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 174
+    },
+    {
+      "#": "175",
+      "Case Name": "Civil Revision",
+      "Caseno": "10",
+      "Caseyear": "2007",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Late Mohammad Saleh through his L.Rs: V/S Khan Mohammad and others",
+      "Matter": "Others",
+      "Last Hearing": "16-JAN-09",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 175
+    },
+    {
+      "#": "176",
+      "Case Name": "Civil Revision",
+      "Caseno": "11",
+      "Caseyear": "2007",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Qurban Ali Birhmani V/S Province of Sindh and others",
+      "Matter": "Others",
+      "Last Hearing": "11-SEP-17",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 176
+    },
+    {
+      "#": "177",
+      "Case Name": "Civil Revision",
+      "Caseno": "12",
+      "Caseyear": "2007",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Haji Qadir Bux V/S Mohammad Qasim and others",
+      "Matter": "Against Order",
+      "Last Hearing": "15-SEP-25",
+      "Next Date": "18-SEP-25",
+      "Disposal Date": "22-NOV-21",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 177
+    },
+    {
+      "#": "178",
+      "Case Name": "Civil Revision",
+      "Caseno": "14",
+      "Caseyear": "2007",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Ganhwar Khan Magsi and others V/S L.Rs: of Nange Shah alias Altaf Hussain",
+      "Matter": "Others",
+      "Last Hearing": "18-AUG-08",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 178
+    },
+    {
+      "#": "179",
+      "Case Name": "Civil Revision",
+      "Caseno": "15",
+      "Caseyear": "2007",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "Din Mohammad Bhurgari and others V/S Niaz Ahmed  Khoso and others",
+      "Matter": "Others",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 179
+    },
+    {
+      "#": "180",
+      "Case Name": "Civil Revision",
+      "Caseno": "17",
+      "Caseyear": "2007",
+      "Bench": "S",
+      "Circuitcode": "Larkana",
+      "CASE TITLE": "National Highway Athority V/S Bashir Ahmed",
+      "Matter": "Others",
+      "Last Hearing": "15-JAN-09",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "lar",
+      "circuit_code": "lar",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 180
     }
   ]
 }

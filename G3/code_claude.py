@@ -48,6 +48,7 @@ HEADLESS = True               # set False to see browser while debugging
 PAGE_LOAD_TIMEOUT = 30
 IMPLICIT_WAIT = 3
 REQUESTS_VERIFY = False       # keep requests verify disabled as you had
+MAX_PAGES = 10                # Maximum pages to scrape per subcourt
 
 # Court name mapping
 COURT_NAMES = {
@@ -278,6 +279,118 @@ def extract_case_detail_from_html(html):
     return {"summary": summary, "tagline": tagline if tagline != "NA" else "NA", "details": details_obj}
 
 
+def handle_pagination_and_scrape(driver, major_name, sub_text, sr_no):
+    """
+    Handle pagination for a specific subcourt and scrape all pages.
+    Returns list of all cases and updated sr_no counter.
+    """
+    all_cases = []
+    current_page = 1
+    
+    while current_page <= MAX_PAGES:
+        logging.info(f"  Processing page {current_page} for subcourt {sub_text}")
+        
+        # Wait for table to load
+        try:
+            WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.TAG_NAME, "table")))
+        except TimeoutException:
+            logging.info(f"  No table found on page {current_page}, stopping pagination")
+            break
+        
+        # Extract cases from current page
+        html = driver.page_source
+        cases_page, detail_links = extract_cases_from_html(html, major_name, sub_text)
+        
+        if not cases_page:
+            logging.info(f"  No cases found on page {current_page}, stopping pagination")
+            break
+        
+        logging.info(f"  Found {len(cases_page)} cases on page {current_page}")
+        
+        # Process each case on this page
+        for i, c in enumerate(cases_page):
+            # Fetch details if link exists
+            detail_href = detail_links[i] if i < len(detail_links) else None
+            if detail_href:
+                full = detail_href if detail_href.startswith("http") else urljoin(BASE_URL, detail_href)
+                # Open in new tab
+                driver.execute_script("window.open('');")
+                driver.switch_to.window(driver.window_handles[-1])
+                try:
+                    driver.get(full)
+                    time.sleep(0.8)
+                    detail_data = extract_case_detail_from_html(driver.page_source)
+                    c["tagline"] = detail_data.get("tagline", c.get("tagline", "NA"))
+                    c["details"] = detail_data["details"]
+                    c["details"].setdefault("summary", detail_data.get("summary", "NA"))
+                except Exception as e:
+                    logging.debug(f"Failed to fetch detail {full}: {e}")
+                finally:
+                    driver.close()
+                    driver.switch_to.window(driver.window_handles[0])
+            else:
+                c["details"] = {"profile": {}, "last_hearing": {}, "parties": [], "advocates": {}, "documents": {}}
+
+            c["sr_no"] = sr_no
+            sr_no += 1
+            all_cases.append(c)
+        
+        # Try to find and click next page
+        next_found = False
+        if current_page < MAX_PAGES:
+            try:
+                logging.info(f"  Looking for next page button on page {current_page}")
+                
+                # Wait a bit for any AJAX to complete
+                time.sleep(1)
+                
+                # Look specifically for the next button with class "next"
+                next_li = driver.find_element(By.CSS_SELECTOR, "li.next:not(.disabled)")
+                next_button = next_li.find_element(By.CSS_SELECTOR, "a[data-page]")
+                
+                if next_button:
+                    # Get the href attribute
+                    href = next_button.get_attribute('href')
+                    data_page = next_button.get_attribute('data-page')
+                    
+                    logging.info(f"  Found next button with data-page: {data_page}")
+                    
+                    if href:
+                        # Navigate directly using the href
+                        logging.info(f"  Navigating to: {href}")
+                        driver.get(href)
+                        
+                        # Wait for the new page to load
+                        time.sleep(2)
+                        
+                        # Verify we're on a new page by checking if page parameter changed
+                        current_url = driver.current_url
+                        if f"page={current_page + 1}" in current_url or f"data-page=\"{current_page}\"" in driver.page_source:
+                            next_found = True
+                            current_page += 1
+                            logging.info(f"  Successfully moved to page {current_page}")
+                        else:
+                            logging.info(f"  URL didn't change as expected, stopping pagination")
+                            break
+                    else:
+                        logging.info(f"  Next button found but no href, stopping pagination")
+                        break
+                        
+            except NoSuchElementException:
+                logging.info(f"  No next button found on page {current_page}, stopping pagination")
+                break
+            except Exception as e:
+                logging.error(f"  Error during pagination: {e}")
+                break
+        
+        if not next_found:
+            logging.info(f"  Reached end of pagination or max pages for subcourt {sub_text}")
+            break
+    
+    logging.info(f"  Completed pagination for subcourt {sub_text}. Total pages processed: {current_page}, Total cases: {len(all_cases)}")
+    return all_cases, sr_no
+
+
 def scrape_major_court(driver, major):
     """
     major: {"name": str, "href": str}
@@ -351,38 +464,13 @@ def scrape_major_court(driver, major):
 
     if not subcourt_texts:
         # try to parse cases on the page directly (no dropdown)
-        html = driver.page_source
-        cases, detail_links = extract_cases_from_html(html, major_name, None)
-        # open detail links if present
-        for i, c in enumerate(cases):
-            # attach details
-            detail_href = detail_links[i] if i < len(detail_links) else None
-            if detail_href:
-                # open detail in new tab to preserve list page
-                full = detail_href if detail_href.startswith("http") else urljoin(BASE_URL, detail_href)
-                driver.execute_script("window.open('');")
-                driver.switch_to.window(driver.window_handles[-1])
-                try:
-                    driver.get(full)
-                    time.sleep(0.8)
-                    detail_data = extract_case_detail_from_html(driver.page_source)
-                    c["tagline"] = detail_data.get("tagline", c.get("tagline", "NA"))
-                    c["details"] = detail_data["details"]
-                    c["details"].setdefault("summary", detail_data.get("summary", "NA"))
-                except Exception as e:
-                    logging.debug(f"Failed to fetch detail {full}: {e}")
-                finally:
-                    driver.close()
-                    driver.switch_to.window(driver.window_handles[0])
-            else:
-                c["details"] = {"profile": {}, "last_hearing": {}, "parties": [], "advocates": {}, "documents": {}}
-            c["sr_no"] = sr_no
-            sr_no += 1
-            all_cases.append(c)
+        logging.info("No subcourts found, processing main court page with pagination")
+        cases, sr_no = handle_pagination_and_scrape(driver, major_name, None, sr_no)
+        all_cases.extend(cases)
     else:
         # iterate subcourts
         for sub_text, sub_val in subcourt_texts:
-            logging.info(f" Subcourt: {sub_text} (value={sub_val})")
+            logging.info(f" Processing subcourt: {sub_text} (value={sub_val})")
             # select the option
             try:
                 # re-find the select element (select object may become stale)
@@ -400,25 +488,6 @@ def scrape_major_court(driver, major):
                     time.sleep(0.6)
                 except Exception:
                     logging.warning(f"Couldn't select subcourt {sub_text}; skipping.")
-                    # mark as JS-needed placeholder
-                    all_cases.append({
-                        "sr_no": sr_no,
-                        "court": major_name,
-                        "case_name": f"__SUBCOURT_NEEDS_JS__:{sub_text}",
-                        "case_no": "NA",
-                        "case_year": "NA",
-                        "bench": "NA",
-                        "circuit_code": sub_text,
-                        "case_title": "NA",
-                        "matter": "NA",
-                        "status": "NA",
-                        "last_hearing": "NA",
-                        "next_date": "NA",
-                        "disposal_date": "NA",
-                        "tagline": "NA",
-                        "details": {"note": "Could not select subcourt; needs manual/Selenium fallback."}
-                    })
-                    sr_no += 1
                     continue
 
             # find and click Search button
@@ -449,179 +518,9 @@ def scrape_major_court(driver, major):
             else:
                 logging.debug("Search button not found; trying to parse page as-is.")
 
-            # pagination loop
-            while True:
-                html = driver.page_source
-                cases_page, detail_links = extract_cases_from_html(html, major_name, sub_text)
-                if not cases_page:
-                    logging.info(f"  No static cases found for subcourt {sub_text}; it likely requires more JS/AJAX handling.")
-                    # add placeholder
-                    all_cases.append({
-                        "sr_no": sr_no,
-                        "court": major_name,
-                        "case_name": f"__SUBCOURT_NEEDS_JS__:{sub_text}",
-                        "case_no": "NA",
-                        "case_year": "NA",
-                        "bench": "NA",
-                        "circuit_code": sub_text,
-                        "case_title": "NA",
-                        "matter": "NA",
-                        "status": "NA",
-                        "last_hearing": "NA",
-                        "next_date": "NA",
-                        "disposal_date": "NA",
-                        "tagline": "NA",
-                        "details": {"note": "Subcourt results appear via JS/AJAX and were not available as static HTML."}
-                    })
-                    sr_no += 1
-                else:
-                    for i, c in enumerate(cases_page):
-                        # fetch details if link exists
-                        detail_href = detail_links[i] if i < len(detail_links) else None
-                        if detail_href:
-                            full = detail_href if detail_href.startswith("http") else urljoin(BASE_URL, detail_href)
-                            # open in new tab
-                            driver.execute_script("window.open('');")
-                            driver.switch_to.window(driver.window_handles[-1])
-                            try:
-                                driver.get(full)
-                                time.sleep(0.8)
-                                detail_data = extract_case_detail_from_html(driver.page_source)
-                                c["tagline"] = detail_data.get("tagline", c.get("tagline", "NA"))
-                                c["details"] = detail_data["details"]
-                                c["details"].setdefault("summary", detail_data.get("summary", "NA"))
-                            except Exception as e:
-                                logging.debug(f"Failed to fetch detail {full}: {e}")
-                            finally:
-                                driver.close()
-                                driver.switch_to.window(driver.window_handles[0])
-                        else:
-                            c["details"] = {"profile": {}, "last_hearing": {}, "parties": [], "advocates": {}, "documents": {}}
-
-                        c["sr_no"] = sr_no
-                        sr_no += 1
-                        all_cases.append(c)
-
-                # try find 'Next' pagination
-                next_found = False
-                try:
-                    logging.info(f"Starting pagination attempt for page {len(all_cases) // 20 + 1}")
-                    current_content = driver.page_source
-                    
-                    # Try multiple pagination patterns
-                    next_button = None
-                    
-                    # Pattern 1: Look for exact pagination structure from the site
-                    try:
-                        logging.info("Attempting to find pagination element...")
-                        # First find the li with class "next"
-                        next_li = WebDriverWait(driver, 5).until(
-                            EC.presence_of_element_located((By.CSS_SELECTOR, "li.next"))
-                        )
-                        logging.info("Found next li element...")
-                        
-                        # Then find the anchor inside it that has data-page attribute
-                        next_button = next_li.find_element(By.CSS_SELECTOR, "a[data-page]")
-                        
-                        # Log the found button details
-                        href = next_button.get_attribute('href')
-                        data_page = next_button.get_attribute('data-page')
-                        logging.info(f"Found next button with href: {href} and data-page: {data_page}")
-                        
-                        if next_button:
-                            logging.info("Found active next button in pagination!")
-                    except Exception as e:
-                        logging.info(f"Pattern 1 (exact pagination structure) failed: {str(e)}")
-                    except Exception as e:
-                        logging.info(f"Pattern 1 (pagination element) failed: {str(e)}")
-                    
-                    # Pattern 2: Standard next button/link
-                    if not next_button:
-                        logging.info("Trying pattern 2: standard next button selectors...")
-                        try:
-                            next_button = driver.find_element(By.CSS_SELECTOR, 
-                                "a.next:not(.disabled), button.next:not(.disabled), li.next:not(.disabled) a, a[rel='next']")
-                            if next_button:
-                                logging.info("Found next button using standard selectors!")
-                        except Exception as e:
-                            logging.info(f"Pattern 2 (standard next) failed: {str(e)}")
-                    
-                    # Pattern 3: Look for '>' or 'Next' text in links
-                    if not next_button:
-                        logging.info("Trying pattern 3: text-based next button search...")
-                        try:
-                            next_button = driver.find_element(By.XPATH, 
-                                "//a[contains(text(),'Next') or contains(text(),'next') or contains(text(),'›') or contains(text(),'>')]")
-                            if next_button:
-                                logging.info("Found next button by text content!")
-                        except Exception as e:
-                            logging.info(f"Pattern 3 (text search) failed: {str(e)}")
-                    
-                    if next_button:
-                        logging.info("Found next button, attempting to click...")
-                        # Check if the button is actually clickable and visible
-                        try:
-                            # Wait for element to be clickable
-                            button_id = next_button.get_attribute("id")
-                            logging.info(f"Next button ID: {button_id or 'None'}")
-                            next_button = WebDriverWait(driver, 5).until(
-                                EC.element_to_be_clickable((By.ID, button_id))
-                            ) if button_id else next_button
-                            
-                            # Scroll into view if needed
-                            logging.info("Scrolling next button into view...")
-                            driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", next_button)
-                            time.sleep(0.5)
-                            
-                            # Get the href from the next button
-                            href = next_button.get_attribute('href')
-                            logging.info(f"Navigating to next page URL: {href}")
-                            
-                            # Instead of clicking, navigate directly to the href
-                            if href:
-                                try:
-                                    full_url = urljoin(driver.current_url, href)
-                                    logging.info(f"Navigating to full URL: {full_url}")
-                                    driver.get(full_url)
-                                    logging.info("Successfully navigated to next page")
-                                except Exception as e:
-                                    logging.info(f"Direct navigation failed ({str(e)}), trying JavaScript...")
-                                    driver.execute_script(f"window.location.href = '{href}';")
-                                    logging.info("Successfully navigated using JavaScript")
-                            
-                            # Wait for content to change (indicating page load)
-                            logging.info("Waiting for page content to change...")
-                            WebDriverWait(driver, 10).until(
-                                lambda d: d.page_source != current_content
-                            )
-                            logging.info("Page content changed successfully!")
-                            
-                            # Additional wait for table to refresh
-                            logging.info("Waiting for table to appear...")
-                            WebDriverWait(driver, 10).until(
-                                EC.presence_of_element_located((By.TAG_NAME, "table"))
-                            )
-                            logging.info("Table found on new page!")
-                            
-                            time.sleep(1.5)  # Give AJAX time to complete
-                            next_found = True
-                            logging.info("Successfully navigated to next page")
-                            
-                        except Exception as e:
-                            logging.error(f"Next button click failed: {e}")
-                            logging.info("Button HTML:", next_button.get_attribute('outerHTML'))
-                            next_found = False
-                    
-                except Exception as e:
-                    logging.error(f"Pagination handling failed: {e}")
-                    logging.info("Current page HTML structure:", driver.find_element(By.TAG_NAME, "body").get_attribute('innerHTML'))
-                    next_found = False
-                
-                if not next_found:
-                    logging.info("No more pages found or pagination failed")
-
-                if not next_found:
-                    break
+            # Handle pagination for this subcourt
+            cases, sr_no = handle_pagination_and_scrape(driver, major_name, sub_text, sr_no)
+            all_cases.extend(cases)
 
     metadata = {
         "file_name": f"SindhCourt_{sanitize_filename(major_name)}.json",
@@ -672,7 +571,6 @@ def main():
 
     driver.quit()
     logging.info("All done.")
-
 
 
 if __name__ == "__main__":

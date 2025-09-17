@@ -1,7 +1,7 @@
 {
   "metadata": {
     "file_name": "SindhCourt_hyd.json",
-    "created_on": "2025-09-16",
+    "created_on": "2025-09-17",
     "source": "Sindh High Court Case Search Portal",
     "url": "https://cases.shc.gov.pk/",
     "description": "Cases extracted for major court: hyd"
@@ -846,6 +846,7566 @@
         "summary": "NA"
       },
       "sr_no": 20
+    },
+    {
+      "#": "21",
+      "Case Name": "Civil Revision",
+      "Caseno": "4",
+      "Caseyear": "1989",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Haji Gul Muhammad V/S Province of Sindh and others",
+      "Matter": "Against Judgment",
+      "Last Hearing": "14-OCT-22",
+      "Next Date": "Not Available",
+      "Disposal Date": "14-OCT-22",
+      "Status": "Dismissed",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 21
+    },
+    {
+      "#": "22",
+      "Case Name": "Civil Revision",
+      "Caseno": "41",
+      "Caseyear": "1989",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Govt Of Sindh & Others V/S Ghulam Muhammad & Ors",
+      "Matter": "Against Judgment",
+      "Last Hearing": "27-SEP-19",
+      "Next Date": "Not Available",
+      "Disposal Date": "27-SEP-19",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 22
+    },
+    {
+      "#": "23",
+      "Case Name": "Civil Revision",
+      "Caseno": "31",
+      "Caseyear": "1990",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Muhammad Hussain and other V/S Rahim Bux and other",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "08-MAY-08",
+      "Next Date": "Not Available",
+      "Disposal Date": "06-MAY-09",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 23
+    },
+    {
+      "#": "24",
+      "Case Name": "Civil Revision",
+      "Caseno": "53",
+      "Caseyear": "1990",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Mohammad Ibrahim V/S Mst.Zubeda Begum & others",
+      "Matter": "Against Judgment",
+      "Last Hearing": "10-JUN-24",
+      "Next Date": "20-DEC-23",
+      "Disposal Date": "10-JUN-24",
+      "Status": "Disposed of",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 24
+    },
+    {
+      "#": "25",
+      "Case Name": "Civil Revision",
+      "Caseno": "7",
+      "Caseyear": "1990",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Shahdino V/S Govt of Sindh & Ors",
+      "Matter": "OTHER",
+      "Last Hearing": "24-APR-18",
+      "Next Date": "Not Available",
+      "Disposal Date": "24-APR-18",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 25
+    },
+    {
+      "#": "26",
+      "Case Name": "Civil Revision",
+      "Caseno": "96",
+      "Caseyear": "1990",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Tufail Ahmed Baig & ors V/S Muhammad Ramzan and other",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "14-MAY-09",
+      "Next Date": "Not Available",
+      "Disposal Date": "14-MAY-09",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 26
+    },
+    {
+      "#": "27",
+      "Case Name": "Civil Revision",
+      "Caseno": "114",
+      "Caseyear": "1991",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Bux Ali thr.Lrs V/S Safdar Ali thr.LRs",
+      "Matter": "OTHER",
+      "Last Hearing": "07-MAY-09",
+      "Next Date": "Not Available",
+      "Disposal Date": "07-MAY-09",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 27
+    },
+    {
+      "#": "28",
+      "Case Name": "Civil Revision",
+      "Caseno": "134",
+      "Caseyear": "1991",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Ismail and other V/S Govt of Sindh and other",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "06-OCT-10",
+      "Next Date": "Not Available",
+      "Disposal Date": "Not Available",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 28
+    },
+    {
+      "#": "29",
+      "Case Name": "Civil Revision",
+      "Caseno": "15",
+      "Caseyear": "1991",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Mst: Bachan V/S Hafiz Taj Muhammad and another.",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "09-AUG-10",
+      "Next Date": "Not Available",
+      "Disposal Date": "09-AUG-10",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 29
+    },
+    {
+      "#": "30",
+      "Case Name": "Civil Revision",
+      "Caseno": "21",
+      "Caseyear": "1991",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Divisional Forest Officer Sanghar at Khipro V/S Khan and others",
+      "Matter": "OTHER",
+      "Last Hearing": "29-AUG-22",
+      "Next Date": "Not Available",
+      "Disposal Date": "29-AUG-22",
+      "Status": "Disposed of",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 30
+    },
+    {
+      "#": "31",
+      "Case Name": "Civil Revision",
+      "Caseno": "33",
+      "Caseyear": "1991",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Karamat Ali V/S Hashmat Ali and others",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "05-SEP-14",
+      "Next Date": "Not Available",
+      "Disposal Date": "05-SEP-14",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 31
+    },
+    {
+      "#": "32",
+      "Case Name": "Civil Revision",
+      "Caseno": "6",
+      "Caseyear": "1991",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Wali Muhamamd  & others V/S Allah bachayo & others",
+      "Matter": "Against Judgment",
+      "Last Hearing": "20-OCT-17",
+      "Next Date": "Not Available",
+      "Disposal Date": "Not Available",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 32
+    },
+    {
+      "#": "33",
+      "Case Name": "Civil Revision",
+      "Caseno": "7",
+      "Caseyear": "1991",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Wali Muhammad and others V/S Kauro Khan and others",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "07-AUG-14",
+      "Next Date": "Not Available",
+      "Disposal Date": "07-AUG-14",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 33
+    },
+    {
+      "#": "34",
+      "Case Name": "Civil Revision",
+      "Caseno": "94",
+      "Caseyear": "1991",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Ghulam Muhammad V/S Karim Bux",
+      "Matter": "Against Judgment",
+      "Last Hearing": "02-DEC-16",
+      "Next Date": "Not Available",
+      "Disposal Date": "02-DEC-16",
+      "Status": "Remanded Back",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 34
+    },
+    {
+      "#": "35",
+      "Case Name": "Civil Revision",
+      "Caseno": "129",
+      "Caseyear": "1992",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Haji Ghulam Hyder V/S Jumo & Ors",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "09-OCT-15",
+      "Next Date": "Not Available",
+      "Disposal Date": "15-SEP-15",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 35
+    },
+    {
+      "#": "36",
+      "Case Name": "Civil Revision",
+      "Caseno": "130",
+      "Caseyear": "1992",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Haji Ghulam Haider & Others V/S Jumo & Others",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "09-OCT-15",
+      "Next Date": "Not Available",
+      "Disposal Date": "15-SEP-15",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 36
+    },
+    {
+      "#": "37",
+      "Case Name": "Civil Revision",
+      "Caseno": "14",
+      "Caseyear": "1992",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Syed Kifayat Ali Shah and an Other V/S Govt. Of Sindh and Others",
+      "Matter": "OTHER",
+      "Last Hearing": "06-NOV-09",
+      "Next Date": "Not Available",
+      "Disposal Date": "28-OCT-02",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 37
+    },
+    {
+      "#": "38",
+      "Case Name": "Civil Revision",
+      "Caseno": "156",
+      "Caseyear": "1992",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Fakhruddin V/S Nazir Mohammad thr:LRs & Others",
+      "Matter": "Against Judgment",
+      "Last Hearing": "28-FEB-20",
+      "Next Date": "Not Available",
+      "Disposal Date": "28-FEB-20",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 38
+    },
+    {
+      "#": "39",
+      "Case Name": "Civil Revision",
+      "Caseno": "161",
+      "Caseyear": "1992",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Abdul Ghafoor and others V/S Muhammad Usman",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "07-NOV-08",
+      "Next Date": "Not Available",
+      "Disposal Date": "07-NOV-08",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 39
+    },
+    {
+      "#": "40",
+      "Case Name": "Civil Revision",
+      "Caseno": "58",
+      "Caseyear": "1992",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Moula Bux. V/S Syed Muhammad Usman and other.",
+      "Matter": "Against Judgment",
+      "Last Hearing": "23-OCT-23",
+      "Next Date": "23-OCT-23",
+      "Disposal Date": "23-OCT-23",
+      "Status": "Disposed of",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 40
+    },
+    {
+      "#": "41",
+      "Case Name": "Civil Revision",
+      "Caseno": "64",
+      "Caseyear": "1992",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Maqsood Ahmed and another V/S Govt of Sindh and other",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "27-MAR-25",
+      "Next Date": "27-MAR-25",
+      "Disposal Date": "20-MAR-09",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 41
+    },
+    {
+      "#": "42",
+      "Case Name": "Civil Revision",
+      "Caseno": "92",
+      "Caseyear": "1992",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Province Of Sindh and an Other V/S Sukhio and Others",
+      "Matter": "Against Judgment",
+      "Last Hearing": "09-FEB-24",
+      "Next Date": "06-OCT-25",
+      "Disposal Date": "25-APR-08",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 42
+    },
+    {
+      "#": "43",
+      "Case Name": "Civil Revision",
+      "Caseno": "115",
+      "Caseyear": "1993",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Syed Mussarat Hussain V/S Mst Sughra",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "27-FEB-14",
+      "Next Date": "Not Available",
+      "Disposal Date": "17-AUG-98",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 43
+    },
+    {
+      "#": "44",
+      "Case Name": "Civil Revision",
+      "Caseno": "133",
+      "Caseyear": "1993",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Mst Nooran & Others V/S Govt Of Sindh & Others",
+      "Matter": "Against Judgment",
+      "Last Hearing": "17-MAY-19",
+      "Next Date": "Not Available",
+      "Disposal Date": "05-MAR-18",
+      "Status": "Disposed of",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 44
+    },
+    {
+      "#": "45",
+      "Case Name": "Civil Revision",
+      "Caseno": "134",
+      "Caseyear": "1993",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Hafizur Rehman and others V/S Ist ADJ Nawabshah & others",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "27-APR-15",
+      "Next Date": "Not Available",
+      "Disposal Date": "28-AUG-14",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 45
+    },
+    {
+      "#": "46",
+      "Case Name": "Civil Revision",
+      "Caseno": "137",
+      "Caseyear": "1993",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Kabeer Khan and other V/S Qadir Khan and other",
+      "Matter": "Against Judgment",
+      "Last Hearing": "11-SEP-23",
+      "Next Date": "11-AUG-23",
+      "Disposal Date": "11-SEP-23",
+      "Status": "Allowed",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 46
+    },
+    {
+      "#": "47",
+      "Case Name": "Civil Revision",
+      "Caseno": "147",
+      "Caseyear": "1993",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Jumo V/S Mst.Razia Sultana and others",
+      "Matter": "Against Judgment",
+      "Last Hearing": "16-DEC-19",
+      "Next Date": "Not Available",
+      "Disposal Date": "17-JAN-03",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 47
+    },
+    {
+      "#": "48",
+      "Case Name": "Civil Revision",
+      "Caseno": "151",
+      "Caseyear": "1993",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Shamsuddin V/S Province of Sindh and other",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "25-APR-08",
+      "Next Date": "Not Available",
+      "Disposal Date": "25-APR-08",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 48
+    },
+    {
+      "#": "49",
+      "Case Name": "Civil Revision",
+      "Caseno": "173",
+      "Caseyear": "1993",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Hakeem Syed Abdul Majeed V/S Mohammad Siddique",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "06-MAY-08",
+      "Next Date": "Not Available",
+      "Disposal Date": "06-MAY-09",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 49
+    },
+    {
+      "#": "50",
+      "Case Name": "Civil Revision",
+      "Caseno": "23",
+      "Caseyear": "1993",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Fazal Muhammad and others V/S Govt: of Sindh and others",
+      "Matter": "Against Judgment",
+      "Last Hearing": "14-OCT-22",
+      "Next Date": "Not Available",
+      "Disposal Date": "14-OCT-22",
+      "Status": "Dismissed",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 50
+    },
+    {
+      "#": "51",
+      "Case Name": "Civil Revision",
+      "Caseno": "6",
+      "Caseyear": "1993",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Jan Muhammad through LRs V/S Muhammad Tufail and other",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "14-MAY-09",
+      "Next Date": "Not Available",
+      "Disposal Date": "14-MAY-09",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 51
+    },
+    {
+      "#": "52",
+      "Case Name": "Civil Revision",
+      "Caseno": "60",
+      "Caseyear": "1993",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Ali Nawaz and others V/S Govt of Sindh and others",
+      "Matter": "Against Judgment",
+      "Last Hearing": "27-AUG-19",
+      "Next Date": "Not Available",
+      "Disposal Date": "27-AUG-19",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 52
+    },
+    {
+      "#": "53",
+      "Case Name": "Civil Revision",
+      "Caseno": "79",
+      "Caseyear": "1993",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Haji Sher Khan and another V/S Bashir Ahmed and other",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "06-MAY-08",
+      "Next Date": "Not Available",
+      "Disposal Date": "06-MAY-08",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 53
+    },
+    {
+      "#": "54",
+      "Case Name": "Civil Revision",
+      "Caseno": "9",
+      "Caseyear": "1993",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Muhammad Ramzan V/S Muhammad Yousif and Ors",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "22-OCT-13",
+      "Next Date": "Not Available",
+      "Disposal Date": "22-OCT-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 54
+    },
+    {
+      "#": "55",
+      "Case Name": "Civil Revision",
+      "Caseno": "98",
+      "Caseyear": "1993",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Muhammad Uris V/S Yar Muhammad & others",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "24-DEC-12",
+      "Next Date": "Not Available",
+      "Disposal Date": "24-DEC-12",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 55
+    },
+    {
+      "#": "56",
+      "Case Name": "Civil Revision",
+      "Caseno": "109",
+      "Caseyear": "1994",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "M/S Rasheda Begum Thr: LRs V/S Muneer Ahmed Shaikh",
+      "Matter": "OTHER",
+      "Last Hearing": "05-MAY-23",
+      "Next Date": "Not Available",
+      "Disposal Date": "05-MAY-23",
+      "Status": "Disposed of",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 56
+    },
+    {
+      "#": "57",
+      "Case Name": "Civil Revision",
+      "Caseno": "115",
+      "Caseyear": "1994",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Anwar Khan V/S Hashmat Ali",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "05-JUL-10",
+      "Next Date": "Not Available",
+      "Disposal Date": "15-AUG-07",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 57
+    },
+    {
+      "#": "58",
+      "Case Name": "Civil Revision",
+      "Caseno": "127",
+      "Caseyear": "1994",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Haji Gul Muhammad and Ors V/S Gangan and Others",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "22-APR-13",
+      "Next Date": "Not Available",
+      "Disposal Date": "22-APR-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 58
+    },
+    {
+      "#": "59",
+      "Case Name": "Civil Revision",
+      "Caseno": "152",
+      "Caseyear": "1994",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Karim Dino V/S Rajo Khan and others",
+      "Matter": "OTHER",
+      "Last Hearing": "21-MAY-07",
+      "Next Date": "Not Available",
+      "Disposal Date": "31-AUG-07",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 59
+    },
+    {
+      "#": "60",
+      "Case Name": "Civil Revision",
+      "Caseno": "174",
+      "Caseyear": "1994",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Bakhshal and others V/S Mukhtiar Ahmed and others",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "13-OCT-09",
+      "Next Date": "Not Available",
+      "Disposal Date": "02-MAY-05",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 60
+    },
+    {
+      "#": "61",
+      "Case Name": "Civil Revision",
+      "Caseno": "175",
+      "Caseyear": "1994",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Siddique and another V/S Syed Mehammoodul Hassan and another",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "15-OCT-10",
+      "Next Date": "Not Available",
+      "Disposal Date": "12-AUG-10",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 61
+    },
+    {
+      "#": "62",
+      "Case Name": "Civil Revision",
+      "Caseno": "265",
+      "Caseyear": "1994",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Dr.Bashir Ahmed V/S Shah Zaman",
+      "Matter": "Against Judgment",
+      "Last Hearing": "26-SEP-22",
+      "Next Date": "Not Available",
+      "Disposal Date": "26-SEP-22",
+      "Status": "Dismissed",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 62
+    },
+    {
+      "#": "63",
+      "Case Name": "Civil Revision",
+      "Caseno": "266",
+      "Caseyear": "1994",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Kabool Thr: LRs, and Others V/S Soonharo (Deceased) Thr: his Lrs and Ors",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "12-APR-10",
+      "Next Date": "Not Available",
+      "Disposal Date": "12-JUL-10",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 63
+    },
+    {
+      "#": "64",
+      "Case Name": "Civil Revision",
+      "Caseno": "275",
+      "Caseyear": "1994",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Abdul Rasheed V/S Abdul Hafeez thr.LRs,",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "20-APR-15",
+      "Next Date": "Not Available",
+      "Disposal Date": "20-APR-14",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 64
+    },
+    {
+      "#": "65",
+      "Case Name": "Civil Revision",
+      "Caseno": "71",
+      "Caseyear": "1994",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Lal Muhammad V/S Syed Qamaruddin",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "29-OCT-10",
+      "Next Date": "Not Available",
+      "Disposal Date": "29-OCT-10",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 65
+    },
+    {
+      "#": "66",
+      "Case Name": "Civil Revision",
+      "Caseno": "101",
+      "Caseyear": "1995",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Budho Khan thr:LRs V/S Mst: Hawa and other.",
+      "Matter": "Against Judgment",
+      "Last Hearing": "29-JAN-24",
+      "Next Date": "30-MAY-23",
+      "Disposal Date": "29-JAN-24",
+      "Status": "Dismissed",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 66
+    },
+    {
+      "#": "67",
+      "Case Name": "Civil Revision",
+      "Caseno": "102",
+      "Caseyear": "1995",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Budha Khan through LRs V/S Mst: Hawa and other",
+      "Matter": "Against Judgment",
+      "Last Hearing": "29-JAN-24",
+      "Next Date": "30-MAY-23",
+      "Disposal Date": "29-JAN-24",
+      "Status": "Dismissed",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 67
+    },
+    {
+      "#": "68",
+      "Case Name": "Civil Revision",
+      "Caseno": "103",
+      "Caseyear": "1995",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Budha Khan through LRs V/S Mst: Hawa and other.",
+      "Matter": "Against Judgment",
+      "Last Hearing": "29-JAN-24",
+      "Next Date": "30-MAY-23",
+      "Disposal Date": "29-JAN-24",
+      "Status": "Dismissed",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 68
+    },
+    {
+      "#": "69",
+      "Case Name": "Civil Revision",
+      "Caseno": "113",
+      "Caseyear": "1995",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Muhammad Haroon through LRs V/S Ali Asghar and other.",
+      "Matter": "Against Judgment",
+      "Last Hearing": "28-SEP-23",
+      "Next Date": "Not Available",
+      "Disposal Date": "28-SEP-23",
+      "Status": "Disposed of",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 69
+    },
+    {
+      "#": "70",
+      "Case Name": "Civil Revision",
+      "Caseno": "124",
+      "Caseyear": "1995",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Ghulam Ali Bhurgari V/S Mst.Nawabzadi and other",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "19-SEP-14",
+      "Next Date": "Not Available",
+      "Disposal Date": "08-AUG-14",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 70
+    },
+    {
+      "#": "71",
+      "Case Name": "Civil Revision",
+      "Caseno": "128",
+      "Caseyear": "1995",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Ali Muhammad Shah thr.LRs V/S Khuda Bux",
+      "Matter": "Against Judgment",
+      "Last Hearing": "29-APR-20",
+      "Next Date": "Not Available",
+      "Disposal Date": "29-APR-20",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 71
+    },
+    {
+      "#": "72",
+      "Case Name": "Civil Revision",
+      "Caseno": "140",
+      "Caseyear": "1995",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Fateh Muhammad V/S Govt of Sindh and other",
+      "Matter": "Against Judgment",
+      "Last Hearing": "26-AUG-22",
+      "Next Date": "Not Available",
+      "Disposal Date": "26-AUG-22",
+      "Status": "Disposed of",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 72
+    },
+    {
+      "#": "73",
+      "Case Name": "Civil Revision",
+      "Caseno": "141",
+      "Caseyear": "1995",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Muhammad Iqbal V/S Govt of Sindh and other",
+      "Matter": "Against Judgment",
+      "Last Hearing": "26-AUG-22",
+      "Next Date": "Not Available",
+      "Disposal Date": "26-AUG-22",
+      "Status": "Disposed of",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 73
+    },
+    {
+      "#": "74",
+      "Case Name": "Civil Revision",
+      "Caseno": "149",
+      "Caseyear": "1995",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Yousif S/o Veerum V/S Govt of Sindh and others",
+      "Matter": "Against Judgment",
+      "Last Hearing": "29-MAY-23",
+      "Next Date": "29-MAY-23",
+      "Disposal Date": "29-MAY-23",
+      "Status": "Disposed of",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 74
+    },
+    {
+      "#": "75",
+      "Case Name": "Civil Revision",
+      "Caseno": "151",
+      "Caseyear": "1995",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Mir Muhammad V/S Govt Of Sindh & Others",
+      "Matter": "Against Judgment",
+      "Last Hearing": "16-SEP-19",
+      "Next Date": "Not Available",
+      "Disposal Date": "16-SEP-19",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 75
+    },
+    {
+      "#": "76",
+      "Case Name": "Civil Revision",
+      "Caseno": "164",
+      "Caseyear": "1995",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Mukhtiar Ahmed and other V/S Siraj Khan and other",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "28-OCT-09",
+      "Next Date": "Not Available",
+      "Disposal Date": "28-OCT-09",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 76
+    },
+    {
+      "#": "77",
+      "Case Name": "Civil Revision",
+      "Caseno": "171",
+      "Caseyear": "1995",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Manzoor Ahmed & other V/S Abdul Hameed Ali thr:LRs",
+      "Matter": "OTHER",
+      "Last Hearing": "31-JAN-25",
+      "Next Date": "31-JAN-25",
+      "Disposal Date": "31-JAN-25",
+      "Status": "Disposed of",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 77
+    },
+    {
+      "#": "78",
+      "Case Name": "Civil Revision",
+      "Caseno": "186",
+      "Caseyear": "1995",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Hussain Bin Abdullah V/S Govt of Sindh and other",
+      "Matter": "Against Judgment",
+      "Last Hearing": "11-SEP-25",
+      "Next Date": "Not Available",
+      "Disposal Date": "01-DEC-16",
+      "Status": "Dismissed due to non-prosecution",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 78
+    },
+    {
+      "#": "79",
+      "Case Name": "Civil Revision",
+      "Caseno": "192",
+      "Caseyear": "1995",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Allah Bux and other V/S Ahmed Ali and other",
+      "Matter": "Against Judgment",
+      "Last Hearing": "25-APR-22",
+      "Next Date": "29-OCT-25",
+      "Disposal Date": "25-APR-22",
+      "Status": "Dismissed due to non-prosecution",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 79
+    },
+    {
+      "#": "80",
+      "Case Name": "Civil Revision",
+      "Caseno": "26",
+      "Caseyear": "1995",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Haji Muhammad Younis jan Sarhandi V/S Malik Abdul Ali Khan",
+      "Matter": "Against Judgment",
+      "Last Hearing": "24-JAN-25",
+      "Next Date": "Not Available",
+      "Disposal Date": "24-JAN-25",
+      "Status": "Dismissed due to non-prosecution",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 80
+    },
+    {
+      "#": "81",
+      "Case Name": "Civil Revision",
+      "Caseno": "27",
+      "Caseyear": "1995",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Mustaqueem thr.LRs V/S Mst.Nakan",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "22-MAY-07",
+      "Next Date": "Not Available",
+      "Disposal Date": "29-OCT-07",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 81
+    },
+    {
+      "#": "82",
+      "Case Name": "Civil Revision",
+      "Caseno": "28",
+      "Caseyear": "1995",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Mustaqueem Chohan thr.LRs V/S Rehmatullah",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "22-MAY-07",
+      "Next Date": "Not Available",
+      "Disposal Date": "29-OCT-07",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 82
+    },
+    {
+      "#": "83",
+      "Case Name": "Civil Revision",
+      "Caseno": "39",
+      "Caseyear": "1995",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Noor Ahmed V/S Mst Bashiran & Ors",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "02-JUL-10",
+      "Next Date": "Not Available",
+      "Disposal Date": "02-JUL-10",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 83
+    },
+    {
+      "#": "84",
+      "Case Name": "Civil Revision",
+      "Caseno": "45",
+      "Caseyear": "1995",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Haji Chand Muhammad and other V/S Govt of Sindh and other",
+      "Matter": "Against Judgment",
+      "Last Hearing": "23-DEC-22",
+      "Next Date": "Not Available",
+      "Disposal Date": "23-DEC-22",
+      "Status": "Allowed",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 84
+    },
+    {
+      "#": "85",
+      "Case Name": "Civil Revision",
+      "Caseno": "68",
+      "Caseyear": "1995",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Syed Mehmood Ali V/S Mst: Imtiazi Begum and Others",
+      "Matter": "Against Judgment",
+      "Last Hearing": "19-APR-19",
+      "Next Date": "Not Available",
+      "Disposal Date": "19-APR-19",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 85
+    },
+    {
+      "#": "86",
+      "Case Name": "Civil Revision",
+      "Caseno": "7",
+      "Caseyear": "1995",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Progressive Construction Co V/S Govt of Sindh and other",
+      "Matter": "Against Judgment",
+      "Last Hearing": "25-APR-22",
+      "Next Date": "Not Available",
+      "Disposal Date": "12-MAR-09",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 86
+    },
+    {
+      "#": "87",
+      "Case Name": "Civil Revision",
+      "Caseno": "79",
+      "Caseyear": "1995",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Progressive Construction V/S Govt of Sindh & Ors",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "01-DEC-08",
+      "Next Date": "Not Available",
+      "Disposal Date": "07-FEB-06",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 87
+    },
+    {
+      "#": "88",
+      "Case Name": "Civil Revision",
+      "Caseno": "92",
+      "Caseyear": "1995",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Muhammad Ibrahim V/S Ghulam Muhammad",
+      "Matter": "Against Judgment",
+      "Last Hearing": "12-SEP-25",
+      "Next Date": "12-SEP-25",
+      "Disposal Date": "18-JAN-21",
+      "Status": "Dismissed",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 88
+    },
+    {
+      "#": "89",
+      "Case Name": "Civil Revision",
+      "Caseno": "109",
+      "Caseyear": "1996",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Evacuee Trust Property Board & ors V/S Abdullah and others",
+      "Matter": "Against Order",
+      "Last Hearing": "18-JAN-21",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-JAN-21",
+      "Status": "Disposed of",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 89
+    },
+    {
+      "#": "90",
+      "Case Name": "Civil Revision",
+      "Caseno": "12",
+      "Caseyear": "1996",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Haji Muhammad & Ors V/S Hussain & another",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "30-MAR-06",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 90
+    },
+    {
+      "#": "91",
+      "Case Name": "Civil Revision",
+      "Caseno": "134",
+      "Caseyear": "1996",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Ch.Khursheed Ahmed V/S Mst. Noor Bakhat & Ors",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "26-NOV-08",
+      "Next Date": "Not Available",
+      "Disposal Date": "26-NOV-08",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 91
+    },
+    {
+      "#": "92",
+      "Case Name": "Civil Revision",
+      "Caseno": "148",
+      "Caseyear": "1996",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Gul Hassan V/S Province of Sindh and others",
+      "Matter": "Against Judgment",
+      "Last Hearing": "15-MAY-23",
+      "Next Date": "15-MAY-23",
+      "Disposal Date": "15-MAY-23",
+      "Status": "Dismissed with Cost",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 92
+    },
+    {
+      "#": "93",
+      "Case Name": "Civil Revision",
+      "Caseno": "151",
+      "Caseyear": "1996",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Amjad Hussain and others V/S Arif Ali Abbasi and others.",
+      "Matter": "Against Judgment",
+      "Last Hearing": "29-NOV-19",
+      "Next Date": "Not Available",
+      "Disposal Date": "17-APR-06",
+      "Status": "Allowed",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 93
+    },
+    {
+      "#": "94",
+      "Case Name": "Civil Revision",
+      "Caseno": "157",
+      "Caseyear": "1996",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Haji Abdul Shakoor V/S Mst.Pathani and others",
+      "Matter": "Against Judgment",
+      "Last Hearing": "21-DEC-16",
+      "Next Date": "Not Available",
+      "Disposal Date": "21-DEC-16",
+      "Status": "Disposed of",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 94
+    },
+    {
+      "#": "95",
+      "Case Name": "Civil Revision",
+      "Caseno": "158",
+      "Caseyear": "1996",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Haji Abdul Shakoor V/S Mst.Pathani and others",
+      "Matter": "Against Judgment",
+      "Last Hearing": "21-DEC-16",
+      "Next Date": "Not Available",
+      "Disposal Date": "21-DEC-16",
+      "Status": "Disposed of",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 95
+    },
+    {
+      "#": "96",
+      "Case Name": "Civil Revision",
+      "Caseno": "162",
+      "Caseyear": "1996",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Maharaj Shankerpuri V/S Syed Shaukat Ali & others",
+      "Matter": "Against Judgment",
+      "Last Hearing": "10-MAR-25",
+      "Next Date": "03-FEB-25",
+      "Disposal Date": "10-MAR-25",
+      "Status": "Remanded Back",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 96
+    },
+    {
+      "#": "97",
+      "Case Name": "Civil Revision",
+      "Caseno": "163",
+      "Caseyear": "1996",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Mahraj Shannkarpuri V/S Govt of Pakistan and others",
+      "Matter": "Against Judgment",
+      "Last Hearing": "10-MAR-25",
+      "Next Date": "03-FEB-25",
+      "Disposal Date": "10-MAR-25",
+      "Status": "Remanded Back",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 97
+    },
+    {
+      "#": "98",
+      "Case Name": "Civil Revision",
+      "Caseno": "170",
+      "Caseyear": "1996",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Fateh Muhammad & other V/S Province of Sindh and other",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "11-MAY-09",
+      "Next Date": "Not Available",
+      "Disposal Date": "11-MAY-09",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 98
+    },
+    {
+      "#": "99",
+      "Case Name": "Civil Revision",
+      "Caseno": "177",
+      "Caseyear": "1996",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Muhammad Ishaque V/S Town Committee Khipro and others",
+      "Matter": "OTHER",
+      "Last Hearing": "18-DEC-23",
+      "Next Date": "Not Available",
+      "Disposal Date": "Not Available",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 99
+    },
+    {
+      "#": "100",
+      "Case Name": "Civil Revision",
+      "Caseno": "180",
+      "Caseyear": "1996",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Fateh Muhammad and others V/S Province of Sindh and others",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "25-AUG-08",
+      "Next Date": "Not Available",
+      "Disposal Date": "25-AUG-08",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 100
+    },
+    {
+      "#": "101",
+      "Case Name": "Civil Revision",
+      "Caseno": "4",
+      "Caseyear": "1996",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Raees Rasool Bux V/S Ch.Nizamuddin",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "06-APR-09",
+      "Next Date": "Not Available",
+      "Disposal Date": "Not Available",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 101
+    },
+    {
+      "#": "102",
+      "Case Name": "Civil Revision",
+      "Caseno": "44",
+      "Caseyear": "1996",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Quaid-e-Awam University V/S Muhammad Pannah and other",
+      "Matter": "Against Judgment",
+      "Last Hearing": "27-NOV-23",
+      "Next Date": "27-NOV-23",
+      "Disposal Date": "27-NOV-23",
+      "Status": "Remanded Back",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 102
+    },
+    {
+      "#": "103",
+      "Case Name": "Civil Revision",
+      "Caseno": "48",
+      "Caseyear": "1996",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Mateen Khan and other V/S Muhammad Ishaque and another",
+      "Matter": "Against Judgment",
+      "Last Hearing": "19-AUG-25",
+      "Next Date": "28-OCT-24",
+      "Disposal Date": "17-APR-06",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 103
+    },
+    {
+      "#": "104",
+      "Case Name": "Civil Revision",
+      "Caseno": "51",
+      "Caseyear": "1996",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Syed Hameed Shah V/S Badaruddin",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "07-MAR-11",
+      "Next Date": "Not Available",
+      "Disposal Date": "11-OCT-10",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 104
+    },
+    {
+      "#": "105",
+      "Case Name": "Civil Revision",
+      "Caseno": "52",
+      "Caseyear": "1996",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Syed Hameed Shah and other V/S Govt of Sindh and other",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "11-OCT-10",
+      "Next Date": "Not Available",
+      "Disposal Date": "11-OCT-10",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 105
+    },
+    {
+      "#": "106",
+      "Case Name": "Civil Revision",
+      "Caseno": "55",
+      "Caseyear": "1996",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Muhammad Younis V/S Syed Mehboob Ali thr.Lrs.",
+      "Matter": "Against Judgment",
+      "Last Hearing": "30-MAY-18",
+      "Next Date": "Not Available",
+      "Disposal Date": "30-MAY-18",
+      "Status": "Dismissed",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 106
+    },
+    {
+      "#": "107",
+      "Case Name": "Civil Revision",
+      "Caseno": "56",
+      "Caseyear": "1996",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Mst.Anwar Khatoon V/S Choudhry Zaka Ashraf and another",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "01-AUG-11",
+      "Next Date": "Not Available",
+      "Disposal Date": "01-AUG-11",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 107
+    },
+    {
+      "#": "108",
+      "Case Name": "Civil Revision",
+      "Caseno": "6",
+      "Caseyear": "1996",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Market Committee Tando Muhammad Khan V/S M/s.Sindh Abadgar Sugar Mills and other",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "11-OCT-10",
+      "Next Date": "Not Available",
+      "Disposal Date": "11-OCT-10",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 108
+    },
+    {
+      "#": "109",
+      "Case Name": "Civil Revision",
+      "Caseno": "65",
+      "Caseyear": "1996",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Allah Bachayo and others V/S Province of Sindh and others",
+      "Matter": "Against Judgment",
+      "Last Hearing": "19-FEB-24",
+      "Next Date": "19-FEB-24",
+      "Disposal Date": "Not Available",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 109
+    },
+    {
+      "#": "110",
+      "Case Name": "Civil Revision",
+      "Caseno": "71",
+      "Caseyear": "1996",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Allah Nawaz and others V/S Allah Dino and others",
+      "Matter": "OTHER",
+      "Last Hearing": "16-NOV-09",
+      "Next Date": "Not Available",
+      "Disposal Date": "06-MAR-09",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 110
+    },
+    {
+      "#": "111",
+      "Case Name": "Civil Revision",
+      "Caseno": "77",
+      "Caseyear": "1996",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Mst:Abbasi Begum thr:LRs V/S Gulzar Ali and other",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "13-OCT-15",
+      "Next Date": "Not Available",
+      "Disposal Date": "05-OCT-15",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 111
+    },
+    {
+      "#": "112",
+      "Case Name": "Civil Revision",
+      "Caseno": "83",
+      "Caseyear": "1996",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Abdul Latif V/S Jalaluddin and other",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "19-DEC-14",
+      "Next Date": "Not Available",
+      "Disposal Date": "11-MAR-14",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 112
+    },
+    {
+      "#": "113",
+      "Case Name": "Civil Revision",
+      "Caseno": "102",
+      "Caseyear": "1997",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Sindh Oqaf Board V/S Mst: Hidayat Khatoon and other",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "23-AUG-10",
+      "Next Date": "Not Available",
+      "Disposal Date": "23-AUG-10",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 113
+    },
+    {
+      "#": "114",
+      "Case Name": "Civil Revision",
+      "Caseno": "103",
+      "Caseyear": "1997",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Photo and others V/S The State",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "31-JUL-09",
+      "Next Date": "Not Available",
+      "Disposal Date": "Not Available",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 114
+    },
+    {
+      "#": "115",
+      "Case Name": "Civil Revision",
+      "Caseno": "119",
+      "Caseyear": "1997",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Muhammad Rafique V/S Gul Muhammad and other",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "15-APR-16",
+      "Next Date": "Not Available",
+      "Disposal Date": "15-APR-16",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 115
+    },
+    {
+      "#": "116",
+      "Case Name": "Civil Revision",
+      "Caseno": "139",
+      "Caseyear": "1997",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Abdul Salam thr Lrs and others V/S Muhammad Yaqoob and other",
+      "Matter": "Against Judgment",
+      "Last Hearing": "08-MAR-19",
+      "Next Date": "Not Available",
+      "Disposal Date": "02-DEC-16",
+      "Status": "Dismissed due to non-prosecution",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 116
+    },
+    {
+      "#": "117",
+      "Case Name": "Civil Revision",
+      "Caseno": "142",
+      "Caseyear": "1997",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Jan Muhammad and other V/S Abdul Ghafoor and other",
+      "Matter": "Against Judgment",
+      "Last Hearing": "24-FEB-25",
+      "Next Date": "Not Available",
+      "Disposal Date": "24-FEB-25",
+      "Status": "Dismissed due to non-prosecution",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 117
+    },
+    {
+      "#": "118",
+      "Case Name": "Civil Revision",
+      "Caseno": "152",
+      "Caseyear": "1997",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Irshad Ahmed V/S Ghulam Muhammad and other",
+      "Matter": "Against Judgment",
+      "Last Hearing": "21-NOV-22",
+      "Next Date": "Not Available",
+      "Disposal Date": "21-NOV-22",
+      "Status": "Disposed of",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 118
+    },
+    {
+      "#": "119",
+      "Case Name": "Civil Revision",
+      "Caseno": "158",
+      "Caseyear": "1997",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Khimo & Others V/S Government Of Sindh & Others",
+      "Matter": "Against Judgment",
+      "Last Hearing": "11-MAY-17",
+      "Next Date": "Not Available",
+      "Disposal Date": "14-MAR-09",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 119
+    },
+    {
+      "#": "120",
+      "Case Name": "Civil Revision",
+      "Caseno": "16",
+      "Caseyear": "1997",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Kifayatullah V/S Tharo Khan and others",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "23-NOV-17",
+      "Next Date": "Not Available",
+      "Disposal Date": "23-NOV-17",
+      "Status": "Dismissed due to non-prosecution",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 120
+    },
+    {
+      "#": "121",
+      "Case Name": "Civil Revision",
+      "Caseno": "162",
+      "Caseyear": "1997",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Syed Nathan Shah V/S Dildar Shah and other",
+      "Matter": "Against Judgment",
+      "Last Hearing": "27-JAN-25",
+      "Next Date": "27-JAN-25",
+      "Disposal Date": "27-JAN-25",
+      "Status": "Dismissed",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 121
+    },
+    {
+      "#": "122",
+      "Case Name": "Civil Revision",
+      "Caseno": "166",
+      "Caseyear": "1997",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Muhammad Yaseen V/S Govt of Sindh and other",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "29-SEP-14",
+      "Next Date": "Not Available",
+      "Disposal Date": "28-AUG-14",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 122
+    },
+    {
+      "#": "123",
+      "Case Name": "Civil Revision",
+      "Caseno": "176",
+      "Caseyear": "1997",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Mst:Bilquees Begum V/S District Housing Officer and other.",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "22-MAY-07",
+      "Next Date": "Not Available",
+      "Disposal Date": "25-OCT-07",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 123
+    },
+    {
+      "#": "124",
+      "Case Name": "Civil Revision",
+      "Caseno": "177",
+      "Caseyear": "1997",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Nasarullah V/S Mst: Bismillah and other",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "05-AUG-14",
+      "Next Date": "Not Available",
+      "Disposal Date": "05-AUG-14",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 124
+    },
+    {
+      "#": "125",
+      "Case Name": "Civil Revision",
+      "Caseno": "24",
+      "Caseyear": "1997",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Abdul Rehman and others V/S Nazir Ahmed and others",
+      "Matter": "Against Judgment",
+      "Last Hearing": "13-OCT-22",
+      "Next Date": "Not Available",
+      "Disposal Date": "13-OCT-22",
+      "Status": "Dismissed due to non-prosecution",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 125
+    },
+    {
+      "#": "126",
+      "Case Name": "Civil Revision",
+      "Caseno": "248",
+      "Caseyear": "1997",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Muhammad Loung V/S Ch: Jalaluddin.",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "14-MAY-09",
+      "Next Date": "Not Available",
+      "Disposal Date": "14-MAY-09",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 126
+    },
+    {
+      "#": "127",
+      "Case Name": "Civil Revision",
+      "Caseno": "25",
+      "Caseyear": "1997",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Govt.of Sindh and others V/S Muhammad Malook and others",
+      "Matter": "Against Judgment",
+      "Last Hearing": "20-OCT-22",
+      "Next Date": "Not Available",
+      "Disposal Date": "20-OCT-22",
+      "Status": "Disposed of",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 127
+    },
+    {
+      "#": "128",
+      "Case Name": "Civil Revision",
+      "Caseno": "35",
+      "Caseyear": "1997",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Employee Old age benifit V/S M/s. Ambala Bakery & another.",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "14-MAY-09",
+      "Next Date": "Not Available",
+      "Disposal Date": "15-MAY-09",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 128
+    },
+    {
+      "#": "129",
+      "Case Name": "Civil Revision",
+      "Caseno": "61",
+      "Caseyear": "1997",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Khamiso Khan V/S Jamil Ahmed Khan and another",
+      "Matter": "Against Judgment",
+      "Last Hearing": "11-DEC-23",
+      "Next Date": "07-AUG-23",
+      "Disposal Date": "11-DEC-23",
+      "Status": "Disposed of",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 129
+    },
+    {
+      "#": "130",
+      "Case Name": "Civil Revision",
+      "Caseno": "77",
+      "Caseyear": "1997",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Muhammad Qasim V/S Municipal Committee T.Allahyar and ors.",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "25-AUG-15",
+      "Next Date": "Not Available",
+      "Disposal Date": "25-AUG-15",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 130
+    },
+    {
+      "#": "131",
+      "Case Name": "Civil Revision",
+      "Caseno": "78",
+      "Caseyear": "1997",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Syed Mehboob Shah V/S Nisar Hussain Shah",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "20-MAY-11",
+      "Next Date": "Not Available",
+      "Disposal Date": "20-MAY-11",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 131
+    },
+    {
+      "#": "132",
+      "Case Name": "Civil Revision",
+      "Caseno": "82",
+      "Caseyear": "1997",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Miyoon Muhammad Saleh through L.Rs V/S Sajjan and others",
+      "Matter": "Against Judgment",
+      "Last Hearing": "06-MAY-25",
+      "Next Date": "08-OCT-25",
+      "Disposal Date": "Not Available",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 132
+    },
+    {
+      "#": "133",
+      "Case Name": "Civil Revision",
+      "Caseno": "83",
+      "Caseyear": "1997",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Miyoon Muhammad Saleh thr.LRs. V/S Sajan and other",
+      "Matter": "Against Judgment",
+      "Last Hearing": "06-MAY-25",
+      "Next Date": "08-OCT-25",
+      "Disposal Date": "Not Available",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 133
+    },
+    {
+      "#": "134",
+      "Case Name": "Civil Revision",
+      "Caseno": "84",
+      "Caseyear": "1997",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Miyoon Muhammad Saleh thr.LRs V/S Miro and other",
+      "Matter": "Against Judgment",
+      "Last Hearing": "06-MAY-25",
+      "Next Date": "08-OCT-25",
+      "Disposal Date": "Not Available",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 134
+    },
+    {
+      "#": "135",
+      "Case Name": "Civil Revision",
+      "Caseno": "94",
+      "Caseyear": "1997",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Karim Bux V/S Mst:Bano and other",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "10-MAR-15",
+      "Next Date": "Not Available",
+      "Disposal Date": "10-MAR-15",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 135
+    },
+    {
+      "#": "136",
+      "Case Name": "Civil Revision",
+      "Caseno": "95",
+      "Caseyear": "1997",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Muhammad Ibrahim V/S Muhammad Sabir and other",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "10-MAR-15",
+      "Next Date": "Not Available",
+      "Disposal Date": "10-MAR-15",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 136
+    },
+    {
+      "#": "137",
+      "Case Name": "Civil Revision",
+      "Caseno": "103",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Rahim Dino and others V/S Hamid Khan and others",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "12-NOV-10",
+      "Next Date": "Not Available",
+      "Disposal Date": "01-SEP-10",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 137
+    },
+    {
+      "#": "138",
+      "Case Name": "Civil Revision",
+      "Caseno": "104",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Mushtaque Ali & Ors V/S Director General HDA",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "19-SEP-14",
+      "Next Date": "Not Available",
+      "Disposal Date": "28-AUG-14",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 138
+    },
+    {
+      "#": "139",
+      "Case Name": "Civil Revision",
+      "Caseno": "105",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Muhammad Saleem V/S Syed Bashir Ahmed and other",
+      "Matter": "AGAINST DEMOLITION OF MOSQUE",
+      "Last Hearing": "31-OCT-22",
+      "Next Date": "Not Available",
+      "Disposal Date": "31-OCT-22",
+      "Status": "Dismissed due to non-prosecution",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 139
+    },
+    {
+      "#": "140",
+      "Case Name": "Civil Revision",
+      "Caseno": "107",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Shabir Ahmed & Others V/S Muhammad Suleman Thr His Lrs & Others",
+      "Matter": "OTHER",
+      "Last Hearing": "29-AUG-25",
+      "Next Date": "18-SEP-25",
+      "Disposal Date": "Not Available",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 140
+    },
+    {
+      "#": "141",
+      "Case Name": "Civil Revision",
+      "Caseno": "11",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Small Business Corporation & Ors V/S Muhammad Yousuf",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "16-SEP-14",
+      "Next Date": "Not Available",
+      "Disposal Date": "25-AUG-14",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 141
+    },
+    {
+      "#": "142",
+      "Case Name": "Civil Revision",
+      "Caseno": "116",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Yousif and other V/S Province of Sindh and other",
+      "Matter": "Against Judgment",
+      "Last Hearing": "13-DEC-21",
+      "Next Date": "Not Available",
+      "Disposal Date": "13-DEC-21",
+      "Status": "Disposed of",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 142
+    },
+    {
+      "#": "143",
+      "Case Name": "Civil Revision",
+      "Caseno": "118",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Allah Dito & Others V/S Govt: Of Sindh & Others",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "25-JAN-99",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 143
+    },
+    {
+      "#": "144",
+      "Case Name": "Civil Revision",
+      "Caseno": "119",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Abdul Qadir V/S Mubarak & Ors",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "24-JAN-11",
+      "Next Date": "Not Available",
+      "Disposal Date": "24-JAN-11",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 144
+    },
+    {
+      "#": "145",
+      "Case Name": "Civil Revision",
+      "Caseno": "12",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Raja Zulfiqar Akhtar V/S Mst: Khursheed and another",
+      "Matter": "OTHER",
+      "Last Hearing": "21-MAY-10",
+      "Next Date": "Not Available",
+      "Disposal Date": "14-MAY-10",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 145
+    },
+    {
+      "#": "146",
+      "Case Name": "Civil Revision",
+      "Caseno": "120",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Muhammad Qassim & Ors V/S Mubarak & Ors",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "18-MAY-10",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAY-10",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 146
+    },
+    {
+      "#": "147",
+      "Case Name": "Civil Revision",
+      "Caseno": "121",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Muhammad Arshad V/S Ghulam Rasool and another",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "21-FEB-14",
+      "Next Date": "Not Available",
+      "Disposal Date": "21-FEB-14",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 147
+    },
+    {
+      "#": "148",
+      "Case Name": "Civil Revision",
+      "Caseno": "124",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Abdul Latif and other V/S Kaniz Fatima and other",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "Not Available",
+      "Next Date": "Not Available",
+      "Disposal Date": "25-MAR-08",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 148
+    },
+    {
+      "#": "149",
+      "Case Name": "Civil Revision",
+      "Caseno": "128",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Govt of Sindh& Ors V/S Dirya Khan & Ors",
+      "Matter": "Against Judgment",
+      "Last Hearing": "31-AUG-23",
+      "Next Date": "Not Available",
+      "Disposal Date": "Not Available",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 149
+    },
+    {
+      "#": "150",
+      "Case Name": "Civil Revision",
+      "Caseno": "128",
+      "Caseyear": "1998",
+      "Bench": "D",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Govt of Sindh & Others V/S Darya Khan & Others",
+      "Matter": "Land Matters",
+      "Last Hearing": "20-DEC-23",
+      "Next Date": "Not Available",
+      "Disposal Date": "20-DEC-23",
+      "Status": "Disposed of",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 150
+    },
+    {
+      "#": "151",
+      "Case Name": "Civil Revision",
+      "Caseno": "129",
+      "Caseyear": "1998",
+      "Bench": "D",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Govt of Sindh & Others V/S Muhammad Ishaque & Others",
+      "Matter": "Land Matters",
+      "Last Hearing": "20-DEC-23",
+      "Next Date": "Not Available",
+      "Disposal Date": "20-DEC-23",
+      "Status": "Disposed of",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 151
+    },
+    {
+      "#": "152",
+      "Case Name": "Civil Revision",
+      "Caseno": "129",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Govt of Sindh & Ors V/S Muhammad Ishaque &^ Ors",
+      "Matter": "Against Judgment",
+      "Last Hearing": "31-AUG-23",
+      "Next Date": "Not Available",
+      "Disposal Date": "Not Available",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 152
+    },
+    {
+      "#": "153",
+      "Case Name": "Civil Revision",
+      "Caseno": "13",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Dr Abdul Ghani V/S M/s.Danish Enterprises",
+      "Matter": "Against Order",
+      "Last Hearing": "25-APR-25",
+      "Next Date": "17-SEP-25",
+      "Disposal Date": "25-SEP-23",
+      "Status": "Allowed",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 153
+    },
+    {
+      "#": "154",
+      "Case Name": "Civil Revision",
+      "Caseno": "130",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Lakhano through LRs V/S Lakhano thr:LRs",
+      "Matter": "Against Judgment",
+      "Last Hearing": "30-MAY-25",
+      "Next Date": "07-OCT-25",
+      "Disposal Date": "Not Available",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 154
+    },
+    {
+      "#": "155",
+      "Case Name": "Civil Revision",
+      "Caseno": "134",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Abdul Latif & ors V/S Subedar Jamsheed",
+      "Matter": "OTHER",
+      "Last Hearing": "29-MAY-25",
+      "Next Date": "10-OCT-25",
+      "Disposal Date": "02-NOV-16",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 155
+    },
+    {
+      "#": "156",
+      "Case Name": "Civil Revision",
+      "Caseno": "135",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Mst Rashida & Ors V/S Kiufayatullah",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "08-FEB-13",
+      "Next Date": "Not Available",
+      "Disposal Date": "08-FEB-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 156
+    },
+    {
+      "#": "157",
+      "Case Name": "Civil Revision",
+      "Caseno": "136",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Abdul Mateen V/S Kifayatullah & Ors",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "08-FEB-13",
+      "Next Date": "Not Available",
+      "Disposal Date": "08-FEB-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 157
+    },
+    {
+      "#": "158",
+      "Case Name": "Civil Revision",
+      "Caseno": "139",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Dadu & Ors V/S Ziaul Haq &Ors",
+      "Matter": "Against Judgment",
+      "Last Hearing": "23-SEP-22",
+      "Next Date": "Not Available",
+      "Disposal Date": "23-SEP-22",
+      "Status": "Dismissed with Cost",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 158
+    },
+    {
+      "#": "159",
+      "Case Name": "Civil Revision",
+      "Caseno": "140",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Gul Muhammad Shah and ors V/S Ghulam Hyder and other",
+      "Matter": "Against Judgment",
+      "Last Hearing": "12-SEP-22",
+      "Next Date": "Not Available",
+      "Disposal Date": "12-SEP-22",
+      "Status": "Disposed of",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 159
+    },
+    {
+      "#": "160",
+      "Case Name": "Civil Revision",
+      "Caseno": "141",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Gul Muhammad Shah & another V/S Rahim Bux and other",
+      "Matter": "Against Judgment",
+      "Last Hearing": "12-SEP-22",
+      "Next Date": "Not Available",
+      "Disposal Date": "12-SEP-22",
+      "Status": "Disposed of",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 160
+    },
+    {
+      "#": "161",
+      "Case Name": "Civil Revision",
+      "Caseno": "145",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Mir Muhammad Hashim V/S Wali Muhammad",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "27-APR-10",
+      "Next Date": "Not Available",
+      "Disposal Date": "27-APR-10",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 161
+    },
+    {
+      "#": "162",
+      "Case Name": "Civil Revision",
+      "Caseno": "148",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Cantonment Board V/S Shabbir Hussain",
+      "Matter": "Against Judgment",
+      "Last Hearing": "13-NOV-24",
+      "Next Date": "13-NOV-24",
+      "Disposal Date": "13-NOV-24",
+      "Status": "Dismissed due to non-prosecution",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 162
+    },
+    {
+      "#": "163",
+      "Case Name": "Civil Revision",
+      "Caseno": "151",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Muneer Ahmed V/S Liaquat & Ors",
+      "Matter": "Against Judgment",
+      "Last Hearing": "04-MAY-23",
+      "Next Date": "Not Available",
+      "Disposal Date": "Not Available",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 163
+    },
+    {
+      "#": "164",
+      "Case Name": "Civil Revision",
+      "Caseno": "154",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Muhammad Qasim V/S Haji Achar & Ors",
+      "Matter": "Against Judgment",
+      "Last Hearing": "23-AUG-21",
+      "Next Date": "Not Available",
+      "Disposal Date": "23-AUG-21",
+      "Status": "Disposed of",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 164
+    },
+    {
+      "#": "165",
+      "Case Name": "Civil Revision",
+      "Caseno": "157",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Dr.Makhdoom Nazir Ahmed and ors V/S Makhdoom Shabir Ahmed",
+      "Matter": "Against Judgment",
+      "Last Hearing": "06-SEP-21",
+      "Next Date": "Not Available",
+      "Disposal Date": "06-SEP-21",
+      "Status": "Disposed of",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 165
+    },
+    {
+      "#": "166",
+      "Case Name": "Civil Revision",
+      "Caseno": "165",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Bhanji & Ors V/S Swai  & Ors",
+      "Matter": "Against Judgment",
+      "Last Hearing": "11-DEC-23",
+      "Next Date": "Not Available",
+      "Disposal Date": "Not Available",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 166
+    },
+    {
+      "#": "167",
+      "Case Name": "Civil Revision",
+      "Caseno": "166",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Bhanji V/S Sawai &ORs",
+      "Matter": "Against Judgment",
+      "Last Hearing": "11-DEC-23",
+      "Next Date": "Not Available",
+      "Disposal Date": "Not Available",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 167
+    },
+    {
+      "#": "168",
+      "Case Name": "Civil Revision",
+      "Caseno": "172",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Mirza Hashim Baig V/S Abdul Ghaffar and others",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "15-SEP-15",
+      "Next Date": "Not Available",
+      "Disposal Date": "15-SEP-15",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 168
+    },
+    {
+      "#": "169",
+      "Case Name": "Civil Revision",
+      "Caseno": "177",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Shabir Muhammad thr:his L.Rs: V/S Abdul Ghaffar",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "01-APR-11",
+      "Next Date": "Not Available",
+      "Disposal Date": "01-APR-11",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 169
+    },
+    {
+      "#": "170",
+      "Case Name": "Civil Revision",
+      "Caseno": "178",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Latifdino & Ors V/S Mst Bhambho & Ors",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "20-MAY-11",
+      "Next Date": "Not Available",
+      "Disposal Date": "20-MAY-11",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 170
+    },
+    {
+      "#": "171",
+      "Case Name": "Civil Revision",
+      "Caseno": "180",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Hyd.Municipal Corporation V/S Abdul Karim & Ors",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "03-MAY-10",
+      "Next Date": "Not Available",
+      "Disposal Date": "28-APR-10",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 171
+    },
+    {
+      "#": "172",
+      "Case Name": "Civil Revision",
+      "Caseno": "184",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Muhammad Soomar V/S Govt.of Sindh and others",
+      "Matter": "Against Judgment",
+      "Last Hearing": "18-AUG-25",
+      "Next Date": "29-SEP-25",
+      "Disposal Date": "Not Available",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 172
+    },
+    {
+      "#": "173",
+      "Case Name": "Civil Revision",
+      "Caseno": "193",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Gul Hassan V/S Govt. Of Sindh Thr Deputy Commissioner",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "03-SEP-14",
+      "Next Date": "Not Available",
+      "Disposal Date": "03-SEP-14",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 173
+    },
+    {
+      "#": "174",
+      "Case Name": "Civil Revision",
+      "Caseno": "196",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Ali Nawaz and Others V/S Muhammad Panah and Others",
+      "Matter": "Against Judgment",
+      "Last Hearing": "24-OCT-19",
+      "Next Date": "Not Available",
+      "Disposal Date": "24-OCT-19",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 174
+    },
+    {
+      "#": "175",
+      "Case Name": "Civil Revision",
+      "Caseno": "198",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Haji Talib V/S Umar & Ors",
+      "Matter": "Against Judgment",
+      "Last Hearing": "04-NOV-21",
+      "Next Date": "Not Available",
+      "Disposal Date": "04-NOV-21",
+      "Status": "Disposed of",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 175
+    },
+    {
+      "#": "176",
+      "Case Name": "Civil Revision",
+      "Caseno": "200",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Iftikhar Hussain V/S Ishaque Muhammad & Ors",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "09-AUG-10",
+      "Next Date": "Not Available",
+      "Disposal Date": "09-AUG-10",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 176
+    },
+    {
+      "#": "177",
+      "Case Name": "Civil Revision",
+      "Caseno": "201",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Iftikhar Hussain V/S Mst Shamim Fatima & Ors",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "09-AUG-10",
+      "Next Date": "Not Available",
+      "Disposal Date": "09-AUG-10",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 177
+    },
+    {
+      "#": "178",
+      "Case Name": "Civil Revision",
+      "Caseno": "206",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Jan Muhammad & Others V/S Haji Bux & Others",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "26-SEP-14",
+      "Next Date": "Not Available",
+      "Disposal Date": "21-APR-06",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 178
+    },
+    {
+      "#": "179",
+      "Case Name": "Civil Revision",
+      "Caseno": "207",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Jan Muhammad V/S Hadi Bux & Others",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "26-SEP-14",
+      "Next Date": "Not Available",
+      "Disposal Date": "26-SEP-14",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 179
+    },
+    {
+      "#": "180",
+      "Case Name": "Civil Revision",
+      "Caseno": "208",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Dhano & ors V/S Muhammad Siddique & Ors",
+      "Matter": "Against Judgment",
+      "Last Hearing": "27-MAR-23",
+      "Next Date": "Not Available",
+      "Disposal Date": "15-MAY-19",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 180
+    },
+    {
+      "#": "181",
+      "Case Name": "Civil Revision",
+      "Caseno": "21",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Shamsuddin V/S Mst Amna Bibi",
+      "Matter": "OTHER",
+      "Last Hearing": "29-MAY-25",
+      "Next Date": "24-JUL-25",
+      "Disposal Date": "18-NOV-14",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 181
+    },
+    {
+      "#": "182",
+      "Case Name": "Civil Revision",
+      "Caseno": "30",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Mst.Naseem Akhtar V/S Muzaffar Hussain and others",
+      "Matter": "Against Judgment",
+      "Last Hearing": "13-OCT-22",
+      "Next Date": "Not Available",
+      "Disposal Date": "18-MAY-09",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 182
+    },
+    {
+      "#": "183",
+      "Case Name": "Civil Revision",
+      "Caseno": "31",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Mir Muhammad & Ors V/S Dhani Bux",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "08-APR-11",
+      "Next Date": "Not Available",
+      "Disposal Date": "08-APR-11",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 183
+    },
+    {
+      "#": "184",
+      "Case Name": "Civil Revision",
+      "Caseno": "32",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Muhammad Amin & Others V/S Dhani Bux",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "08-APR-11",
+      "Next Date": "Not Available",
+      "Disposal Date": "08-APR-11",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 184
+    },
+    {
+      "#": "185",
+      "Case Name": "Civil Revision",
+      "Caseno": "39",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Abdul Ghaffar V/S Abdul Hamid & Ors",
+      "Matter": "Against Judgment",
+      "Last Hearing": "03-SEP-21",
+      "Next Date": "Not Available",
+      "Disposal Date": "03-SEP-21",
+      "Status": "Disposed of",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 185
+    },
+    {
+      "#": "186",
+      "Case Name": "Civil Revision",
+      "Caseno": "5",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "M/S Gul Brothers V/S Muhammad Fazal and another",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "04-OCT-13",
+      "Next Date": "Not Available",
+      "Disposal Date": "04-OCT-13",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 186
+    },
+    {
+      "#": "187",
+      "Case Name": "Civil Revision",
+      "Caseno": "50",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Gul V/S Jummo & Others",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "07-OCT-15",
+      "Next Date": "Not Available",
+      "Disposal Date": "17-SEP-15",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 187
+    },
+    {
+      "#": "188",
+      "Case Name": "Civil Revision",
+      "Caseno": "61",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Saroop Chand V/S TilakChand",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "07-MAY-10",
+      "Next Date": "Not Available",
+      "Disposal Date": "07-MAY-10",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 188
+    },
+    {
+      "#": "189",
+      "Case Name": "Civil Revision",
+      "Caseno": "65",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Ghulam Haider & Ors V/S Govt of Sindh & Ors",
+      "Matter": "Against Judgment",
+      "Last Hearing": "25-APR-22",
+      "Next Date": "Not Available",
+      "Disposal Date": "25-APR-22",
+      "Status": "Disposed of",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 189
+    },
+    {
+      "#": "190",
+      "Case Name": "Civil Revision",
+      "Caseno": "69",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Haji Muhammad Shafi V/S Province of Sindh & Ors",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "13-MAY-11",
+      "Next Date": "Not Available",
+      "Disposal Date": "13-MAY-11",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 190
+    },
+    {
+      "#": "191",
+      "Case Name": "Civil Revision",
+      "Caseno": "77",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Khalid Ahmed V/S Jamil Ahmed and others",
+      "Matter": "Against Judgment",
+      "Last Hearing": "14-NOV-19",
+      "Next Date": "Not Available",
+      "Disposal Date": "14-NOV-19",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 191
+    },
+    {
+      "#": "192",
+      "Case Name": "Civil Revision",
+      "Caseno": "80",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Mst: Razia Begum & Others V/S Noor Muhammad and Others",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "27-AUG-09",
+      "Next Date": "Not Available",
+      "Disposal Date": "27-AUG-09",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 192
+    },
+    {
+      "#": "193",
+      "Case Name": "Civil Revision",
+      "Caseno": "81",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Faiz Muhammad V/S PRov of Sindh &ORs",
+      "Matter": "Against Judgment",
+      "Last Hearing": "02-JUN-22",
+      "Next Date": "Not Available",
+      "Disposal Date": "Not Available",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 193
+    },
+    {
+      "#": "194",
+      "Case Name": "Civil Revision",
+      "Caseno": "9",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Abdul Sattar and another V/S Toufiq Ahmed and others",
+      "Matter": "Against Judgment",
+      "Last Hearing": "19-AUG-25",
+      "Next Date": "18-SEP-25",
+      "Disposal Date": "Not Available",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 194
+    },
+    {
+      "#": "195",
+      "Case Name": "Civil Revision",
+      "Caseno": "91",
+      "Caseyear": "1998",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Muhammad Din V/S Islamic Republic of Pakistan& Ors.",
+      "Matter": "Against Judgment",
+      "Last Hearing": "12-DEC-22",
+      "Next Date": "Not Available",
+      "Disposal Date": "01-APR-11",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 195
+    },
+    {
+      "#": "196",
+      "Case Name": "Civil Revision",
+      "Caseno": "101",
+      "Caseyear": "1999",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Gul Muhammad Solangi V/S Province of Sindh and other",
+      "Matter": "NATURE OF CASE NOT ENTERED",
+      "Last Hearing": "03-SEP-14",
+      "Next Date": "Not Available",
+      "Disposal Date": "03-SEP-14",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 196
+    },
+    {
+      "#": "197",
+      "Case Name": "Civil Revision",
+      "Caseno": "108",
+      "Caseyear": "1999",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Abdul Majid V/S Dur Muhammad & ORs",
+      "Matter": "OTHER",
+      "Last Hearing": "10-FEB-20",
+      "Next Date": "Not Available",
+      "Disposal Date": "10-FEB-20",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 197
+    },
+    {
+      "#": "198",
+      "Case Name": "Civil Revision",
+      "Caseno": "111",
+      "Caseyear": "1999",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Muhammad Sharif V/S Mian Sajjad Ahmed",
+      "Matter": "Against Judgment",
+      "Last Hearing": "30-NOV-18",
+      "Next Date": "Not Available",
+      "Disposal Date": "30-NOV-18",
+      "Status": "Not Available",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 198
+    },
+    {
+      "#": "199",
+      "Case Name": "Civil Revision",
+      "Caseno": "118",
+      "Caseyear": "1999",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Muhammad Yaqoob and others V/S Mirza Khadim Hussain",
+      "Matter": "Against Judgment",
+      "Last Hearing": "19-DEC-22",
+      "Next Date": "Not Available",
+      "Disposal Date": "19-DEC-22",
+      "Status": "Allowed",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 199
+    },
+    {
+      "#": "200",
+      "Case Name": "Civil Revision",
+      "Caseno": "119",
+      "Caseyear": "1999",
+      "Bench": "S",
+      "Circuitcode": "Hyderabad",
+      "CASE TITLE": "Muhammad Israr & Others V/S Abdul Ghafoor & Others",
+      "Matter": "Against Judgment",
+      "Last Hearing": "16-OCT-23",
+      "Next Date": "Not Available",
+      "Disposal Date": "16-OCT-23",
+      "Status": "Dismissed due to non-prosecution",
+      "Actions": "View",
+      "court": "hyd",
+      "circuit_code": "hyd",
+      "tagline": "NA",
+      "details": {
+        "profile": {
+          "disposal_date": "",
+          "nature_of_disposal": ""
+        },
+        "last_hearing": {
+          "date": "NA",
+          "list": "NA",
+          "stage": "NA",
+          "bench": "NA",
+          "remarks": "NA"
+        },
+        "parties": [],
+        "advocates": {
+          "applicant": [],
+          "respondent": []
+        },
+        "documents": {
+          "petition_memo": "NA",
+          "judgement_order": "NA"
+        },
+        "summary": "NA"
+      },
+      "sr_no": 200
     }
   ]
 }
