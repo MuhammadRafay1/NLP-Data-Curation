@@ -50,6 +50,15 @@ IMPLICIT_WAIT = 3
 REQUESTS_VERIFY = False       # keep requests verify disabled as you had
 MAX_PAGES = 10                # Maximum pages to scrape per subcourt
 
+# Court selection configuration
+# Set to None to scrape all courts, or provide a list of court names to scrape specific ones
+# You can use partial matches (case-insensitive)
+SELECTED_COURTS = ["search-result&CasesSearch[CIRCUITCODE]=13","cases.districtcourtssindh.gos.pk"]        # Examples:
+# SELECTED_COURTS = ["Karachi"]                    # Only Karachi
+# SELECTED_COURTS = ["Karachi", "Hyderabad"]       # Only Karachi and Hyderabad  
+# SELECTED_COURTS = ["khi", "hyd"]                 # Using short names
+# SELECTED_COURTS = None                           # All courts (default)
+
 # Court name mapping
 COURT_NAMES = {
     'khi': 'Karachi',
@@ -111,6 +120,24 @@ def try_int_or(val):
         return int(val)
     except Exception:
         return val
+
+
+def should_scrape_court(court_name, selected_courts):
+    """
+    Check if a court should be scraped based on the selected courts configuration.
+    Returns True if the court should be scraped, False otherwise.
+    """
+    if selected_courts is None:
+        return True  # Scrape all courts
+    
+    # Check if court name matches any of the selected courts (case-insensitive, partial match)
+    court_name_lower = court_name.lower()
+    for selected in selected_courts:
+        selected_lower = selected.lower()
+        if selected_lower in court_name_lower or court_name_lower in selected_lower:
+            return True
+    
+    return False
 
 
 def find_major_courts_selenium(driver):
@@ -549,6 +576,19 @@ def main():
     time.sleep(1.0)  # let JS initialize
     majors = find_major_courts_selenium(driver)
     logging.info(f"Found major courts: {[m['name'] for m in majors]}")
+    
+    # Filter courts based on selection
+    if SELECTED_COURTS:
+        original_count = len(majors)
+        majors = [m for m in majors if should_scrape_court(m['name'], SELECTED_COURTS)]
+        logging.info(f"Filtered to {len(majors)} courts based on selection: {SELECTED_COURTS}")
+        logging.info(f"Selected courts: {[m['name'] for m in majors]}")
+        if len(majors) == 0:
+            logging.warning("No courts matched the selection criteria!")
+            driver.quit()
+            return
+    else:
+        logging.info("Scraping all courts (no filter applied)")
 
     for major in majors:
         logging.info(f"Starting scrape for: {major['name']} (href={major['href']})")
